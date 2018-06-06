@@ -603,7 +603,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 501-600,University of Zaragoza Spain,31046,11.8,5%,55 : 45,28.1,20.1,12.7,49.5,36.7,33.5
 601-800,University of A Coruña Spain,17062,13,2%,52 : 48,16.2,18.3,10,16.6,38.2,23.4
 601-800,Adam Mickiewicz University Poland,40633,15.6,1%,71 : 29,16.5,20,11,15.3,28.7,25.7
-601-800,A GH University of Science and Technology Poland,35569,17,,38 : 62,#VALUE!,14.2,3.7,35.7,-,17.9
+601-800,A GH University of Science and Technology Poland,35569,17,,38 : 62,,14.2,3.7,35.7,-,17.9
 601-800,Ajou University South Korea,12706,11.3,2%,33 : 67,19.2,19.5,11.9,23.9,45.7,20
 601-800,University of Alcalá Spain,30812,25.1,18%,53 : 47,22.0,17.6,11.2,28.3,43.3,50
 601-800,Alexandria University Egypt,127431,23.3,1%,46 : 54,16.1,20.3,8.2,14.1,29.7,33.7
