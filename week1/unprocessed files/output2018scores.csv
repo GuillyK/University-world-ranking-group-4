@@ -2,12 +2,12 @@
 1,University of OxfordUnited Kingdom,94.3,86.7,99.5,99.1,63.7,95.0
 2,University of CambridgeUnited Kingdom,93.2,87.8,97.8,97.5,51.5,93.0
 =3,California Institute of TechnologyUnited States,93.0,90.3,97.5,99.5,92.6,59.7
-=3,Stanford UniversityUnited StatesExplore,93.0,89.1,96.7,99.9,60.5,77.6
+=3,Stanford UniversityUnited States,93.0,89.1,96.7,99.9,60.5,77.6
 5,Massachusetts Institute of TechnologyUnited States,92.5,87.3,91.9,100.0,88.4,87.6
 6,Harvard UniversityUnited States,91.8,84.2,98.4,99.7,46.4,79.7
 7,Princeton UniversityUnited States,91.1,85.7,93.9,99.6,58.0,78.7
 8,Imperial College LondonUnited Kingdom,89.2,81.7,88.7,96.7,71.6,96.6
-9,University of ChicagoUnited StatesExplore,88.6,85.3,90.1,99.4,39.8,69.6
+9,University of ChicagoUnited States,88.6,85.3,90.1,99.4,39.8,69.6
 =10,ETH Zurich – Swiss Federal Institute of Technology ZurichSwitzerland,87.7,76.4,92.0,94.3,60.3,98.1
 =10,University of PennsylvaniaUnited States,87.7,83.7,90.1,98.5,56.9,61.3
 12,Yale UniversityUnited States,87.6,86.7,87.0,98.4,45.1,64.6
@@ -18,9 +18,9 @@
 17,Duke UniversityUnited States,85.1,80.7,80.6,98.3,100.0,62.5
 18,"University of California, BerkeleyUnited States",84.3,77.4,84.5,99.8,37.5,64.5
 19,Cornell UniversityUnited States,84.2,76.2,86.6,97.6,34.6,69.2
-20,Northwestern UniversityUnited StatesExplore,83.3,72.6,86.7,96.9,78.2,59.2
+20,Northwestern UniversityUnited States,83.3,72.6,86.7,96.9,78.2,59.2
 21,University of MichiganUnited States,83.1,77.2,86.3,95.7,46.2,55.8
-=22,National University of SingaporeSingaporeExplore,82.8,77.4,88.2,81.3,61.9,95.8
+=22,National University of SingaporeSingapore,82.8,77.4,88.2,81.3,61.9,95.8
 =22,University of TorontoCanada,82.8,74.6,84.8,92.6,46.5,80.1
 24,Carnegie Mellon UniversityUnited States,81.9,65.8,83.7,99.7,50.4,79.1
 =25,London School of Economics and Political ScienceUnited Kingdom,79.4,71.8,72.0,94.9,33.7,92.2
@@ -28,80 +28,80 @@
 =27,University of EdinburghUnited Kingdom,79.2,66.8,74.2,97.0,36.3,92.0
 =27,New York UniversityUnited States,79.2,73.7,77.4,96.5,37.0,53.4
 =27,Peking UniversityChina,79.2,83.0,85.1,74.2,100.0,53.0
-30,Tsinghua UniversityChinaExplore,79.0,80.2,93.2,71.4,99.8,41.0
+30,Tsinghua UniversityChina,79.0,80.2,93.2,71.4,99.8,41.0
 31,"University of California, San DiegoUnited States",78.7,62.9,79.8,98.6,96.5,51.9
-32,University of MelbourneAustraliaExplore,77.5,64.9,74.2,90.3,70.1,92.7
+32,University of MelbourneAustralia,77.5,64.9,74.2,90.3,70.1,92.7
 33,Georgia Institute of TechnologyUnited States,77.0,59.7,78.9,94.3,60.2,75.0
 =34,University of British ColumbiaCanada,76.2,61.8,72.2,93.4,42.6,92.2
-=34,LMU MunichGermanyExplore,76.2,65.4,72.3,91.3,100.0,66.3
-36,King’s College LondonUnited KingdomExplore,75.6,59.3,71.2,94.4,43.9,94.5
+=34,LMU MunichGermany,76.2,65.4,72.3,91.3,100.0,66.3
+36,King’s College LondonUnited Kingdom,75.6,59.3,71.2,94.4,43.9,94.5
 37,University of Illinois at Urbana-ChampaignUnited States,75.4,65.8,78.9,88.9,56.0,52.8
 =38,École Polytechnique Fédérale de LausanneSwitzerland,75.3,58.8,66.8,94.2,76.0,98.7
 =38,Karolinska InstituteSweden,75.3,57.0,74.4,95.9,71.4,70.3
-40,University of Hong KongHong KongExplore,75.1,68.8,77.9,74.2,54.0,99.5
+40,University of Hong KongHong Kong,75.1,68.8,77.9,74.2,54.0,99.5
 41,Technical University of MunichGermany,73.5,60.3,71.2,88.4,100.0,66.8
 42,McGill UniversityCanada,73.2,63.4,70.8,84.7,39.8,87.5
 43,University of Wisconsin-MadisonUnited States,73.1,68.4,73.9,86.5,45.8,43.4
-44,Hong Kong University of Science and TechnologyHong KongExplore,72.7,55.2,68.4,93.1,58.1,83.4
+44,Hong Kong University of Science and TechnologyHong Kong,72.7,55.2,68.4,93.1,58.1,83.4
 45,Heidelberg UniversityGermany,72.3,63.6,62.2,94.2,56.0,64.7
 46,The University of TokyoJapan,72.2,79.5,85.2,63.7,52.7,32.2
-47,KU LeuvenBelgiumExplore,71.8,54.2,70.9,88.7,99.9,68.3
-48,Australian National UniversityAustraliaExplore,71.6,52.7,72.0,85.5,61.1,94.3
+47,KU LeuvenBelgium,71.8,54.2,70.9,88.7,99.9,68.3
+48,Australian National UniversityAustralia,71.6,52.7,72.0,85.5,61.1,94.3
 49,University of Texas at AustinUnited States,71.4,60.9,68.3,95.7,48.2,36.7
-=50,Brown UniversityUnited StatesExplore,70.8,63.8,57.9,96.7,34.1,59.0
-=50,Washington University in St LouisUnited StatesExplore,70.8,60.8,59.7,99.4,36.9,52.1
-52,"Nanyang Technological University, SingaporeSingaporeExplore",70.5,49.5,63.0,90.7,94.0,95.9
+=50,Brown UniversityUnited States,70.8,63.8,57.9,96.7,34.1,59.0
+=50,Washington University in St LouisUnited States,70.8,60.8,59.7,99.4,36.9,52.1
+52,"Nanyang Technological University, SingaporeSingapore",70.5,49.5,63.0,90.7,94.0,95.9
 53,"University of California, Santa BarbaraUnited States",70.0,50.0,61.5,98.8,82.0,65.4
 =54,"University of California, DavisUnited States",69.5,60.9,64.5,86.0,53.4,63.7
 =54,University of ManchesterUnited Kingdom,69.5,56.3,65.3,84.3,44.1,88.7
 =56,University of MinnesotaUnited States,69.0,57.6,67.9,87.5,90.4,37.7
 =56,University of North Carolina at Chapel HillUnited States,69.0,57.9,61.8,96.7,39.2,41.5
-58,Chinese University of Hong KongHong KongExplore,68.5,57.0,64.4,80.6,56.8,86.6
-59,University of AmsterdamNetherlandsExplore,68.4,51.3,62.6,91.9,49.9,72.2
+58,Chinese University of Hong KongHong Kong,68.5,57.0,64.4,80.6,56.8,86.6
+59,University of AmsterdamNetherlands,68.4,51.3,62.6,91.9,49.9,72.2
 60,Purdue UniversityUnited States,68.2,62.3,68.9,73.4,63.5,69.9
-61,University of SydneyAustraliaExplore,67.8,50.2,63.1,85.9,67.9,84.6
+61,University of SydneyAustralia,67.8,50.2,63.1,85.9,67.9,84.6
 62,Humboldt University of BerlinGermany,67.4,61.9,67.1,76.1,38.6,65.6
 63,Delft University of TechnologyNetherlands,67.3,53.4,72.0,68.5,99.8,88.5
 64,Wageningen University & ResearchNetherlands,67.2,46.6,53.6,95.2,100.0,80.6
 65,University of QueenslandAustralia,67.0,47.6,59.4,87.8,76.2,88.8
 66,University of Southern CaliforniaUnited States,66.8,49.8,58.4,95.6,37.9,63.0
-67,Leiden UniversityNetherlandsExplore,66.0,44.6,63.2,87.8,78.8,70.5
+67,Leiden UniversityNetherlands,66.0,44.6,63.2,87.8,78.8,70.5
 68,Utrecht UniversityNetherlands,65.8,45.5,63.1,89.9,72.6,59.6
 69,"University of Maryland, College ParkUnited States",65.7,49.6,63.0,93.5,38.4,39.0
 =70,Boston UniversityUnited States,65.4,57.1,45.9,97.2,34.0,60.0
 =70,Ohio State UniversityUnited States,65.4,55.5,56.2,88.0,52.0,56.4
-=72,Erasmus University RotterdamNetherlandsExplore,65.2,38.9,57.2,96.7,51.7,80.6
+=72,Erasmus University RotterdamNetherlands,65.2,38.9,57.2,96.7,51.7,80.6
 =72,Paris Sciences & Lettres – PSL UniversityFrance,65.2,57.0,52.0,85.0,48.2,76.7
 =74,Kyoto UniversityJapan,64.9,71.8,78.6,50.9,93.8,28.8
 =74,Seoul National UniversitySouth Korea,64.9,69.3,71.2,60.6,79.8,34.1
 76,University of BristolUnited Kingdom,64.8,45.7,51.2,94.7,39.3,84.8
 77,Pennsylvania State UniversityUnited States,64.6,53.6,64.8,81.6,50.0,44.3
-78,McMaster UniversityCanadaExplore,63.4,45.6,48.8,89.9,89.8,78.1
+78,McMaster UniversityCanada,63.4,45.6,48.8,89.9,89.8,78.1
 79,RWTH Aachen UniversityGermany,63.3,53.4,62.4,72.8,99.7,56.4
-=80,University of GlasgowUnited KingdomExplore,63.2,43.4,48.9,92.6,38.6,90.4
-=80,Monash UniversityAustraliaExplore,63.2,47.4,55.4,80.9,71.5,83.8
+=80,University of GlasgowUnited Kingdom,63.2,43.4,48.9,92.6,38.6,90.4
+=80,Monash UniversityAustralia,63.2,47.4,55.4,80.9,71.5,83.8
 82,University of FreiburgGermany,62.9,47.1,54.3,83.1,100.0,67.2
-=83,University of GroningenNetherlandsExplore,62.8,40.7,54.8,89.0,77.2,74.4
+=83,University of GroningenNetherlands,62.8,40.7,54.8,89.0,77.2,74.4
 =83,Michigan State UniversityUnited States,62.8,55.1,53.3,82.6,35.7,61.2
-85,University of New South WalesAustraliaExplore,62.5,40.9,57.5,82.8,49.8,91.4
+85,University of New South WalesAustralia,62.5,40.9,57.5,82.8,49.8,91.4
 =86,Rice UniversityUnited States,62.2,45.1,41.9,98.7,42.4,72.7
 =86,Uppsala UniversitySweden,62.2,42.9,56.1,84.6,79.5,68.8
 88,Free University of BerlinGermany,62.1,58.7,66.5,60.6,39.8,71.8
 89,Dartmouth CollegeUnited States,62.0,58.5,41.9,93.4,37.9,39.1
-90,University of HelsinkiFinlandExplore,61.7,45.7,56.6,86.9,35.5,53.3
+90,University of HelsinkiFinland,61.7,45.7,56.6,86.9,35.5,53.3
 91,University of WarwickUnited Kingdom,61.6,46.6,52.0,80.4,41.0,91.9
 92,Technical University of BerlinGermany,61.5,49.0,58.0,74.2,97.8,62.4
 93,Lund UniversitySweden,61.3,40.8,52.6,85.9,70.9,76.1
 94,University of TübingenGermany,61.2,45.7,55.4,83.0,55.4,60.8
 =95,University of BaselSwitzerland,60.9,39.8,39.9,91.0,99.9,95.9
-=95,Korea Advanced Institute of Science and Technology (KAIST)South KoreaExplore,60.9,56.3,59.2,70.4,100.0,35.6
+=95,Korea Advanced Institute of Science and Technology (KAIST)South Korea,60.9,56.3,59.2,70.4,100.0,35.6
 97,Durham UniversityUnited Kingdom,60.8,44.8,47.9,84.6,36.8,89.0
 98,Emory UniversityUnited States,60.7,47.1,40.4,98.1,42.3,53.3
 99,"University of California, IrvineUnited States",60.6,43.4,44.9,93.6,43.9,65.2
 =100,University of BonnGermany,60.5,47.3,41.6,91.3,83.5,58.4
 =100,University of Colorado BoulderUnited States,60.5,44.8,45.8,97.4,37.5,42.4
 =100,University of PittsburghUnited States,60.5,45.7,48.7,94.9,39.9,36.8
-103,Maastricht UniversityNetherlandsExplore,60.4,40.2,49.7,79.9,87.6,96.7
+103,Maastricht UniversityNetherlands,60.4,40.2,49.7,79.9,87.6,96.7
 104,University of SheffieldUnited Kingdom,60.1,42.9,45.7,86.8,43.7,85.4
 =105,University of BernSwitzerland,60.0,42.7,43.6,85.4,81.0,85.7
 =105,Vanderbilt UniversityUnited States,60.0,47.7,41.4,96.9,52.8,38.9
@@ -109,16 +109,16 @@
 108,University of MontrealCanada,59.6,44.5,48.9,79.0,65.3,83.2
 =109,Aarhus UniversityDenmark,59.4,37.3,53.6,82.7,67.6,75.3
 =109,University of CopenhagenDenmark,59.4,44.0,39.7,90.6,44.6,79.3
-=111,Sungkyunkwan University (SKKU)South KoreaExplore,59.3,54.1,55.1,69.5,93.7,44.7
-=111,University of Western AustraliaAustraliaExplore,59.3,33.5,46.1,90.6,54.5,91.9
+=111,Sungkyunkwan University (SKKU)South Korea,59.3,54.1,55.1,69.5,93.7,44.7
+=111,University of Western AustraliaAustralia,59.3,33.5,46.1,90.6,54.5,91.9
 =113,University of GöttingenGermany,59.2,47.1,50.3,82.4,33.7,58.6
 =113,University of VirginiaUnited States,59.2,52.4,40.7,89.3,40.6,46.5
-115,École PolytechniqueFranceExplore,59.1,54.4,38.2,75.1,70.8,93.4
+115,École PolytechniqueFrance,59.1,54.4,38.2,75.1,70.8,93.4
 116,Fudan UniversityChina,58.9,59.5,57.5,65.1,53.0,38.7
 =117,Indiana UniversityUnited States,58.7,50.5,46.5,81.9,51.5,50.5
 =117,Trinity College DublinIreland,58.7,45.3,44.8,79.0,41.2,92.1
 =119,University of AlbertaCanada,58.6,47.2,51.2,70.5,63.4,84.8
-=119,City University of Hong KongHong KongExplore,58.6,40.8,48.6,79.4,65.9,84.4
+=119,City University of Hong KongHong Kong,58.6,40.8,48.6,79.4,65.9,84.4
 121,Queen Mary University of LondonUnited Kingdom,58.5,32.8,38.2,96.7,39.1,95.5
 122,Radboud University NijmegenNetherlands,58.4,33.9,50.4,89.4,44.8,68.8
 =123,Georgetown UniversityUnited States,58.3,51.8,37.2,87.5,66.3,49.6
@@ -128,25 +128,25 @@
 =126,Charité - Universitätsmedizin BerlinGermany,58.1,43.3,39.2,88.6,87.5,60.7
 =126,University of SouthamptonUnited Kingdom,58.1,37.9,43.7,86.0,38.5,92.0
 129,Université Catholique de LouvainBelgium,58.0,38.9,52.2,78.6,54.0,76.7
-=130,University of ExeterUnited KingdomExplore,57.8,34.5,39.3,93.7,34.6,88.8
+=130,University of ExeterUnited Kingdom,57.8,34.5,39.3,93.7,34.6,88.8
 =130,University of GenevaSwitzerland,57.8,35.8,43.6,82.9,68.7,98.2
 132,University of Science and Technology of ChinaChina,57.7,52.7,49.1,76.9,81.7,27.9
 133,Karlsruhe Institute of TechnologyGermany,57.6,44.6,47.7,75.7,97.9,62.9
-=134,University of AdelaideAustraliaExplore,57.5,35.9,43.1,85.3,67.3,86.6
+=134,University of AdelaideAustralia,57.5,35.9,43.1,85.3,67.3,86.6
 =134,Stockholm UniversitySweden,57.5,33.1,48.4,89.1,34.5,72.7
 136,University of ZurichSwitzerland,57.4,42.0,36.0,87.0,43.2,90.8
-=137,Pohang University of Science and TechnologySouth KoreaExplore,57.3,47.9,49.8,76.4,99.8,34.3
+=137,Pohang University of Science and TechnologySouth Korea,57.3,47.9,49.8,76.4,99.8,34.3
 =137,University of YorkUnited Kingdom,57.3,40.5,44.9,81.6,34.1,85.3
 139,University of LeedsUnited Kingdom,57.1,42.2,46.7,77.8,38.8,82.1
 140,Pompeu Fabra UniversitySpain,56.9,34.7,38.9,97.1,40.0,62.3
-=141,University of BirminghamUnited KingdomExplore,56.8,36.5,38.3,89.7,37.2,86.3
-=141,Eindhoven University of TechnologyNetherlandsExplore,56.8,41.3,49.0,72.3,100.0,73.9
+=141,University of BirminghamUnited Kingdom,56.8,36.5,38.3,89.7,37.2,86.3
+=141,Eindhoven University of TechnologyNetherlands,56.8,41.3,49.0,72.3,100.0,73.9
 =143,University of FloridaUnited States,56.6,52.8,51.2,68.4,80.7,37.9
 =143,University of St AndrewsUnited Kingdom,56.6,42.9,42.5,76.6,33.6,95.5
 145,University of CologneGermany,56.4,39.8,42.7,84.8,76.8,57.1
 146,University of OsloNorway,56.3,36.0,42.8,86.8,41.9,73.4
-=147,Autonomous University of BarcelonaSpainExplore,56.2,43.3,36.1,89.5,42.1,60.1
-=147,University of NottinghamUnited KingdomExplore,56.2,40.5,41.9,80.5,38.5,84.4
+=147,Autonomous University of BarcelonaSpain,56.2,43.3,36.1,89.5,42.1,60.1
+=147,University of NottinghamUnited Kingdom,56.2,40.5,41.9,80.5,38.5,84.4
 =147,University of SussexUnited Kingdom,56.2,34.1,38.1,89.5,33.3,91.5
 =150,Lancaster UniversityUnited Kingdom,55.9,37.0,40.5,83.2,33.7,91.1
 =150,University of Notre DameUnited States,55.9,49.8,37.9,83.0,35.3,50.7
@@ -174,23 +174,23 @@
 =173,KTH Royal Institute of TechnologySweden,54.2,42.3,46.3,67.0,50.9,83.7
 =173,University of MünsterGermany,54.2,40.3,42.1,81.2,60.8,47.7
 =175,Université Libre de BruxellesBelgium,54.0,32.4,42.2,80.4,48.4,83.2
-=175,Newcastle UniversityUnited KingdomExplore,54.0,33.4,40.8,80.6,41.6,86.7
-=177,University of LiverpoolUnited KingdomExplore,53.9,32.7,34.7,86.8,37.1,89.9
-=177,Zhejiang UniversityChinaExplore,53.9,57.0,63.7,45.1,89.4,25.2
+=175,Newcastle UniversityUnited Kingdom,54.0,33.4,40.8,80.6,41.6,86.7
+=177,University of LiverpoolUnited Kingdom,53.9,32.7,34.7,86.8,37.1,89.9
+=177,Zhejiang UniversityChina,53.9,57.0,63.7,45.1,89.4,25.2
 =179,University of LuxembourgLuxembourg,53.8,26.8,32.4,91.9,39.6,99.8
-=179,University of TwenteNetherlandsExplore,53.8,35.5,47.0,68.5,83.6,85.3
+=179,University of TwenteNetherlands,53.8,35.5,47.0,68.5,83.6,85.3
 181,Paris-Sud UniversityFrance,53.7,40.4,33.1,86.8,32.3,63.5
 =182,École Normale Supérieure de LyonFrance,53.6,40.1,37.8,80.9,37.9,67.3
-=182,Hong Kong Polytechnic UniversityHong KongExplore,53.6,39.1,48.1,67.7,45.8,79.9
+=182,Hong Kong Polytechnic UniversityHong Kong,53.6,39.1,48.1,67.7,45.8,79.9
 184,Scuola Normale Superiore di PisaItaly,53.4,53.7,33.3,75.4,37.7,49.4
 185,University of AberdeenUnited Kingdom,53.3,30.3,33.6,87.1,41.9,93.3
 186,University of MiamiUnited States,53.1,42.5,24.4,90.3,37.2,67.1
-187,University of DundeeUnited KingdomExplore,52.9,26.3,32.0,94.5,43.4,79.8
+187,University of DundeeUnited Kingdom,52.9,26.3,32.0,94.5,43.4,79.8
 =188,University of East AngliaUnited Kingdom,52.8,29.9,31.6,90.5,32.2,85.6
 =188,Shanghai Jiao Tong UniversityChina,52.8,53.5,62.5,44.1,88.9,33.4
 190,Aalto UniversityFinland,52.7,37.8,35.8,79.5,52.5,72.5
 191,University of MassachusettsUnited States,52.6,36.3,32.2,88.8,51.0,54.8
-192,University of AucklandNew ZealandExplore,52.5,32.5,40.7,73.8,67.3,90.6
+192,University of AucklandNew Zealand,52.5,32.5,40.7,73.8,67.3,90.6
 193,Northeastern UniversityUnited States,52.4,35.6,26.8,91.7,35.4,70.1
 194,Lomonosov Moscow State UniversityRussian Federation,52.3,74.2,61.6,15.8,89.0,61.1
 195,Tilburg UniversityNetherlands,52.1,38.4,50.1,61.3,59.0,75.8
@@ -199,9 +199,9 @@
 =198,"University of California, RiversideUnited States",51.7,30.0,30.9,92.3,37.4,63.9
 =198,University of GothenburgSweden,51.7,26.7,39.2,87.5,38.9,62.5
 =198,National Taiwan UniversityTaiwan,51.7,50.4,54.7,53.4,65.0,33.4
-201–250,Aalborg UniversityDenmarkExplore,48.3–51.6,28.2,36.2,84.2,46.5,70.7
+201–250,Aalborg UniversityDenmark,48.3–51.6,28.2,36.2,84.2,46.5,70.7
 201–250,University of AntwerpBelgium,48.3–51.6,34.6,40.1,73.3,75.9,66.3
-201–250,University of BarcelonaSpainExplore,48.3–51.6,32.4,32.5,83.2,34.0,50.6
+201–250,University of BarcelonaSpain,48.3–51.6,32.4,32.5,83.2,34.0,50.6
 201–250,University of BergenNorway,48.3–51.6,29.2,30.6,90.0,35.2,75.3
 201–250,University of BolognaItaly,48.3–51.6,43.6,30.1,80.0,39.1,47.4
 201–250,Brandeis UniversityUnited States,48.3–51.6,28.9,24.3,99.7,33.7,49.8
@@ -210,52 +210,52 @@
 201–250,University of CincinnatiUnited States,48.3–51.6,36.9,30.3,82.0,41.0,35.6
 201–250,Copenhagen Business SchoolDenmark,48.3–51.6,24.2,36.6,80.8,40.4,91.2
 201–250,University of DelawareUnited States,48.3–51.6,27.8,37.5,79.5,91.0,45.4
-201–250,University of Duisburg-EssenGermanyExplore,48.3–51.6,32.8,29.9,88.8,73.8,52.7
+201–250,University of Duisburg-EssenGermany,48.3–51.6,32.8,29.9,88.8,73.8,52.7
 201–250,Florida State UniversityUnited States,48.3–51.6,41.3,42.0,73.3,37.2,47.3
 201–250,University of FribourgSwitzerland,48.3–51.6,34.2,35.0,65.5,58.5,86.9
 201–250,George Washington UniversityUnited States,48.3–51.6,44.8,30.4,77.2,32.6,50.3
-201–250,University of HamburgGermanyExplore,48.3–51.6,43.5,42.0,65.0,67.7,58.0
+201–250,University of HamburgGermany,48.3–51.6,43.5,42.0,65.0,67.7,58.0
 201–250,University of Hawai’i at MānoaUnited States,48.3–51.6,37.3,37.1,76.2,49.9,65.9
 201–250,Hebrew University of JerusalemIsrael,48.3–51.6,39.9,41.7,71.8,36.3,58.2
 201–250,University of IcelandIceland,48.3–51.6,19.5,29.0,93.4,57.3,63.0
 201–250,University of IowaUnited States,48.3–51.6,42.0,34.0,78.2,60.6,35.4
-201–250,James Cook UniversityAustraliaExplore,48.3–51.6,23.4,27.7,89.1,42.9,73.9
+201–250,James Cook UniversityAustralia,48.3–51.6,23.4,27.7,89.1,42.9,73.9
 201–250,University of KielGermany,48.3–51.6,31.5,28.1,94.4,9.1,52.4
-201–250,King Abdulaziz UniversitySaudi ArabiaExplore,48.3–51.6,25.6,15.3,97.3,77.8,92.0
+201–250,King Abdulaziz UniversitySaudi Arabia,48.3–51.6,25.6,15.3,97.3,77.8,92.0
 201–250,University of KonstanzGermany,48.3–51.6,39.1,44.5,65.2,69.9,61.8
-201–250,Korea UniversitySouth KoreaExplore,48.3–51.6,44.7,47.7,49.0,97.7,49.0
+201–250,Korea UniversitySouth Korea,48.3–51.6,44.7,47.7,49.0,97.7,49.0
 201–250,"National University of Ireland, GalwayIreland",48.3–51.6,26.8,30.1,80.5,42.5,80.3
 201–250,Osaka UniversityJapan,48.3–51.6,53.7,57.6,38.7,81.3,33.5
-201–250,University of OtagoNew ZealandExplore,48.3–51.6,31.2,30.7,82.2,45.1,88.6
+201–250,University of OtagoNew Zealand,48.3–51.6,31.2,30.7,82.2,45.1,88.6
 201–250,University of OttawaCanada,48.3–51.6,37.6,37.5,69.1,40.2,73.6
 201–250,Paris Diderot University – Paris 7France,48.3–51.6,30.2,25.8,89.7,32.6,67.7
 201–250,University of PassauGermany,48.3–51.6,30.2,23.6,92.7,40.8,49.0
 201–250,University of PotsdamGermany,48.3–51.6,35.6,41.4,74.3,42.2,55.0
-201–250,Queen’s University BelfastUnited KingdomExplore,48.3–51.6,28.3,32.3,83.1,35.7,94.6
-201–250,Queensland University of TechnologyAustraliaExplore,48.3–51.6,30.7,40.3,73.0,63.2,79.1
+201–250,Queen’s University BelfastUnited Kingdom,48.3–51.6,28.3,32.3,83.1,35.7,94.6
+201–250,Queensland University of TechnologyAustralia,48.3–51.6,30.7,40.3,73.0,63.2,79.1
 201–250,University of ReadingUnited Kingdom,48.3–51.6,34.6,34.9,73.9,36.9,88.8
-201–250,Royal College of Surgeons in IrelandIrelandExplore,48.3–51.6,31.9,21.8,92.8,40.7,88.6
+201–250,Royal College of Surgeons in IrelandIreland,48.3–51.6,31.9,21.8,92.8,40.7,88.6
 201–250,Ruhr University BochumGermany,48.3–51.6,36.6,42.9,62.3,73.2,52.3
-201–250,University of South AustraliaAustraliaExplore,48.3–51.6,31.5,36.3,63.3,81.6,91.8
+201–250,University of South AustraliaAustralia,48.3–51.6,31.5,36.3,63.3,81.6,91.8
 201–250,"St George’s, University of LondonUnited Kingdom",48.3–51.6,21.4,23.4,100.0,35.3,69.9
 201–250,University of StuttgartGermany,48.3–51.6,41.1,48.8,60.0,68.8,52.6
-201–250,University of TampereFinlandExplore,48.3–51.6,25.8,32.4,88.2,51.5,41.6
+201–250,University of TampereFinland,48.3–51.6,25.8,32.4,88.2,51.5,41.6
 201–250,Technical University of DarmstadtGermany,48.3–51.6,39.2,43.7,57.2,95.9,54.3
 201–250,"University of Technology, SydneyAustralia",48.3–51.6,29.7,40.5,71.7,51.0,94.2
 201–250,Tel Aviv UniversityIsrael,48.3–51.6,41.5,52.1,59.4,42.7,49.5
-201–250,University of Texas at DallasUnited StatesExplore,48.3–51.6,25.7,29.4,89.8,41.5,57.7
+201–250,University of Texas at DallasUnited States,48.3–51.6,25.7,29.4,89.8,41.5,57.7
 201–250,Tohoku UniversityJapan,48.3–51.6,49.6,50.6,46.5,68.3,34.7
-201–250,Ulsan National Institute of Science and TechnologySouth KoreaExplore,48.3–51.6,22.9,30.7,95.9,66.0,47.9
-201–250,University College DublinIrelandExplore,48.3–51.6,29.2,37.5,74.0,38.1,89.3
+201–250,Ulsan National Institute of Science and TechnologySouth Korea,48.3–51.6,22.9,30.7,95.9,66.0,47.9
+201–250,University College DublinIreland,48.3–51.6,29.2,37.5,74.0,38.1,89.3
 201–250,University of UtahUnited States,48.3–51.6,37.2,34.1,88.5,46.1,33.0
 201–250,Vita-Salute San Raffaele UniversityItaly,48.3–51.6,34.0,23.1,96.3,32.8,45.7
-201–250,University of WaterlooCanadaExplore,48.3–51.6,35.7,41.7,69.8,42.6,80.0
+201–250,University of WaterlooCanada,48.3–51.6,35.7,41.7,69.8,42.6,80.0
 201–250,Western UniversityCanada,48.3–51.6,41.8,36.1,68.8,55.7,75.2
-201–250,Yonsei University (Seoul campus)South KoreaExplore,48.3–51.6,48.6,50.2,46.1,99.2,54.6
+201–250,Yonsei University (Seoul campus)South Korea,48.3–51.6,48.6,50.2,46.1,99.2,54.6
 251–300,Aix-Marseille UniversityFrance,45.2–48.2,40.2,22.4,70.0,34.4,60.7
 251–300,University of BathUnited Kingdom,45.2–48.2,33.9,31.7,67.3,36.0,88.3
 251–300,University of BayreuthGermany,45.2–48.2,34.4,34.1,67.8,62.7,54.7
-251–300,Bielefeld UniversityGermanyExplore,45.2–48.2,36.9,42.0,58.6,54.5,46.3
+251–300,Bielefeld UniversityGermany,45.2–48.2,36.9,42.0,58.6,54.5,46.3
 251–300,University of BremenGermany,45.2–48.2,36.4,36.5,63.2,45.7,52.1
 251–300,University at BuffaloUnited States,45.2–48.2,38.8,28.5,69.8,44.7,62.5
 251–300,Clark UniversityUnited States,45.2–48.2,23.7,23.7,93.4,32.6,60.0
@@ -265,39 +265,39 @@
 251–300,École des Ponts ParisTechFrance,45.2–48.2,38.1,16.9,74.9,63.3,79.4
 251–300,University of EssexUnited Kingdom,45.2–48.2,33.4,32.0,62.8,32.5,95.8
 251–300,Goethe University FrankfurtGermany,45.2–48.2,32.5,27.8,73.4,38.6,60.7
-251–300,Griffith UniversityAustraliaExplore,45.2–48.2,23.4,29.8,77.7,40.7,82.0
+251–300,Griffith UniversityAustralia,45.2–48.2,23.4,29.8,77.7,40.7,82.0
 251–300,University of HohenheimGermany,45.2–48.2,34.9,28.8,70.0,50.3,51.7
 251–300,University of Illinois at ChicagoUnited States,45.2–48.2,42.1,31.6,68.2,42.1,56.2
 251–300,Indian Institute of ScienceIndia,45.2–48.2,53.8,48.6,44.4,49.5,19.5
 251–300,University of InnsbruckAustria,45.2–48.2,27.5,18.5,77.8,37.5,96.7
 251–300,Johannes Gutenberg University of MainzGermany,45.2–48.2,36.4,23.6,79.8,57.5,55.2
 251–300,Laval UniversityCanada,45.2–48.2,37.7,28.7,70.3,54.7,66.8
-251–300,Macquarie UniversityAustraliaExplore,45.2–48.2,31.3,34.4,70.0,41.0,77.0
+251–300,Macquarie UniversityAustralia,45.2–48.2,31.3,34.4,70.0,41.0,77.0
 251–300,University of MarburgGermany,45.2–48.2,35.7,27.7,75.0,36.6,49.9
 251–300,Medical University of ViennaAustria,45.2–48.2,31.2,13.5,90.2,36.6,84.1
 251–300,Moscow Institute of Physics and TechnologyRussian Federation,45.2–48.2,47.7,41.4,50.0,99.9,51.7
-251–300,University of NewcastleAustraliaExplore,45.2–48.2,28.0,26.9,73.0,62.9,79.9
+251–300,University of NewcastleAustralia,45.2–48.2,28.0,26.9,73.0,62.9,79.9
 251–300,North Carolina State UniversityUnited States,45.2–48.2,35.6,34.5,68.4,42.5,52.8
 251–300,Norwegian University of Science and TechnologyNorway,45.2–48.2,30.7,34.6,68.3,42.0,64.9
 251–300,University of OregonUnited States,45.2–48.2,31.1,30.1,84.7,32.0,37.0
 251–300,Oregon Health and Science UniversityUnited States,45.2–48.2,32.2,15.1,99.0,44.5,24.4
 251–300,University of OuluFinland,45.2–48.2,30.2,30.0,79.1,43.2,53.1
-251–300,Queen’s UniversityCanadaExplore,45.2–48.2,40.0,35.9,61.7,51.0,66.3
+251–300,Queen’s UniversityCanada,45.2–48.2,40.0,35.9,61.7,51.0,66.3
 251–300,University of São PauloBrazil,45.2–48.2,52.9,55.5,31.5,38.1,30.9
 251–300,Simon Fraser UniversityCanada,45.2–48.2,25.6,33.4,75.6,43.5,90.4
 251–300,University of Southern DenmarkDenmark,45.2–48.2,21.4,25.3,83.4,68.8,78.1
 251–300,University of South FloridaUnited States,45.2–48.2,29.6,35.8,74.4,93.0,46.9
 251–300,Stony Brook UniversityUnited States,45.2–48.2,33.0,23.8,84.4,33.4,58.7
-251–300,University of SurreyUnited KingdomExplore,45.2–48.2,30.3,33.1,64.5,46.3,92.7
+251–300,University of SurreyUnited Kingdom,45.2–48.2,30.3,33.1,64.5,46.3,92.7
 251–300,Swansea UniversityUnited Kingdom,45.2–48.2,22.1,25.6,80.4,34.9,79.9
 251–300,Swedish University of Agricultural SciencesSweden,45.2–48.2,30.0,27.1,79.3,98.1,42.5
 251–300,Syracuse UniversityUnited States,45.2–48.2,32.8,28.7,79.5,37.0,45.6
-251–300,Tokyo Institute of TechnologyJapanExplore,45.2–48.2,49.5,52.9,39.8,67.8,35.8
+251–300,Tokyo Institute of TechnologyJapan,45.2–48.2,49.5,52.9,39.8,67.8,35.8
 251–300,University of TrentoItaly,45.2–48.2,26.2,29.6,85.1,39.9,58.2
 251–300,Umeå UniversitySweden,45.2–48.2,24.9,29.8,81.8,34.9,60.6
 251–300,Wake Forest UniversityUnited States,45.2–48.2,34.8,18.4,91.4,38.4,28.2
 251–300,William & MaryUnited States,45.2–48.2,44.9,18.2,84.6,32.6,32.2
-251–300,University of the WitwatersrandSouth AfricaExplore,45.2–48.2,26.6,23.2,76.5,99.9,69.8
+251–300,University of the WitwatersrandSouth Africa,45.2–48.2,26.6,23.2,76.5,99.9,69.8
 251–300,University of WollongongAustralia,45.2–48.2,29.4,33.2,67.1,47.7,88.1
 301–350,Aberystwyth UniversityUnited Kingdom,42.4–45.1,24.2,25.5,76.7,36.6,74.9
 301–350,University of Alaska FairbanksUnited States,42.4–45.1,25.3,23.2,78.3,44.9,52.8
@@ -305,24 +305,24 @@
 301–350,Babol Noshirvani University of TechnologyIran,42.4–45.1,24.8,12.2,99.1,56.1,15.5
 301–350,Bangor UniversityUnited Kingdom,42.4–45.1,25.7,21.4,72.7,33.4,83.8
 301–350,"Birkbeck, University of LondonUnited Kingdom",42.4–45.1,30.5,32.0,62.2,32.4,87.5
-301–350,University of BordeauxFranceExplore,42.4–45.1,31.0,22.0,75.2,34.8,54.3
+301–350,University of BordeauxFrance,42.4–45.1,31.0,22.0,75.2,34.8,54.3
 301–350,Boston CollegeUnited States,42.4–45.1,37.0,20.0,74.1,43.8,53.8
 301–350,Brighton and Sussex Medical SchoolUnited Kingdom,42.4–45.1,18.8,12.9,97.0,31.7,72.0
 301–350,Charles Darwin UniversityAustralia,42.4–45.1,17.9,18.6,88.0,38.8,82.2
 301–350,University of ConnecticutUnited States,42.4–45.1,35.7,28.5,66.8,34.6,48.5
-301–350,Deakin UniversityAustraliaExplore,42.4–45.1,23.3,26.6,72.0,36.2,77.7
+301–350,Deakin UniversityAustralia,42.4–45.1,23.3,26.6,72.0,36.2,77.7
 301–350,University of DenverUnited States,42.4–45.1,35.9,29.8,74.4,35.7,28.8
 301–350,University of Eastern FinlandFinland,42.4–45.1,25.2,26.1,79.1,36.2,49.3
-301–350,Flinders UniversityAustraliaExplore,42.4–45.1,22.9,27.6,77.9,39.4,68.4
+301–350,Flinders UniversityAustralia,42.4–45.1,22.9,27.6,77.9,39.4,68.4
 301–350,Free University of Bozen-BolzanoItaly,42.4–45.1,22.0,14.3,88.6,32.1,68.9
 301–350,George Mason UniversityUnited States,42.4–45.1,28.5,26.4,76.0,33.2,40.8
 301–350,"Goldsmiths, University of LondonUnited Kingdom",42.4–45.1,33.9,26.0,62.0,31.8,77.0
 301–350,Grenoble Alpes UniversityFrance,42.4–45.1,30.9,22.9,74.9,33.8,60.7
 301–350,University of HoustonUnited States,42.4–45.1,36.8,34.1,60.5,37.8,39.8
 301–350,Iowa State UniversityUnited States,42.4–45.1,29.1,31.4,65.3,48.6,53.8
-301–350,University of KentUnited KingdomExplore,42.4–45.1,25.1,23.6,67.8,32.1,90.2
+301–350,University of KentUnited Kingdom,42.4–45.1,25.1,23.6,67.8,32.1,90.2
 301–350,Khalifa University of Science and TechnologyUnited Arab Emirates,42.4–45.1,23.4,18.7,71.4,84.5,97.9
-301–350,Koç UniversityTurkeyExplore,42.4–45.1,25.7,32.1,65.2,84.3,53.8
+301–350,Koç UniversityTurkey,42.4–45.1,25.7,32.1,65.2,84.3,53.8
 301–350,University of LiègeBelgium,42.4–45.1,25.8,33.6,57.9,96.8,71.0
 301–350,Loughborough UniversityUnited Kingdom,42.4–45.1,34.0,32.9,52.7,38.5,74.8
 301–350,Medical University of GrazAustria,42.4–45.1,24.3,15.7,85.8,46.9,74.8
@@ -330,21 +330,21 @@
 301–350,Nagoya UniversityJapan,42.4–45.1,44.9,47.2,43.2,87.2,29.9
 301–350,National Tsing Hua UniversityTaiwan,42.4–45.1,38.0,37.1,59.4,54.8,29.0
 301–350,University of NavarraSpain,42.4–45.1,27.9,24.5,74.6,63.9,59.7
-301–350,University of Nebraska-LincolnUnited StatesExplore,42.4–45.1,32.4,29.6,65.9,37.9,50.4
+301–350,University of Nebraska-LincolnUnited States,42.4–45.1,32.4,29.6,65.9,37.9,50.4
 301–350,Oregon State UniversityUnited States,42.4–45.1,30.1,29.3,72.4,36.5,48.5
 301–350,Polytechnic University of MilanItaly,42.4–45.1,32.2,31.7,65.0,58.1,53.1
 301–350,Rensselaer Polytechnic InstituteUnited States,42.4–45.1,28.9,31.8,71.7,67.3,46.2
 301–350,Rush UniversityUnited States,42.4–45.1,35.3,12.4,88.2,41.3,14.8
 301–350,Sapienza University of RomeItaly,42.4–45.1,38.4,34.7,64.1,41.2,38.9
-301–350,University of StirlingUnited KingdomExplore,42.4–45.1,24.4,25.7,76.2,33.6,76.7
+301–350,University of StirlingUnited Kingdom,42.4–45.1,24.4,25.7,76.2,33.6,76.7
 301–350,University of TartuEstonia,42.4–45.1,24.5,25.3,83.6,33.5,50.4
-301–350,University of TasmaniaAustraliaExplore,42.4–45.1,24.1,30.8,65.4,51.5,82.2
+301–350,University of TasmaniaAustralia,42.4–45.1,24.1,30.8,65.4,51.5,82.2
 301–350,TU Dortmund UniversityGermany,42.4–45.1,34.9,31.1,64.0,45.5,42.0
 301–350,Technion Israel Institute of TechnologyIsrael,42.4–45.1,32.7,34.8,58.6,39.0,64.4
 301–350,"University of Tennessee, KnoxvilleUnited States",42.4–45.1,32.4,21.7,79.2,41.3,42.7
-301–350,Tomsk Polytechnic UniversityRussian FederationExplore,42.4–45.1,29.0,17.7,81.5,69.7,50.9
+301–350,Tomsk Polytechnic UniversityRussian Federation,42.4–45.1,29.0,17.7,81.5,69.7,50.9
 301–350,University of VictoriaCanada,42.4–45.1,24.8,21.9,72.2,41.4,76.7
-301–350,Victoria UniversityAustraliaExplore,42.4–45.1,24.1,23.2,73.4,39.5,71.1
+301–350,Victoria UniversityAustralia,42.4–45.1,24.1,23.2,73.4,39.5,71.1
 301–350,Vienna University of TechnologyAustria,42.4–45.1,37.2,29.2,53.2,67.6,81.1
 301–350,Virginia Polytechnic Institute and State UniversityUnited States,42.4–45.1,33.5,39.6,65.1,43.8,33.5
 301–350,Vrije Universiteit BrusselBelgium,42.4–45.1,30.6,25.6,68.7,51.7,71.6
@@ -352,32 +352,32 @@
 351–400,University of AlabamaUnited States,40.0–42.3,30.0,20.6,76.7,33.3,27.7
 351–400,American UniversityUnited States,40.0–42.3,39.4,23.6,66.8,38.2,32.2
 351–400,Aston UniversityUnited Kingdom,40.0–42.3,23.7,26.4,63.3,33.7,92.1
-351–400,Autonomous University of MadridSpainExplore,40.0–42.3,33.0,28.1,58.4,34.9,49.0
+351–400,Autonomous University of MadridSpain,40.0–42.3,33.0,28.1,58.4,34.9,49.0
 351–400,Brunel University LondonUnited Kingdom,40.0–42.3,28.1,25.4,53.9,36.3,93.1
 351–400,University of CanberraAustralia,40.0–42.3,22.9,25.2,68.0,33.6,65.9
 351–400,University of CanterburyNew Zealand,40.0–42.3,23.7,26.9,60.9,37.9,90.4
-351–400,"City, University of LondonUnited KingdomExplore",40.0–42.3,26.6,26.7,57.8,33.4,93.0
+351–400,"City, University of LondonUnited Kingdom",40.0–42.3,26.6,26.7,57.8,33.4,93.0
 351–400,Colorado State UniversityUnited States,40.0–42.3,28.7,30.9,67.9,36.7,37.7
 351–400,University of Côte d’AzurFrance,40.0–42.3,26.4,14.6,70.4,36.7,81.1
 351–400,University of CreteGreece,40.0–42.3,20.0,17.6,85.9,37.4,47.1
-351–400,Curtin UniversityAustraliaExplore,40.0–42.3,22.6,23.7,60.6,39.5,94.4
+351–400,Curtin UniversityAustralia,40.0–42.3,22.6,23.7,60.6,39.5,94.4
 351–400,Cyprus University of TechnologyCyprus,40.0–42.3,17.8,13.8,88.6,33.0,69.9
 351–400,Drexel UniversityUnited States,40.0–42.3,33.6,16.9,68.5,37.4,49.4
 351–400,Federal University of Toulouse Midi-PyrénéesFrance,40.0–42.3,30.9,25.8,65.4,35.6,61.4
 351–400,University of GeorgiaUnited States,40.0–42.3,30.1,32.3,60.7,34.3,42.6
 351–400,Georgia State UniversityUnited States,40.0–42.3,30.9,24.7,65.4,32.1,39.7
 351–400,Gwangju Institute of Science and TechnologySouth Korea,40.0–42.3,38.6,40.5,40.9,66.8,34.4
-351–400,Hanyang UniversitySouth KoreaExplore,40.0–42.3,35.6,38.1,41.9,84.7,56.4
+351–400,Hanyang UniversitySouth Korea,40.0–42.3,35.6,38.1,41.9,84.7,56.4
 351–400,Heriot-Watt UniversityUnited Kingdom,40.0–42.3,26.2,21.5,65.2,37.8,92.4
 351–400,Higher School of EconomicsRussian Federation,40.0–42.3,32.8,28.7,61.6,39.4,40.5
 351–400,Indian Institute of Technology BombayIndia,40.0–42.3,43.1,37.6,47.8,53.4,19.9
 351–400,Justus Liebig University GiessenGermany,40.0–42.3,32.8,29.4,61.7,40.2,48.0
 351–400,University of KansasUnited States,40.0–42.3,36.2,22.7,63.3,39.1,36.7
 351–400,Kyushu UniversityJapan,40.0–42.3,42.5,40.7,35.7,71.6,33.9
-351–400,La Trobe UniversityAustraliaExplore,40.0–42.3,27.1,33.0,49.8,58.1,79.5
+351–400,La Trobe UniversityAustralia,40.0–42.3,27.1,33.0,49.8,58.1,79.5
 351–400,Leibniz University of HanoverGermany,40.0–42.3,37.3,36.9,47.1,56.3,43.7
 351–400,Linköping UniversitySweden,40.0–42.3,23.4,14.9,78.4,41.9,63.1
-351–400,University of MacauMacaoExplore,40.0–42.3,22.0,26.5,56.7,42.0,98.7
+351–400,University of MacauMacao,40.0–42.3,22.0,26.5,56.7,42.0,98.7
 351–400,University of MalayaMalaysia,40.0–42.3,31.2,26.6,54.4,49.5,77.0
 351–400,Montpellier UniversityFrance,40.0–42.3,34.8,16.7,68.7,35.2,58.7
 351–400,Örebro UniversitySweden,40.0–42.3,18.6,19.7,83.3,33.1,44.4
@@ -385,27 +385,27 @@
 351–400,University of PaviaItaly,40.0–42.3,24.3,21.9,74.7,54.7,44.8
 351–400,University of PisaItaly,40.0–42.3,22.4,20.1,80.1,37.3,38.0
 351–400,Royal Veterinary CollegeUnited Kingdom,40.0–42.3,24.0,18.3,70.8,40.3,84.5
-351–400,Sabancı UniversityTurkeyExplore,40.0–42.3,23.2,35.2,62.1,87.8,46.6
+351–400,Sabancı UniversityTurkey,40.0–42.3,23.2,35.2,62.1,87.8,46.6
 351–400,University of SalernoItaly,40.0–42.3,19.1,15.5,87.8,39.4,33.5
 351–400,University of South CarolinaUnited States,40.0–42.3,33.6,27.8,63.2,33.2,39.8
 351–400,Stellenbosch UniversitySouth Africa,40.0–42.3,28.3,36.1,60.0,7.3,52.6
 351–400,University of StrasbourgFrance,40.0–42.3,29.9,20.9,67.2,35.4,69.4
-351–400,Sun Yat-sen UniversityChinaExplore,40.0–42.3,39.9,32.3,55.9,52.0,32.8
+351–400,Sun Yat-sen UniversityChina,40.0–42.3,39.9,32.3,55.9,52.0,32.8
 351–400,Temple UniversityUnited States,40.0–42.3,34.2,19.1,74.6,36.1,34.3
 351–400,University of TriesteItaly,40.0–42.3,29.6,17.8,75.0,32.5,45.6
 351–400,Tulane UniversityUnited States,40.0–42.3,39.7,14.7,66.1,35.1,39.5
 351–400,University of TurkuFinland,40.0–42.3,25.7,27.6,70.0,33.9,50.3
 351–400,University College CorkIreland,40.0–42.3,28.0,26.9,61.0,45.9,78.5
-351–400,University of VermontUnited StatesExploreApply,40.0–42.3,27.4,20.0,82.8,45.2,26.5
+351–400,University of VermontUnited StatesApply,40.0–42.3,27.4,20.0,82.8,45.2,26.5
 351–400,Université de Versailles Saint-Quentin-en-YvelinesFrance,40.0–42.3,18.4,15.1,85.5,33.9,58.1
 351–400,University of WaikatoNew Zealand,40.0–42.3,21.0,24.1,63.5,39.1,89.2
 351–400,Wayne State UniversityUnited States,40.0–42.3,32.5,16.6,75.1,42.5,36.7
-351–400,York UniversityCanadaExplore,40.0–42.3,30.5,40.9,47.9,37.2,73.9
+351–400,York UniversityCanada,40.0–42.3,30.5,40.9,47.9,37.2,73.9
 401–500,Auckland University of TechnologyNew Zealand,35.0–39.9,19.7,14.2,60.5,33.5,96.1
 401–500,University of Bari Aldo MoroItaly,35.0–39.9,25.0,17.9,70.1,38.9,34.7
 401–500,Bar-Ilan UniversityIsrael,35.0–39.9,27.6,32.7,44.9,59.0,53.3
 401–500,University of BergamoItaly,35.0–39.9,20.2,20.0,69.6,41.5,34.3
-401–500,Bilkent UniversityTurkeyExplore,35.0–39.9,23.3,20.3,67.1,42.8,55.6
+401–500,Bilkent UniversityTurkey,35.0–39.9,23.3,20.3,67.1,42.8,55.6
 401–500,"Binghamton University, State University of New YorkUnited States",35.0–39.9,23.0,19.5,70.3,34.9,42.9
 401–500,Boğaziçi UniversityTurkey,35.0–39.9,21.5,21.4,57.3,55.1,47.7
 401–500,University of BresciaItaly,35.0–39.9,17.5,15.6,73.9,35.2,40.2
@@ -424,17 +424,17 @@
 401–500,University of GreifswaldGermany,35.0–39.9,29.1,20.2,63.6,36.7,46.0
 401–500,Hamburg University of TechnologyGermany,35.0–39.9,34.4,23.1,51.6,87.9,48.9
 401–500,Hasselt UniversityBelgium,35.0–39.9,23.8,27.1,53.9,48.3,57.2
-401–500,Hofstra UniversityUnited StatesExplore,35.0–39.9,32.9,4.8,74.9,31.7,28.5
+401–500,Hofstra UniversityUnited States,35.0–39.9,32.9,4.8,74.9,31.7,28.5
 401–500,Hokkaido UniversityJapan,35.0–39.9,42.1,40.2,33.1,52.0,32.6
-401–500,Hong Kong Baptist UniversityHong KongExplore,35.0–39.9,22.0,13.8,66.9,32.4,84.8
+401–500,Hong Kong Baptist UniversityHong Kong,35.0–39.9,22.0,13.8,66.9,32.4,84.8
 401–500,Huazhong University of Science and TechnologyChina,35.0–39.9,31.2,27.5,50.3,63.9,22.5
 401–500,University of HullUnited Kingdom,35.0–39.9,24.0,21.5,53.1,34.2,73.1
-401–500,Jordan University of Science and TechnologyJordanExplore,35.0–39.9,14.8,7.0,79.4,34.3,64.1
+401–500,Jordan University of Science and TechnologyJordan,35.0–39.9,14.8,7.0,79.4,34.3,64.1
 401–500,University of JyväskyläFinland,35.0–39.9,28.6,28.2,58.4,33.7,50.0
 401–500,University of KaiserslauternGermany,35.0–39.9,34.1,22.8,48.7,73.2,48.5
 401–500,Kazan Federal UniversityRussian Federation,35.0–39.9,25.5,16.5,70.9,38.8,30.1
-401–500,University of KwaZulu-NatalSouth AfricaExplore,35.0–39.9,25.0,30.8,49.8,41.2,59.3
-401–500,Kyung Hee UniversitySouth KoreaExplore,35.0–39.9,29.0,37.0,46.0,82.2,54.3
+401–500,University of KwaZulu-NatalSouth Africa,35.0–39.9,25.0,30.8,49.8,41.2,59.3
+401–500,Kyung Hee UniversitySouth Korea,35.0–39.9,29.0,37.0,46.0,82.2,54.3
 401–500,University of LilleFrance,35.0–39.9,21.1,20.9,62.3,37.4,56.5
 401–500,Louisiana State UniversityUnited States,35.0–39.9,35.1,35.4,52.4,7.7,33.0
 401–500,Makerere UniversityUganda,35.0–39.9,17.5,11.6,75.8,38.1,58.5
@@ -442,17 +442,17 @@
 401–500,Marche Polytechnic UniversityItaly,35.0–39.9,25.3,14.7,79.8,39.0,29.1
 401–500,"University of Maryland, Baltimore CountyUnited States",35.0–39.9,23.6,17.0,70.7,33.4,32.8
 401–500,Massey UniversityNew Zealand,35.0–39.9,22.5,18.9,48.9,37.6,92.5
-401–500,Maynooth UniversityIrelandExplore,35.0–39.9,23.2,27.6,51.0,36.3,78.1
+401–500,Maynooth UniversityIreland,35.0–39.9,23.2,27.6,51.0,36.3,78.1
 401–500,Middlesex UniversityUnited Kingdom,35.0–39.9,19.7,15.1,61.2,32.1,87.0
 401–500,University of Milan-BicoccaItaly,35.0–39.9,28.4,16.5,73.3,43.1,43.6
 401–500,University of MissouriUnited States,35.0–39.9,32.0,19.5,59.8,33.1,36.0
 401–500,University of Modena and Reggio EmiliaItaly,35.0–39.9,18.5,16.8,74.1,40.6,38.0
 401–500,University of MontanaUnited States,35.0–39.9,34.6,17.7,69.9,33.6,25.6
-401–500,Murdoch UniversityAustraliaExplore,35.0–39.9,20.4,23.9,58.9,41.5,91.5
+401–500,Murdoch UniversityAustralia,35.0–39.9,20.4,23.9,58.9,41.5,91.5
 401–500,University of Naples Federico IIItaly,35.0–39.9 ,18.4,24.8,77.5,43.0,28.3
 401–500,National Chiao Tung UniversityTaiwan,35.0–39.9,34.6,41.1,31.5,89.0,35.8
-401–500,National Research Nuclear University MEPhIRussian FederationExplore,35.0–39.9,32.6,25.5,53.1,99.7,49.5
-401–500,National Taiwan University of Science and Technology (Taiwan Tech)TaiwanExplore,35.0–39.9,30.4,43.1,39.9,85.1,36.0
+401–500,National Research Nuclear University MEPhIRussian Federation,35.0–39.9,32.6,25.5,53.1,99.7,49.5
+401–500,National Taiwan University of Science and Technology (Taiwan Tech)Taiwan,35.0–39.9,30.4,43.1,39.9,85.1,36.0
 401–500,University of Nebraska Medical CenterUnited States,35.0–39.9,34.7,10.6,58.6,36.2,41.2
 401–500,University of NeuchâtelSwitzerland,35.0–39.9,23.6,20.9,47.4,33.7,90.9
 401–500,Northern Arizona UniversityUnited States,35.0–39.9,19.7,11.3,91.6,32.1,29.8
@@ -465,10 +465,10 @@
 401–500,Plymouth UniversityUnited Kingdom,35.0–39.9,21.5,19.7,68.6,32.3,68.3
 401–500,Polytechnic University of CataloniaSpain,35.0–39.9,27.1,17.6,55.3,41.6,53.2
 401–500,Polytechnic University of TurinItaly,35.0–39.9,26.9,20.9,68.6,48.1,48.1
-401–500,Qatar UniversityQatarExplore,35.0–39.9,19.8,18.3,60.7,46.1,99.8
+401–500,Qatar UniversityQatar,35.0–39.9,19.8,18.3,60.7,46.1,99.8
 401–500,Quaid-i-azam UniversityPakistan,35.0–39.9,21.6,1.3,81.2,31.7,42.1
 401–500,Reykjavík UniversityIceland,35.0–39.9,14.9,16.0,79.1,33.7,60.1
-401–500,RMIT UniversityAustraliaExplore,35.0–39.9,24.2,20.5,53.3,38.4,87.1
+401–500,RMIT UniversityAustralia,35.0–39.9,24.2,20.5,53.3,38.4,87.1
 401–500,University of Rome II – Tor VergataItaly,35.0–39.9,25.2,15.4,71.9,38.5,43.3
 401–500,University of Rome IIIItaly,35.0–39.9,26.3,10.6,67.3,37.4,38.4
 401–500,Roskilde UniversityDenmark,35.0–39.9,20.0,29.3,52.1,35.0,49.6
@@ -495,18 +495,18 @@
 401–500,University of TurinItaly,35.0–39.9,20.6,20.3,72.3,45.3,43.7
 401–500,UiT The Arctic University of NorwayNorway,35.0–39.9,20.9,17.1,63.5,40.5,68.0
 401–500,University of Urbino Carlo BoItaly,35.0–39.9,17.9,10.0,81.3,34.1,43.4
-401–500,Verona UniversityItalyExplore,35.0–39.9,22.8,11.9,79.8,36.8,42.0
+401–500,Verona UniversityItaly,35.0–39.9,22.8,11.9,79.8,36.8,42.0
 401–500,Victoria University of WellingtonNew Zealand,35.0–39.9,27.6,30.4,48.0,57.2,87.6
 401–500,Western Sydney UniversityAustralia,35.0–39.9,19.1,26.0,62.3,37.1,77.8
 401–500,University of Wisconsin-MilwaukeeUnited States,35.0–39.9,23.2,20.4,65.7,33.4,30.7
-401–500,Wuhan UniversityChinaExplore,35.0–39.9,44.9,33.7,37.5,89.9,37.7
+401–500,Wuhan UniversityChina,35.0–39.9,44.9,33.7,37.5,89.9,37.7
 401–500,Xiamen UniversityChina,35.0–39.9,28.8,24.9,56.4,9.7,28.9
 501–600,Alfaisal UniversitySaudi Arabia,30.7–34.9,16.1,27.3,39.3,54.3,97.4
 501–600,American University of BeirutLebanon,30.7–34.9,25.7,12.2,52.9,38.3,87.5
 501–600,Aristotle University of ThessalonikiGreece,30.7–34.9,20.6,15.9,53.8,38.5,38.2
 501–600,University of ArkansasUnited States,30.7–34.9,26.4,19.5,47.6,44.5,30.0
 501–600,Athens University of Economics and BusinessGreece,30.7–34.9,17.7,22.8,51.8,48.6,45.8
-501–600,Australian Catholic UniversityAustraliaExplore,30.7–34.9,16.8,19.7,59.5,35.3,45.0
+501–600,Australian Catholic UniversityAustralia,30.7–34.9,16.8,19.7,59.5,35.3,45.0
 501–600,University of AveiroPortugal,30.7–34.9,23.5,26.3,45.5,39.8,49.0
 501–600,Blaise Pascal UniversityFrance,30.7–34.9,21.5,6.5,61.1,33.5,62.9
 501–600,Bond UniversityAustralia,30.7–34.9,19.3,23.4,37.6,34.6,88.9
@@ -516,18 +516,18 @@
 501–600,University of CataniaItaly,30.7–34.9,17.2,11.7,70.1,34.3,28.4
 501–600,Catholic University of the Sacred HeartItaly,30.7–34.9,19.7,11.6,62.5,35.3,35.8
 501–600,Central China Normal UniversityChina,30.7–34.9,23.5,9.2,72.5,39.0,28.7
-501–600,Central Queensland UniversityAustraliaExplore,30.7–34.9,27.8,10.1,58.9,34.3,61.2
-501–600,"China Medical University, TaiwanTaiwanExplore",30.7–34.9,24.4,27.1,42.3,79.1,29.3
+501–600,Central Queensland UniversityAustralia,30.7–34.9,27.8,10.1,58.9,34.3,61.2
+501–600,"China Medical University, TaiwanTaiwan",30.7–34.9,24.4,27.1,42.3,79.1,29.3
 501–600,University of CoimbraPortugal,30.7–34.9,25.3,23.4,48.2,37.8,55.1
 501–600,Complutense University of MadridSpain,30.7–34.9,35.2,27.4,38.5,33.5,41.7
-501–600,Concordia UniversityCanadaExplore,30.7–34.9,21.4,24.0,40.3,34.8,80.7
+501–600,Concordia UniversityCanada,30.7–34.9,21.4,24.0,40.3,34.8,80.7
 501–600,Creighton UniversityUnited States,30.7–34.9,37.1,10.3,56.2,35.0,31.1
 501–600,Diego Portales UniversityChile,30.7–34.9,15.7,8.7,74.7,31.8,47.7
-501–600,East China Normal UniversityChinaExplore,30.7–34.9,25.4,20.1,46.9,46.0,47.2
-501–600,Edith Cowan UniversityAustraliaExplore,30.7–34.9,20.4,20.3,52.2,36.4,77.4
+501–600,East China Normal UniversityChina,30.7–34.9,25.4,20.1,46.9,46.0,47.2
+501–600,Edith Cowan UniversityAustralia,30.7–34.9,20.4,20.3,52.2,36.4,77.4
 501–600,Ewha Womans UniversitySouth Korea,30.7–34.9,27.1,26.4,43.0,68.9,42.6
 501–600,Federal University of São Paulo (UNIFESP)Brazil,30.7–34.9,35.8,16.9,41.2,34.0,24.6
-501–600,Federico Santa María Technical UniversityChileExplore,30.7–34.9,14.6,10.7,64.8,40.0,51.7
+501–600,Federico Santa María Technical UniversityChile,30.7–34.9,14.6,10.7,64.8,40.0,51.7
 501–600,University of FerraraItaly,30.7–34.9,21.2,10.2,69.6,34.2,44.8
 501–600,Fujita Health UniversityJapan,30.7–34.9,24.2,7.7,74.5,35.2,17.3
 501–600,University of GranadaSpain,30.7–34.9,22.5,19.2,46.8,32.8,50.1
@@ -545,7 +545,7 @@
 501–600,King Fahd University of Petroleum and MineralsSaudi Arabia,30.7–34.9,26.8,12.8,37.4,61.7,85.5
 501–600,King Saud UniversitySaudi Arabia,30.7–34.9,24.5,27.6,30.7,95.1,78.8
 501–600,Konkuk UniversitySouth Korea,30.7–34.9,33.1,32.5,23.3,39.4,40.5
-501–600,Lappeenranta University of TechnologyFinlandExplore,30.7–34.9,26.7,26.5,32.6,55.8,58.7
+501–600,Lappeenranta University of TechnologyFinland,30.7–34.9,26.7,26.5,32.6,55.8,58.7
 501–600,Lehigh UniversityUnited States,30.7–34.9,24.7,19.9,54.5,36.6,40.5
 501–600,University of LimerickIreland,30.7–34.9,22.1,19.9,46.5,36.0,85.0
 501–600,Lincoln UniversityNew Zealand,30.7–34.9,29.1,16.1,41.8,36.6,83.7
@@ -571,7 +571,7 @@
 501–600,Pontifical Catholic University of ChileChile,30.7–34.9,25.9,25.1,42.5,35.8,53.9
 501–600,Pontifical Javeriana UniversityColombia,30.7–34.9,17.0,8.7,66.6,32.6,44.7
 501–600,University of PortoPortugal,30.7–34.9,27.1,26.9,47.0,39.8,48.3
-501–600,University of PortsmouthUnited KingdomExplore,30.7–34.9,19.1,14.3,57.1,32.1,83.1
+501–600,University of PortsmouthUnited Kingdom,30.7–34.9,19.1,14.3,57.1,32.1,83.1
 501–600,Université du QuébecCanada,30.7–34.9,26.2,22.4,43.4,40.9,62.9
 501–600,Renmin University of ChinaChina,30.7–34.9,42.3,21.4,37.6,38.2,42.6
 501–600,University of SalentoItaly,30.7–34.9,20.1,11.8,62.4,36.6,26.6
@@ -586,24 +586,24 @@
 501–600,University of SplitCroatia,30.7–34.9,16.8,12.5,60.3,33.5,41.7
 501–600,Stevens Institute of TechnologyUnited States,30.7–34.9,20.6,16.2,59.5,33.2,64.2
 501–600,University of the Sunshine CoastAustralia,30.7–34.9,17.1,20.9,46.5,34.4,63.3
-501–600,Tampere University of TechnologyFinlandExplore,30.7–34.9,25.4,15.9,54.2,80.2,51.0
+501–600,Tampere University of TechnologyFinland,30.7–34.9,25.4,15.9,54.2,80.2,51.0
 501–600,University of Texas at ArlingtonUnited States,30.7–34.9,20.8,16.4,51.5,37.7,41.3
 501–600,Texas Tech UniversityUnited States,30.7–34.9,31.0,18.4,39.5,33.1,42.5
 501–600,Tianjin UniversityChina,30.7–34.9,36.9,32.8,28.5,97.1,18.8
-501–600,Tokyo Metropolitan UniversityJapanExplore,30.7–34.9,22.7,13.3,57.8,34.0,24.8
+501–600,Tokyo Metropolitan UniversityJapan,30.7–34.9,22.7,13.3,57.8,34.0,24.8
 501–600,University of ToledoUnited States,30.7–34.9,32.7,13.9,42.9,42.9,41.9
 501–600,Tomsk State UniversityRussian Federation,30.7–34.9,36.7,26.5,32.8,63.6,57.1
-501–600,Universiti Tunku Abdul Rahman (UTAR)MalaysiaExplore,30.7–34.9,15.4,7.8,71.3,32.5,30.8
+501–600,Universiti Tunku Abdul Rahman (UTAR)Malaysia,30.7–34.9,15.4,7.8,71.3,32.5,30.8
 501–600,University of UlsanSouth Korea,30.7–34.9,20.1,20.3,59.4,56.2,20.7
 501–600,Ulster UniversityUnited Kingdom,30.7–34.9,21.0,15.6,50.6,33.0,72.0
-501–600,United Arab Emirates UniversityUnited Arab EmiratesExplore,30.7–34.9,22.9,16.9,49.1,38.4,95.1
+501–600,United Arab Emirates UniversityUnited Arab Emirates,30.7–34.9,22.9,16.9,49.1,38.4,95.1
 501–600,University of ValenciaSpain,30.7–34.9,21.9,18.4,56.2,34.4,42.2
 501–600,University of WarsawPoland,30.7–34.9,25.9,18.3,47.1,32.4,44.6
-501–600,University of the West of ScotlandUnited KingdomExplore,30.7–34.9,14.9,10.9,68.2,32.4,61.4
+501–600,University of the West of ScotlandUnited Kingdom,30.7–34.9,14.9,10.9,68.2,32.4,61.4
 501–600,Xi’an Jiaotong UniversityChina,30.7–34.9,32.7,26.2,35.0,56.0,35.8
 601–800,University of the AegeanGreece,21.5–30.6,17.7,16.4,41.3,32.4,35.4
 601–800,AGH University of Science and TechnologyPoland,21.5–30.6,18.6,12.3,35.6,35.7,20.3
-601–800,The University of AizuJapanExplore,21.5–30.6,19.4,10.0,42.7,34.8,67.5
+601–800,The University of AizuJapan,21.5–30.6,19.4,10.0,42.7,34.8,67.5
 601–800,University of AlcaláSpain,21.5–30.6,20.4,12.2,45.9,40.5,59.8
 601–800,University of AlgarvePortugal,21.5–30.6,19.5,11.2,42.3,33.2,56.9
 601–800,Aligarh Muslim UniversityIndia,21.5–30.6,29.9,10.1,33.1,31.7,23.9
@@ -611,12 +611,12 @@
 601–800,American University of SharjahUnited Arab Emirates,21.5–30.6,15.5,12.5,22.7,35.4,96.2
 601–800,Amirkabir University of TechnologyIran,21.5–30.6,27.4,27.2,35.3,74.4,16.8
 601–800,"University of the Andes, ColombiaColombia",21.5–30.6,21.1,15.0,49.4,39.9,53.2
-601–800,Atılım UniversityTurkeyExplore,21.5–30.6,16.1,7.5,60.0,33.3,34.6
+601–800,Atılım UniversityTurkey,21.5–30.6,16.1,7.5,60.0,33.3,34.6
 601–800,Auburn UniversityUnited States,21.5–30.6,31.8,20.2,30.9,38.9,33.2
 601–800,Babeş-Bolyai UniversityRomania,21.5–30.6,24.8,11.3,32.9,32.2,40.8
 601–800,Banaras Hindu UniversityIndia,21.5–30.6,24.8,15.5,26.4,31.7,16.0
 601–800,University of the Basque CountrySpain,21.5–30.6,21.0,14.8,51.4,34.8,40.8
-601–800,Baylor UniversityUnited StatesExploreApply,21.5–30.6,30.7,16.7,39.2,33.1,27.1
+601–800,Baylor UniversityUnited StatesApply,21.5–30.6,30.7,16.7,39.2,33.1,27.1
 601–800,University of BedfordshireUnited Kingdom,21.5–30.6,17.6,12.0,24.5,32.0,71.8
 601–800,Beihang UniversityChina,21.5–30.6,27.1,30.6,21.0,99.1,24.2
 601–800,Beijing Institute of TechnologyChina,21.5–30.6,29.2,28.5,16.5,93.9,22.1
@@ -628,7 +628,7 @@
 601–800,University of BrightonUnited Kingdom,21.5–30.6,18.2,12.5,39.3,32.7,69.6
 601–800,University of CagliariItaly,21.5–30.6,20.5,6.1,62.6,34.4,36.0
 601–800,Capital Medical UniversityChina,21.5–30.6,26.4,18.9,19.0,32.4,20.5
-601–800,Carlos III University of MadridSpainExplore,21.5–30.6,24.6,15.3,33.6,36.3,56.8
+601–800,Carlos III University of MadridSpain,21.5–30.6,24.6,15.3,33.6,36.3,56.8
 601–800,University of Central LancashireUnited Kingdom,21.5–30.6,17.2,12.5,35.3,32.2,59.3
 601–800,Central South UniversityChina,21.5–30.6,23.6,23.7,26.8,68.4,16.6
 601–800,Chang Gung UniversityTaiwan,21.5–30.6,22.1,25.5,29.9,41.7,19.1
@@ -638,7 +638,7 @@
 601–800,China Agricultural UniversityChina,21.5–30.6,33.3,23.1,34.7,45.2,20.6
 601–800,"China University of Geosciences, BeijingChina",21.5–30.6,27.7,14.5,41.8,50.7,20.6
 601–800,"China University of Geosciences, WuhanChina",21.5–30.6,21.6,15.2,33.5,48.0,21.8
-601–800,Chonbuk National UniversitySouth KoreaExplore,21.5–30.6,21.6,18.7,26.0,37.2,28.3
+601–800,Chonbuk National UniversitySouth Korea,21.5–30.6,21.6,18.7,26.0,37.2,28.3
 601–800,Chonnam National UniversitySouth Korea,21.5–30.6,20.8,14.5,31.1,36.9,24.1
 601–800,Chulalongkorn UniversityThailand,21.5–30.6,27.0,14.9,18.4,73.3,34.8
 601–800,Comenius University in BratislavaSlovakia,21.5–30.6,22.6,11.9,25.3,31.8,49.1
@@ -651,7 +651,7 @@
 601–800,De Montfort UniversityUnited Kingdom,21.5–30.6,18.9,13.6,31.9,31.9,65.5
 601–800,Dublin Institute of TechnologyIreland,21.5–30.6,17.0,10.7,34.6,33.5,77.5
 601–800,East China University of Science and TechnologyChina,21.5–30.6,20.9,17.2,45.9,83.8,30.6
-601–800,Eastern Mediterranean UniversityNorthern CyprusExplore,21.5–30.6,18.0,16.3,36.1,79.5,80.9
+601–800,Eastern Mediterranean UniversityNorthern Cyprus,21.5–30.6,18.0,16.3,36.1,79.5,80.9
 601–800,University of East LondonUnited Kingdom,21.5–30.6,22.4,13.1,18.2,31.8,77.3
 601–800,École Centrale de LyonFrance,21.5–30.6,29.2,15.0,33.9,71.4,61.9
 601–800,École Normale Supérieure de CachanFrance,21.5–30.6,31.3,10.6,42.2,45.0,55.3
@@ -664,7 +664,7 @@
 601–800,Federal University of Rio de JaneiroBrazil,21.5–30.6,30.2,19.8,23.2,40.5,28.3
 601–800,Federal University of Rio Grande do SulBrazil,21.5–30.6,30.0,9.0,30.7,6.1,23.5
 601–800,Florida Atlantic UniversityUnited States,21.5–30.6,19.0,12.9,40.6,1.7,45.5
-601–800,Florida Institute of TechnologyUnited StatesExplore,21.5–30.6,22.4,12.7,26.1,34.7,59.7
+601–800,Florida Institute of TechnologyUnited States,21.5–30.6,22.4,12.7,26.1,34.7,59.7
 601–800,Fuzhou UniversityChina,21.5–30.6,17.5,10.2,54.0,42.1,20.0
 601–800,Gebze Technical UniversityTurkey,21.5–30.6,19.8,10.4,34.7,33.4,26.6
 601–800,Glasgow Caledonian UniversityUnited Kingdom,21.5–30.6,17.1,10.9,42.9,32.7,59.9
@@ -686,7 +686,7 @@
 601–800,Jadavpur UniversityIndia,21.5–30.6,33.3,18.5,33.3,38.6,14.9
 601–800,University of JaénSpain,21.5–30.6,16.7,11.7,39.8,34.2,32.2
 601–800,Jagiellonian UniversityPoland,21.5–30.6,23.1,14.2,37.9,32.7,34.3
-601–800,University of JohannesburgSouth AfricaExplore,21.5–30.6,19.3,23.5,36.3,42.7,55.6
+601–800,University of JohannesburgSouth Africa,21.5–30.6,19.3,23.5,36.3,42.7,55.6
 601–800,Juntendo UniversityJapan,21.5–30.6,32.2,12.4,27.9,48.5,20.1
 601–800,Kagawa UniversityJapan,21.5–30.6,21.6,11.1,33.1,36.9,27.9
 601–800,Kanazawa UniversityJapan,21.5–30.6,27.4,16.7,31.7,33.8,21.5
@@ -711,10 +711,10 @@
 601–800,University of MariborSlovenia,21.5–30.6,18.9,15.3,49.0,39.2,36.7
 601–800,Marquette UniversityUnited States,21.5–30.6,35.1,12.7,30.0,34.6,22.0
 601–800,Middle East Technical UniversityTurkey,21.5–30.6,28.6,20.6,31.9,61.2,29.4
-601–800,University of MinhoPortugalExplore,21.5–30.6,23.2,22.8,35.8,67.6,47.3
+601–800,University of MinhoPortugal,21.5–30.6,23.2,22.8,35.8,67.6,47.3
 601–800,Mississippi State UniversityUnited States,21.5–30.6,19.0,15.8,42.9,34.9,23.1
-601–800,Monterrey Institute of Technology and Higher EducationMexicoExplore,21.5–30.6,24.3,14.8,31.9,80.1,65.4
-601–800,University of MurciaSpainExplore,21.5–30.6,20.1,12.4,32.1,33.0,34.7
+601–800,Monterrey Institute of Technology and Higher EducationMexico,21.5–30.6,24.3,14.8,31.9,80.1,65.4
+601–800,University of MurciaSpain,21.5–30.6,20.1,12.4,32.1,33.0,34.7
 601–800,Nagoya City UniversityJapan,21.5–30.6,23.1,12.5,32.2,42.8,19.5
 601–800,Nanjing Agricultural UniversityChina,21.5–30.6,23.0,16.2,43.1,42.9,18.0
 601–800,Nanjing Medical UniversityChina,21.5–30.6,24.9,22.6,37.6,32.8,19.5
@@ -740,11 +740,11 @@
 601–800,Osaka City UniversityJapan,21.5–30.6,25.2,13.9,26.0,38.7,22.4
 601–800,Otto von Guericke University of MagdeburgGermany,21.5–30.6,23.4,12.8,47.3,41.6,52.9
 601–800,University of OviedoSpain,21.5–30.6,27.0,13.5,49.1,34.1,31.9
-601–800,Palacký University OlomoucCzech RepublicExplore,21.5–30.6,19.3,12.2,45.0,32.5,54.6
+601–800,Palacký University OlomoucCzech Republic,21.5–30.6,19.3,12.2,45.0,32.5,54.6
 601–800,Panjab UniversityIndia,21.5–30.6,27.1,8.6,55.5,31.8,16.0
 601–800,University of PatrasGreece,21.5–30.6,19.1,12.4,37.2,45.1,35.7
 601–800,University of PécsHungary,21.5–30.6,19.4,10.1,39.3,46.9,55.3
-601–800,Peter the Great St Petersburg Polytechnic UniversityRussian FederationExplore,21.5–30.6,28.5,14.8,27.3,53.0,48.8
+601–800,Peter the Great St Petersburg Polytechnic UniversityRussian Federation,21.5–30.6,28.5,14.8,27.3,53.0,48.8
 601–800,University of the PhilippinesPhilippines,21.5–30.6,20.5,10.0,40.0,32.6,39.8
 601–800,Pontifical Catholic University of PeruPeru,21.5–30.6,15.4,5.2,40.6,31.7,51.3
 601–800,Pontifical Catholic University of Rio de Janeiro (PUC-Rio)Brazil,21.5–30.6,27.5,23.1,21.5,99.8,40.3
@@ -752,7 +752,7 @@
 601–800,University of PretoriaSouth Africa,21.5–30.6,25.7,26.5,29.3,63.5,49.9
 601–800,Pusan National UniversitySouth Korea,21.5–30.6,27.1,27.9,28.8,63.1,34.9
 601–800,Universiti Putra MalaysiaMalaysia,21.5–30.6,26.6,23.7,17.2,36.0,61.1
-601–800,University of ReginaCanadaExplore,21.5–30.6,16.9,6.2,42.5,32.5,51.2
+601–800,University of ReginaCanada,21.5–30.6,16.9,6.2,42.5,32.5,51.2
 601–800,Rochester Institute of TechnologyUnited States,21.5–30.6,20.1,17.7,41.2,33.6,37.9
 601–800,University of RoehamptonUnited Kingdom,21.5–30.6,18.8,19.2,16.2,32.1,72.0
 601–800,Universiti Sains MalaysiaMalaysia,21.5–30.6,32.2,17.7,15.0,38.4,45.8
@@ -766,24 +766,24 @@
 601–800,University of SeoulSouth Korea,21.5–30.6,24.9,15.5,22.2,33.9,25.0
 601–800,University of SevilleSpain,21.5–30.6,20.9,15.4,35.7,42.8,34.7
 601–800,Shanghai UniversityChina,21.5–30.6,20.6,15.9,25.5,45.7,23.5
-601–800,Shantou UniversityChinaExplore,21.5–30.6,18.6,10.5,38.3,34.2,33.6
+601–800,Shantou UniversityChina,21.5–30.6,18.6,10.5,38.3,34.2,33.6
 601–800,Sharif University of TechnologyIran,21.5–30.6,25.5,26.5,36.7,96.4,19.6
 601–800,Sichuan UniversityChina,21.5–30.6,30.6,24.5,25.2,71.2,20.7
 601–800,Sogang UniversitySouth Korea,21.5–30.6,27.2,28.3,25.4,48.7,28.6
-601–800,University of Southern QueenslandAustraliaExplore,21.5–30.6,21.9,16.5,26.0,33.1,69.1
+601–800,University of Southern QueenslandAustralia,21.5–30.6,21.9,16.5,26.0,33.1,69.1
 601–800,University of South WalesUnited Kingdom,21.5–30.6,16.5,9.0,38.5,32.3,61.1
 601–800,Suranaree University of TechnologyThailand,21.5–30.6,21.9,10.1,33.6,40.6,32.2
 601–800,University of SzegedHungary,21.5–30.6,20.4,10.8,34.0,35.4,51.7
 601–800,University of TabrizIran,21.5–30.6,25.0,14.6,35.2,41.2,16.0
-601–800,Taipei Medical UniversityTaiwanExplore,21.5–30.6,25.2,26.4,32.1,99.6,31.4
+601–800,Taipei Medical UniversityTaiwan,21.5–30.6,25.2,26.4,32.1,99.6,31.4
 601–800,Tallinn University of TechnologyEstonia,21.5–30.6,17.9,11.8,34.9,45.5,50.7
 601–800,Technical University of MadridSpain,21.5–30.6,23.8,13.6,34.8,43.0,45.0
 601–800,University of Technology of CompiègneFrance,21.5–30.6,23.0,9.5,41.6,38.1,79.1
-601–800,Teesside UniversityUnited KingdomExplore,21.5–30.6,16.5,9.3,38.6,32.0,48.0
+601–800,Teesside UniversityUnited Kingdom,21.5–30.6,16.5,9.3,38.6,32.0,48.0
 601–800,University of TehranIran,21.5–30.6,31.1,21.7,28.2,31.7,21.4
 601–800,Tehran University of Medical SciencesIran,21.5–30.6,44.2,14.0,21.4,35.6,17.7
 601–800,Universiti Teknologi MalaysiaMalaysia,21.5–30.6,31.1,20.4,22.7,38.6,51.1
-601–800,Universiti Teknologi PetronasMalaysiaExplore,21.5–30.6,22.4,23.4,16.1,87.5,63.6
+601–800,Universiti Teknologi PetronasMalaysia,21.5–30.6,22.4,23.4,16.1,87.5,63.6
 601–800,University of Texas at El PasoUnited States,21.5–30.6,20.9,20.6,33.9,31.7,35.7
 601–800,Tezpur UniversityIndia,21.5–30.6,31.4,26.1,36.6,31.9,13.2
 601–800,Tokyo University of Agriculture and TechnologyJapan,21.5–30.6,26.1,22.6,21.3,44.1,23.4
@@ -829,7 +829,7 @@
 801–1000,Cairo UniversityEgypt,15.6–21.4,21.5,11.4,22.6,33.0,32.9
 801–1000,University of CalcuttaIndia,15.6–21.4,33.3,13.3,14.0,33.5,14.6
 801–1000,"California Polytechnic State University, San Luis ObispoUnited States",15.6–21.4,16.6,7.0,33.3,37.0,32.4
-801–1000,University of Castilla-La ManchaSpainExplore,15.6–21.4,18.1,10.4,28.7,33.7,33.3
+801–1000,University of Castilla-La ManchaSpain,15.6–21.4,18.1,10.4,28.7,33.7,33.3
 801–1000,Catholic University of the NorthChile,15.6–21.4,16.3,11.7,12.5,33.2,51.1
 801–1000,Central University of VenezuelaVenezuela,15.6–21.4,16.4,7.3,18.9,31.9,37.6
 801–1000,University of Cergy-PontoiseFrance,15.6–21.4,19.4,9.3,20.8,35.1,63.2
@@ -882,9 +882,9 @@
 801–1000,Iwate UniversityJapan,15.6–21.4,20.7,10.4,16.4,41.7,21.3
 801–1000,Izmir Institute of TechnologyTurkey,15.6–21.4,18.8,9.2,32.3,42.4,29.8
 801–1000,Jamia Millia IslamiaIndia,15.6–21.4,29.2,7.5,25.4,33.8,20.8
-801–1000,Jiangsu UniversityChinaExplore,15.6–21.4,21.5,9.9,16.6,51.5,27.6
+801–1000,Jiangsu UniversityChina,15.6–21.4,21.5,9.9,16.6,51.5,27.6
 801–1000,Jikei University School of MedicineJapan,15.6–21.4,25.5,8.6,28.3,35.1,18.6
-801–1000,Jinan UniversityChinaExplore,15.6–21.4,21.4,13.8,19.1,37.2,44.1
+801–1000,Jinan UniversityChina,15.6–21.4,21.4,13.8,19.1,37.2,44.1
 801–1000,University of JordanJordan,15.6–21.4,19.3,9.1,11.5,34.8,62.8
 801–1000,Kagoshima UniversityJapan,15.6–21.4,21.2,10.9,20.4,38.6,20.8
 801–1000,Kansai Medical UniversityJapan,15.6–21.4,26.9,7.0,28.4,32.2,16.8
@@ -953,8 +953,8 @@
 801–1000,University of SharjahUnited Arab Emirates,15.6–21.4,18.1,8.9,16.5,36.3,99.3
 801–1000,Sheffield Hallam UniversityUnited Kingdom,15.6–21.4,18.3,10.8,24.9,32.1,48.8
 801–1000,Shiga University of Medical ScienceJapan,15.6–21.4,24.8,9.4,27.7,40.9,21.0
-801–1000,Shimane UniversityJapanExplore,15.6–21.4,21.8,10.0,12.6,34.4,18.2
-801–1000,Shinshu UniversityJapanExplore,15.6–21.4,21.3,8.9,28.0,40.0,22.5
+801–1000,Shimane UniversityJapan,15.6–21.4,21.8,10.0,12.6,34.4,18.2
+801–1000,Shinshu UniversityJapan,15.6–21.4,21.3,8.9,28.0,40.0,22.5
 801–1000,Shiraz UniversityIran,15.6–21.4,22.9,20.5,18.4,45.3,16.6
 801–1000,Shizuoka UniversityJapan,15.6–21.4,19.1,12.5,11.4,36.1,24.3
 801–1000,Showa UniversityJapan,15.6–21.4,27.1,8.8,13.2,34.7,15.9
@@ -986,12 +986,12 @@
 801–1000,Toyohashi University of Technology (TUT)Japan,15.6–21.4,21.1,16.7,16.1,46.1,24.2
 801–1000,University of ValparaísoChile,15.6–21.4,15.9,8.2,19.2,32.1,46.3
 801–1000,VIT UniversityIndia,15.6–21.4,17.8,8.9,24.5,33.0,22.6
-801–1000,VŠB - Technical University of OstravaCzech RepublicExplore,15.6–21.4,18.6,13.1,12.8,39.5,30.4
+801–1000,VŠB - Technical University of OstravaCzech Republic,15.6–21.4,18.6,13.1,12.8,39.5,30.4
 801–1000,University of West BohemiaCzech Republic,15.6–21.4,18.5,11.8,13.6,35.7,26.4
 801–1000,West University of TimişoaraRomania,15.6–21.4,20.1,7.8,26.3,31.8,30.7
 801–1000,University of WrocławPoland,15.6–21.4,20.1,10.9,25.8,33.8,32.5
 801–1000,Wuhan University of TechnologyChina,15.6–21.4,19.0,11.2,22.9,54.8,19.0
-801–1000,Xiangtan UniversityChinaExplore,15.6–21.4,15.3,10.6,35.6,36.2,15.9
+801–1000,Xiangtan UniversityChina,15.6–21.4,15.3,10.6,35.6,36.2,15.9
 801–1000,Xidian UniversityChina,15.6–21.4,19.7,13.9,16.4,75.8,16.5
 801–1000,Yamagata UniversityJapan,15.6–21.4,21.0,10.3,23.2,49.9,20.3
 801–1000,Yamaguchi UniversityJapan,15.6–21.4,21.8,9.3,12.6,38.9,22.3
@@ -1032,9 +1032,9 @@
 1001+,Gazi UniversityTurkey,9.2–15.5,18.8,9.1,11.2,36.2,15.7
 1001+,"G.B. Pant University of Agriculture & Technology, PantnagarIndia",9.2–15.5,22.3,7.3,2.2,32.3,12.5
 1001+,University of GdańskPoland,9.2–15.5,17.5,9.3,14.8,32.2,28.8
-1001+,GITAM UniversityIndiaExplore,9.2–15.5,16.0,6.7,9.6,31.9,13.7
+1001+,GITAM UniversityIndia,9.2–15.5,16.0,6.7,9.6,31.9,13.7
 1001+,Government College University LahorePakistan,9.2–15.5,17.5,7.9,4.0,0.0,35.3
-1001+,University of GuadalajaraMexicoExplore,9.2–15.5,16.8,3.0,8.4,31.7,28.9
+1001+,University of GuadalajaraMexico,9.2–15.5,16.8,3.0,8.4,31.7,28.9
 1001+,Guangxi UniversityChina,9.2–15.5,16.0,8.8,9.1,35.6,19.3
 1001+,Hashemite UniversityJordan,9.2–15.5,11.1,7.9,9.7,31.7,46.1
 1001+,University of HyogoJapan,9.2–15.5,17.1,11.6,10.2,38.1,16.9
@@ -1054,7 +1054,7 @@
 1001+,Londrina State UniversityBrazil,9.2–15.5,23.8,9.4,10.6,31.8,16.3
 1001+,Lviv Polytechnic National UniversityUkraine,9.2–15.5,18.2,7.6,3.7,31.8,25.0
 1001+,Maharaja Sayajirao University of BarodaIndia,9.2–15.5,14.5,7.5,13.6,32.2,13.3
-1001+,Manipal UniversityIndiaExplore,9.2–15.5,20.7,9.4,3.5,31.9,25.6
+1001+,Manipal UniversityIndia,9.2–15.5,20.7,9.4,3.5,31.9,25.6
 1001+,Meijo UniversityJapan,9.2–15.5,15.4,8.1,10.2,33.1,21.8
 1001+,Ming Chuan UniversityTaiwan,9.2–15.5,15.3,10.2,7.7,32.4,27.0
 1001+,University of MonastirTunisia,9.2–15.5,17.5,7.3,9.6,31.7,40.9
@@ -1075,18 +1075,18 @@
 1001+,Sathyabama UniversityIndia,9.2–15.5,17.0,7.9,2.1,32.2,13.3
 1001+,Sechenov UniversityRussian Federation,9.2–15.5,23.4,8.4,0.8,33.8,23.9
 1001+,Shanghai Maritime UniversityChina,9.2–15.5,15.2,8.1,16.8,33.8,28.8
-1001+,Shibaura Institute of Technology TokyoJapanExplore,9.2–15.5,17.1,8.5,8.4,35.1,20.6
+1001+,Shibaura Institute of Technology TokyoJapan,9.2–15.5,17.1,8.5,8.4,35.1,20.6
 1001+,Siberian Federal UniversityRussian Federation,9.2–15.5,19.6,9.0,6.2,35.8,16.0
 1001+,Sidi Mohamed Ben Abdellah UniversityMorocco,9.2–15.5,25.6,6.3,9.7,31.8,22.0
 1001+,University of the Sinos ValleyBrazil,9.2–15.5,23.0,12.0,5.6,33.2,17.9
 1001+,Sofia UniversityBulgaria,9.2–15.5,19.6,8.6,9.0,33.0,39.2
 1001+,Southwest Jiaotong UniversityChina,9.2–15.5,18.6,12.0,9.0,76.0,20.2
-1001+,SRM UniversityIndiaExplore,9.2–15.5,16.4,7.3,8.9,31.9,15.9
+1001+,SRM UniversityIndia,9.2–15.5,16.4,7.3,8.9,31.9,15.9
 1001+,State University of MaringáBrazil,9.2–15.5,18.8,9.3,6.0,32.0,15.2
 1001+,State University of Western Paraná (Unioeste)Brazil,9.2–15.5,22.4,4.6,2.4,31.9,13.6
 1001+,Tamil Nadu Agricultural UniversityIndia,9.2–15.5,24.9,8.8,2.8,35.3,14.8
 1001+,Tamkang UniversityTaiwan,9.2–15.5,16.0,11.1,9.3,33.5,25.0
-1001+,Technical University of LiberecCzech RepublicExplore,9.2–15.5,18.5,10.2,4.7,37.1,30.9
+1001+,Technical University of LiberecCzech Republic,9.2–15.5,18.5,10.2,4.7,37.1,30.9
 1001+,Tokyo City UniversityJapan,9.2–15.5,18.5,9.6,11.5,39.3,18.4
 1001+,Tokyo Denki UniversityJapan,9.2–15.5,15.5,7.9,2.9,0.6,17.0
 1001+,Tottori UniversityJapan,9.2–15.5,22.4,8.1,10.8,32.8,18.3
