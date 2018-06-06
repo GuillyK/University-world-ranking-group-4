@@ -12,7 +12,7 @@ n\a vervangen door 'None'
 Tabellen samenvoegen ranking en scores naar één tabel
 
 6 Juni:
-outliers van ratio bekijken
+outliers van ratio bekijken \\
   aangepast:
   * Washington University 
   * Griffith University
