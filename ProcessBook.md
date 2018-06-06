@@ -13,6 +13,11 @@ Tabellen samenvoegen ranking en scores naar één tabel
 
 6 Juni:
 outliers van ratio bekijken
+  aangepast:
+  * Washington University 
+  * Griffith University
+  * Czech tech
+  * AGH Poland
 zelf scores bereken waar deze missen met gegeven formule
 
 |   |Gezamenlijk |Charlotte |Guilly   |Nienke   |Tobias   | 
