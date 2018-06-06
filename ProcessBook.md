@@ -18,7 +18,7 @@ outliers van ratio bekijken \\
   * Griffith University
   * Czech tech
   * AGH Poland
-zelf scores bereken waar deze missen met gegeven formule
+zelf scores bereken waar deze missen met gegeven formule\\
 size of universities added. small <= 5000. 5000 < medium <= 15000. Large > 15000
 
 |   |Gezamenlijk |Charlotte |Guilly   |Nienke   |Tobias   | 
