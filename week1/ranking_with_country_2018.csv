@@ -1096,6 +1096,6 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 1001-,Yazd University,13600,23.9,nan,56,13,14.6,9.9,14.8,0.4,15.5,medium,Iran
 1001-,Yeditepe University,23260,25.1,0.01,52,11.7,15.4,8,9.7,0.2,23.4,large,Turkey
 1001-,University of Zanjan,10305,25.8,nan,55,14.6,16.2,9.4,15.7,38.3,17.3,medium,Iran
-,,,,nan,,,,,,,,,
-,1,,,nan,,,,,,,,,
-,_,,,nan,,,,,,,,,
+,,,,,,,,,,,,,
+,1,,,,,,,,,,,,
+,_,,,,,,,,,,,,
