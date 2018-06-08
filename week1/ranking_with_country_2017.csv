@@ -459,7 +459,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 401—500,University of Naples Federico II,82500,61.2,,56 : 44,35.8,21.6,12.4,76.3,40.1,22.2,large,Italy
 401—500,National Cheng Kung University (NCKU),21157,14.3,11,36 : 64,34,30.4,38,29.2,99.4,29.9,large,Taiwan
 401—500,National Chiao Tung University,12609,17.1,6,27 : 73,37.3,33,40.2,35.3,89.3,33.4,medium,Taiwan
-401—500,National Research Nuclear University MEPh,7297,9.8,10,29 : 71,37.3,38,27.2,41.9,99.7,35.9,medium,IRussian Federation
+401—500,National Research Nuclear University MEPh,7297,9.8,10,29 : 71,37.3,38,27.2,41.9,99.7,35.9,medium,Russian Federation
 401—500,National Taiwan University of Science and Technology (Taiwan Tech),8070,19,11,31 : 69,36.9,30.1,40.5,38.5,70.1,32.3,medium,Taiwan
 401—500,University of Neuchâtel,4208,8.8,22,60 : 40,34.3,24.9,17.6,46.1,34,91.4,small,Switzerland
 401—500,New Mexico State University,14479,17.8,7,53 : 47,33.4,19.8,21,59.3,36.9,33,medium,United States
@@ -922,7 +922,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 > 800,SRM University,42345,15.6,2,23 : 77,10.7,14.9,7.2,7.1,32.6,14.8,large,India
 > 800,Saitama University,7459,11.7,2,33 : 67,18.4,19.1,11,22.8,33.3,22.6,medium,Japan
 > 800,Saitama Medical University,1888,1.5,1,53 : 47,17.4,22.8,7.3,21.3,37.2,13.5,small,Japan
-> 800,Samara State Aerospace University,6833,10.2,4,,14.8,18.3,7.4,16,46.5,15.4,medium,Russian Federation
+> 800,Samara State Aerospace University,6833,10.2,4,,14.8,18.3,7.4,16,46.5,15.4,medium,    Federation
 > 800,University of Santiago- Chile (USACH),22720,20.7,1,40 : 60,14.7,15.9,10.8,9.6,32.3,40.4,large,Chile
 > 800,Sathyabama University,15918,20.1,1,45 : 55,9.7,14.8,7.9,3.7,32.4,12.4,large,India
 > 800,Sechenov University,16774,9,11,56 : 44,13.2,25.4,9.1,0.7,33.4,23.8,large,Russian Federation
