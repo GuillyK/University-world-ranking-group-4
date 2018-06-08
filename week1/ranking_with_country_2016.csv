@@ -281,7 +281,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 251-300,National University of Ireland,14067,26.8,14,56 : 44,43.1,27.3,25.4,68.5,41.9,76.5,medium,Ireland
 251-300,University of Newcastle,23508,21.9,18,56 : 44,43.6,27.4,26.5,67.2,64.4,75.9,large,Australia
 251-300,North Carolina State University,30533,13.6,11,44 : 56,42.7,36.1,30.5,60,40.7,49,large,United States
-251-300,National Research Nuclear University MEPh,7801,7.3,7,29 : 71,42.2,44.9,27.8,52.8,99.8,27.5,medium,IRussian Federation
+251-300,National Research Nuclear University MEPh,7801,7.3,7,29 : 71,42.2,44.9,27.8,52.8,99.8,27.5,medium,Russian Federation
 251-300,Oregon State University,22578,16.8,8,47 : 53,40.9,30.6,28.5,63.8,32.1,42.8,large,United States
 251-300,Osaka University,23144,7.8,9,31 : 69,42.7,46.8,45.2,37.4,76.1,26.6,large,Japan
 251-300,Queen’s University,20488,22.1,10,58 : 42,43.8,35.8,35.8,54.4,54.2,61.6,large,Canada
@@ -717,7 +717,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 601-800,National Taipei University of Technology,10227,16.5,3,25 : 75,17.9,17.8,14.6,16.4,81.3,16,medium,Taiwan
 601-800,National Taiwan Ocean University,8240,20.9,5,30 : 70,19.9,18.1,21,18.2,49.3,20.3,medium,Taiwan
 601-800,National University of Córdoba,108373,38.1,2,62 : 38,14.1,16,9,12.5,28.6,28.1,large,Argentina
-601-800,National University of Science and Technology (MISis),4441,6.7,13,43 : 57,20.1,24.8,17.5,10.8,67.2,33.7,small,S)Russian Federation
+601-800,National University of Science and Technology (MISis),4441,6.7,13,43 : 57,20.1,24.8,17.5,10.8,67.2,33.7,small,Russian Federation
 601-800,National University of Sciences and Technology,9808,7.8,3,27 : 73,22.2,21.4,7,35,31.3,31.3,medium,Pakistan
 601-800,Niigata University,12460,8.5,3,37 : 63,17.1,21.9,10.1,17.5,33,19.3,medium,Japan
 601-800,Northumbria University,22750,19.3,16,55 : 45,22.2,17.7,10.9,29.2,29.1,55.1,large,United Kingdom
