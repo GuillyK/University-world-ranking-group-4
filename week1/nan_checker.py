@@ -17,21 +17,21 @@ def nan_checker(file, nan_column, output_column):
             counter3 = 0
             if math.isnan(value):
                 uni1 = data[output_column][counter]
-                for same in next_data['name']:
+                for same in next_data[output_column]:
                     
                     if same == uni1:
                         print(same, uni1)
-                        print(next_data['ratio'][counter2])
-                        nan = next_data['ratio'][counter2]
+                        print(next_data[nan_column][counter2])
+                        nan = next_data[nan_column][counter2]
                     counter2 += 1
                 #print(next_data[])
                
-                for same2 in next2_data['name']:
+                for same2 in next2_data[output_column]:
                     
                     if same2 == uni1:
                         print(same2, uni1)
-                        print(next2_data['ratio'][counter3])
-                        nan2 = next2_data['ratio'][counter3]
+                        print(next2_data[nan_column][counter3])
+                        nan2 = next2_data[nan_column][counter3]
                     counter3 += 1
                 if math.isnan(nan) and math.isnan(nan2):
                     nan_list.append(uni1)
