@@ -15,6 +15,8 @@ def nan_checker(file, nan_column, output_column):
         for value in data[nan_column]:
             counter2 = 0
             counter3 = 0
+            value = float(value)
+            print(value)
             if math.isnan(value):
                 uni1 = data[output_column][counter]
                 for same in next_data[output_column]:
@@ -41,4 +43,4 @@ def nan_checker(file, nan_column, output_column):
         print(nan_list)
 
         
-nan_checker("../DATA/ranking_with_country_2016.csv", "ratio", "name")
+nan_checker("../DATA/ranking_with_country_2016.csv", "industry_income", "name")
