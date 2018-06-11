@@ -26,9 +26,5 @@ size of universities added. small <= 5000. 5000 < medium <= 15000. Large > 15000
 8 Juni:
 Missing values proberen in te vullen besloten.
 
-
-|   |Gezamenlijk |Charlotte |Guilly   |Nienke   |Tobias   | 
-|---|---|---|---|---|---|
-|03/06 |   |   |   |   |   |
-|04/06 |   |   |   |   |   |
-|05/06   |   |   |   |   |    |
+11 juni:
+Missing ratio values used from other years
