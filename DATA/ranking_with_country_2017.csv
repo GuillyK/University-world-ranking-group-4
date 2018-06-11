@@ -236,7 +236,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 201—250,Queensland University of Technology,34398,36.3,0.17,54,47.4,28.4,37.9,67.4,58.9,77.9,large,Australia
 201—250,Queen’s University,21015,22.6,0.11,58,46.3,38.9,34.8,60.9,41.7,64.7,large,Canada
 201—250,Queen’s University Belfast,17348,16.1,0.32,55,50.4,31.2,31.9,78.3,37.1,94.3,large,United Kingdom
-201—250,Royal College of Surgeons in Ireland,2184,18.2,0.62,,48.4,35.5,18.6,81.7,37.1,89.5,small,Ireland
+201—250,Royal College of Surgeons in Ireland,2184,18.2,0.62,55,48.4,35.5,18.6,81.7,37.1,89.5,small,Ireland
 201—250,Shanghai Jiao Tong University,36535,12.3,0.06,41,49.4,51.9,56.5,41.5,90.5,29.3,large,China
 201—250,Simon Fraser University,26607,28.3,0.29,55,47.7,23.8,31.9,77,47.5,89.3,large,Canada
 201—250,University of South Florida,32016,19,0.11,,47.1,27.8,34.9,75.2,95.8,44.4,large,United States
@@ -245,7 +245,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 201—250,University of Stuttgart,15721,30.3,0.14,30,48.1,42.3,44.5,53.4,100,47.2,large,Germany
 201—250,University of Technology- Sydney,25069,44,0.35,52,50.3,27.1,40,73.8,44.2,92.3,large,Australia
 201—250,Technical University of Darmstadt,20719,51.9,0.18,28,46.6,38.2,43,52.5,95.1,54.7,large,Germany
-201—250,Tel Aviv University,23663,24,0.04,,49,41,51.1,55.1,45.3,49.1,large,Israel
+201—250,Tel Aviv University,23663,24,0.04,54,49,41,51.1,55.1,45.3,49.1,large,Israel
 201—250,University of Texas at Dallas,17825,25,0.25,44,50,26.9,32.5,90.4,43.3,53.1,large,United States
 201—250,Tohoku University,17349,5.4,0.09,26,48.1,48.6,47.3,50.4,69.5,32.4,large,Japan
 201—250,University of Trento,17118,28.2,0.09,52,47.5,23.6,27.7,89.3,41.3,57.3,large,Italy
@@ -327,7 +327,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 301—350,University of Liège,21611,27.9,0.23,54,42.5,27.1,33.3,55.4,99.4,70.3,large,Belgium
 301—350,Loughborough University,13677,14.9,0.22,38,42.8,32.9,34.4,54,37,73.2,medium,United Kingdom
 301—350,University of Milan,58990,27.6,0.05,59,42.2,32.8,24.5,69.9,42.9,39.4,large,Italy
-301—350,Moscow Institute of Physics and Technology,5535,7.8,0.12,,42.7,47.7,33.1,40.8,98.7,50,medium,Russian Federation
+301—350,Moscow Institute of Physics and Technology,5535,7.8,0.12,20,42.7,47.7,33.1,40.8,98.7,50,medium,Russian Federation
 301—350,Nagoya University,15619,8,0.1,29,42.4,44.4,41.8,41.2,83.6,28.3,large,Japan
 301—350,University of Navarra,10584,14.1,0.16,52,41.2,29.7,23.9,65.3,55.6,55.6,medium,Spain
 301—350,University of Nebraska-Lincoln,22068,16.2,0.1,47,42.8,31.2,29.1,67.2,38.5,48,large,United States
