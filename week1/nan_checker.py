@@ -4,8 +4,8 @@ import numpy
 import math
 
 
-next_data = pd.read_csv('../data/ranking_with_country_2017.csv', encoding = 'utf-8')
-next2_data = pd.read_csv('../data/ranking_with_country_2018.csv')
+next_data = pd.read_csv('../DATA/ranking_with_country_2017.csv', encoding = 'utf-8')
+next2_data = pd.read_csv('../DATA/ranking_with_country_2018.csv')
 def nan_checker(file, nan_column, output_column):
     data = pd.read_csv(file)
     nan_list = []
@@ -41,4 +41,4 @@ def nan_checker(file, nan_column, output_column):
         print(nan_list)
 
         
-nan_checker("../data/ranking_with_country_2016.csv", "ratio", "name")
+nan_checker("../DATA/ranking_with_country_2016.csv", "ratio", "name")
