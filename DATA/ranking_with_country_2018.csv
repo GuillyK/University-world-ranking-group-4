@@ -56,7 +56,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 54,University of Manchester,35318,14.6,0.38,52,69.5,56.3,65.3,84.3,44.1,88.7,large,United Kingdom
 56,University of Minnesota,60949,17.4,0.11,51,69,57.6,67.9,87.5,90.4,37.7,large,United States
 56,University of North Carolina at Chapel Hill,34684,9.7,0.08,56,69,57.9,61.8,96.7,39.2,41.5,large,United States
-58,Chinese University of Hong Kong,18072,17.3,0.31,,68.5,57,64.4,80.6,56.8,86.6,large,Hong Kong
+58,Chinese University of Hong Kong,18072,17.3,0.31,53,68.5,57,64.4,80.6,56.8,86.6,large,Hong Kong
 59,University of Amsterdam,23495,12.3,0.12,57,68.4,51.3,62.6,91.9,49.9,72.2,large,Netherlands
 60,Purdue University,38770,17.4,0.23,42,68.2,62.3,68.9,73.4,63.5,69.9,large,United States
 61,University of Sydney,44553,21.6,0.32,57,67.8,50.2,63.1,85.9,67.9,84.6,large,Australia
@@ -133,7 +133,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 132,University of Science and Technology of China,16032,8.2,0.03,,57.7,52.7,49.1,76.9,81.7,27.9,large,China
 133,Karlsruhe Institute of Technology,25824,26.3,0.18,27,57.6,44.6,47.7,75.7,97.9,62.9,large,Germany
 134,University of Adelaide,21241,34.3,0.26,48,57.5,35.9,43.1,85.3,67.3,86.6,large,Australia
-134,Stockholm University,33156,24.9,0.08,,57.5,33.1,48.4,89.1,34.5,72.7,large,Sweden
+134,Stockholm University,33156,24.9,0.08,62,57.5,33.1,48.4,89.1,34.5,72.7,large,Sweden
 136,University of Zurich,26363,5.9,0.2,57,57.4,42,36,87,43.2,90.8,large,Switzerland
 137,Pohang University of Science and Technology,3046,10.4,0.04,22,57.3,47.9,49.8,76.4,99.8,34.3,small,South Korea
 137,University of York,14962,15.1,0.27,55,57.3,40.5,44.9,81.6,34.1,85.3,medium,United Kingdom
@@ -203,9 +203,9 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 201–250,University of Antwerp,16056,35.2,0.16,53,51.3,34.6,40.1,73.3,75.9,66.3,large,Belgium
 201–250,University of Barcelona,47458,12.4,0.1,61,49.1,32.4,32.5,83.2,34,50.6,large,Spain
 201–250,University of Bergen,12554,12,0.13,60,51.5,29.2,30.6,90,35.2,75.3,medium,Norway
-201–250,University of Bologna,62296,22.2,0.1,,50.6,43.6,30.1,80,39.1,47.4,large,Italy
+201–250,University of Bologna,62296,22.2,0.1,56,50.6,43.6,30.1,80,39.1,47.4,large,Italy
 201–250,Brandeis University,5620,12.9,0.25,55,50.4,28.9,24.3,99.7,33.7,49.8,medium,United States
-201–250,University of Calgary,27084,15.7,0.19,,51.1,34.6,35.8,77.2,53.5,73.6,large,Canada
+201–250,University of Calgary,27084,15.7,0.19,53,51.1,34.6,35.8,77.2,53.5,73.6,large,Canada
 201–250,Chalmers University of Technology,9112,11.4,0.16,31,48.7,35.1,39.6,62.3,70.2,78.3,medium,Sweden
 201–250,University of Cincinnati,28035,20.7,0.09,52,48.5,36.9,30.3,82,41,35.6,large,United States
 201–250,Copenhagen Business School,19079,44.3,0.23,49,50.3,24.2,36.6,80.8,40.4,91.2,large,Denmark
@@ -234,7 +234,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 201–250,Queen’s University Belfast,17947,16.6,0.32,55,51.1,28.3,32.3,83.1,35.7,94.6,large,United Kingdom
 201–250,Queensland University of Technology,35211,37,0.17,54,50.7,30.7,40.3,73,63.2,79.1,large,Australia
 201–250,University of Reading,12874,14.7,0.33,56,50.6,34.6,34.9,73.9,36.9,88.8,medium,United Kingdom
-201–250,Royal College of Surgeons in Ireland,2136,17.6,0.64,,51.6,31.9,21.8,92.8,40.7,88.6,small,Ireland
+201–250,Royal College of Surgeons in Ireland,2136,17.6,0.64,55,51.6,31.9,21.8,92.8,40.7,88.6,small,Ireland
 201–250,Ruhr University Bochum,43004,61.1,0.13,49,48.3,36.6,42.9,62.3,73.2,52.3,large,Germany
 201–250,University of South Australia,17575,25.8,0.41,62,48.3,31.5,36.3,63.3,81.6,91.8,large,Australia
 201–250,St George’s- University of London,3174,14.9,0.17,62,49.6,21.4,23.4,100,35.3,69.9,small,United Kingdom
