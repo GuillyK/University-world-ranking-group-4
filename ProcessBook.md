@@ -20,8 +20,12 @@ outliers van ratio bekijken \\
   * AGH Poland
 zelf scores bereken waar deze missen met gegeven formule
 
-
 size of universities added. small <= 5000. 5000 < medium <= 15000. Large > 15000
+
+
+8 Juni:
+Missing values proberen in te vullen besloten.
+
 
 |   |Gezamenlijk |Charlotte |Guilly   |Nienke   |Tobias   | 
 |---|---|---|---|---|---|
