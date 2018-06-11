@@ -12,7 +12,7 @@ def meanscorer(university, dataset):
 data = pd.read_csv("ranking_with_country_2016.csv")
 data1 = pd.read_csv("ranking_with_country_2017.csv")
 data2 = pd.read_csv("ranking_with_country_2018.csv")
-
+ss
 #for ratio in data['ratio']:
     #print(ratio)
 
@@ -41,7 +41,7 @@ for university in list:
             meanlist = meanlist + [mean]
             meanlist1 = meanlist1 + [mean1]
             meanlist2 = meanlist2 + [mean2]
-meanlist.mean()
+meanlist.mean()=
         #meancountryscore2016 = meanscorer(country, data)
         ##meancountryscore2017 = meanscorer(country, data1)
         #eancountryscore2018 = meanscorer(country, data2)
