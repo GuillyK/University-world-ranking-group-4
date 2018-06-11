@@ -4,7 +4,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 3,Stanford University,15658,7.7,0.22,42,93.8,92.6,95.9,99.9,60.9,76.5,large,United States
 4,University of Cambridge,18605,11.3,0.35,45,93.6,90.6,97.2,96.8,50.4,92.4,large,United Kingdom
 5,Massachusetts Institute of Technology,11192,8.8,0.33,37,93.4,90.3,92.3,99.9,88.4,85.6,medium,United States
-6,Harvard University,19890,8.8,0.25,,92.7,87.5,98.3,99.7,47.3,77.9,large,United States
+6,Harvard University,19890,8.8,0.25,51,92.7,87.5,98.3,99.7,47.3,77.9,large,United States
 7,Princeton University,7925,8.4,0.23,45,90.2,89.5,88.4,99.2,49.9,77.2,medium,United States
 8,Imperial College London,15236,11.3,0.52,37,90,86.4,86.6,97.3,67.5,96.5,large,United Kingdom
 9,ETH Zurich – Swiss Federal Institute of Technology Zurich,18616,14.9,0.37,31,89.3,81.5,93.7,92.5,63.7,98.1,large,Switzerland
@@ -74,7 +74,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 72,Seoul National University,26777,13.1,0.11,,64.2,70.2,69.8,58.8,85.2,32.4,large,South Korea
 74,Monash University,44217,34.5,0.25,57,64,49.5,57.4,78.5,76,87.1,large,Australia
 75,Free University of Berlin,32909,53.9,0.21,58,63.7,58.1,67.3,66.9,38.9,67.2,large,Germany
-76,Chinese University of Hong Kong,18433,10.5,0.27,,63.6,52.2,60.4,74.6,44.7,84,large,Hong Kong
+76,Chinese University of Hong Kong,18433,10.5,0.27,53,63.6,52.2,60.4,74.6,44.7,84,large,Hong Kong
 77,Leiden University,23597,17.8,0.11,59,63.3,46.1,57.9,86.1,47.3,68.1,large,Netherlands
 78,University of New South Wales,39121,26.3,0.32,46,63,43.2,58.6,81.4,49.7,91,large,Australia
 78,RWTH Aachen University,42298,54.9,0.17,32,63,53.3,63.7,71.3,99.4,53.4,large,Germany
@@ -90,7 +90,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 89,Korea Advanced Institute of Science and Technology (KAIST),9327,9.5,0.09,20,61.3,55.7,53.2,78.5,100,34.3,medium,South Korea
 89,University of Tübingen,28074,37.3,0.11,58,61.3,46,56.2,82.9,56.3,57.8,large,Germany
 91,University of Helsinki,23369,17,0.06,65,61.2,47,57.6,83.5,34.9,52.2,large,Finland
-91,Kyoto University,22547,5.5,0.07,,61.2,70.2,70.1,50.4,75.1,28,large,Japan
+91,Kyoto University,22547,5.5,0.07,24,61.2,70.2,70.1,50.4,75.1,28,large,Japan
 93,Uppsala University,25275,16.6,0.12,57,61.1,43,57.1,85.2,40.4,59.9,large,Sweden
 94,Maastricht University,16030,18.3,0.47,58,61,39.2,48.6,84.4,85.7,96,large,Netherlands
 95,University of Freiburg,25890,33.7,0.16,52,60.9,45.9,49.9,83.6,100,61.1,large,Germany
@@ -139,7 +139,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 137,University of Geneva,15587,15,0.4,61,56.4,37.4,41.1,79.3,66.7,98.3,large,Switzerland
 137,Lancaster University,11673,13.6,0.35,52,56.4,37,40.9,84.7,35.6,89.1,medium,United Kingdom
 137,Scuola Normale Superiore di Pisa,545,15.1,0.06,30,56.4,54,47.5,70.3,51.6,47.3,small,Italy
-137,Sungkyunkwan University (SKKU),24791,19.1,0.1,,56.4,53.7,50.6,66.5,88.9,39.6,large,South Korea
+137,Sungkyunkwan University (SKKU),24791,19.1,0.1,41,56.4,53.7,50.6,66.5,88.9,39.6,large,South Korea
 141,Rutgers- the State University of New Jersey,42892,10.8,0.08,52,56.2,47.7,49.8,77.9,36.6,35.6,large,United States
 142,University of Adelaide,20462,29.6,0.27,47,56.1,37.1,43.9,78.8,67.5,86.3,large,Australia
 143,University of Notre Dame,11821,13.5,0.1,45,55.9,50.2,40.7,80.2,37.4,48.2,medium,United States
