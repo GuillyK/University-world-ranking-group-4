@@ -486,7 +486,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 401–500,Tongji University,35810,12.9,0.11,39,36.1,36.5,38.2,25.4,99.4,47.5,large,China
 401–500,University of Tsukuba,16514,13,0.19,39,36.5,38.6,35,34.1,47,39.9,large,Japan
 401–500,University of Tulsa,4671,12.4,0.25,43,38.3,35.5,14.1,62.1,56.5,44.9,small,United States
-401–500,University of Turin,59116,31.4,0.07,,38.4,20.6,20.3,72.3,45.3,43.7,large,Italy
+401–500,University of Turin,59116,31.4,0.07,63,38.4,20.6,20.3,72.3,45.3,43.7,large,Italy
 401–500,UiT The Arctic University of Norway,12601,12.1,0.12,61,36.6,20.9,17.1,63.5,40.5,68,medium,Norway
 401–500,University of Urbino Carlo Bo,11658,28.6,0.09,59,36.9,17.9,10,81.3,34.1,43.4,medium,Italy
 401–500,Verona University,24582,20.6,0.06,64,38.4,22.8,11.9,79.8,36.8,42,large,Italy
@@ -586,7 +586,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 501–600,Tianjin University,30513,12,0.01,,33.3,36.9,32.8,28.5,97.1,18.8,large,China
 501–600,Tokyo Metropolitan University,9263,10,0.04,36,30.9,22.7,13.3,57.8,34,24.8,medium,Japan
 501–600,University of Toledo,18525,15.9,0.1,50,31.1,32.7,13.9,42.9,42.9,41.9,large,United States
-501–600,Tomsk State University,8022,8.3,0.22,,34.7,36.7,26.5,32.8,63.6,57.1,medium,Russian Federation
+501–600,Tomsk State University,8022,8.3,0.22,59,34.7,36.7,26.5,32.8,63.6,57.1,medium,Russian Federation
 501–600,Universiti Tunku Abdul Rahman (UTAR),18642,16.9,0.01,52,31.5,15.4,7.8,71.3,32.5,30.8,large,Malaysia
 501–600,University of Ulsan,13689,12.6,0.03,45,32.9,20.1,20.3,59.4,56.2,20.7,medium,South Korea
 501–600,Ulster University,18550,14.9,0.08,55,32.4,21,15.6,50.6,33,72,large,United Kingdom
@@ -914,15 +914,15 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 801–1000,National University of Tainan,5996,25.4,0.03,56,20.8,20.6,15.8,26.1,35.3,15.5,medium,Taiwan
 801–1000,National Taipei University,8563,17.1,0.04,55,18.3,18,7.3,27.2,33.8,22.8,medium,Taiwan
 801–1000,National Taipei University of Technology,10288,16.7,0.05,27,21,19,18.3,19.9,89.6,20.9,medium,Taiwan
-801–1000,National Taiwan Ocean University,8609,21.7,0.07,,21.1,19.1,22.3,18.6,52.5,23.5,medium,Taiwan
+801–1000,National Taiwan Ocean University,8609,21.7,0.07,30,21.1,19.1,22.3,18.6,52.5,23.5,medium,Taiwan
 801–1000,Nicolaus Copernicus University in Toru_,21497,9.9,0.02,70,17.3,19.2,8.9,20.9,32.9,24.2,large,Poland
 801–1000,Niigata University,12522,8.1,0.04,38,20.4,22.7,10.7,25.6,36.2,23.5,medium,Japan
-801–1000,Northeastern University,33348,15.1,0.04,,20.4,21.7,22.7,9.2,98.9,24.3,large,China
+801–1000,Northeastern University,33348,15.1,0.04,50,20.4,21.7,22.7,9.2,98.9,24.3,large,China
 801–1000,Northwest University,22167,15,0.02,56,21,19.4,11.6,31.8,38.2,16.4,large,China
 801–1000,NorthWest A&F University,30722,16.7,0.01,,19.8,20.6,11.2,25.8,40,20.5,large,China
 801–1000,Novosibirsk State Technical University,11126,10.7,0.16,45,19.3,22.5,10.6,20.6,35.8,30.4,medium,Russian Federation
 801–1000,Oakland University,15401,19,0.03,59,20.1,19.6,12.3,26,32.8,25.2,large,United States
-801–1000,Ocean University of China,35410,19.4,0.01,,20.9,21,13.6,26.1,50.9,18.8,large,China
+801–1000,Ocean University of China,35410,19.4,0.01,40,20.9,21,13.6,26.1,50.9,18.8,large,China
 801–1000,Osaka Prefecture University,7931,7.4,0.03,35,18.7,23.8,12.3,17.9,39.2,20.5,medium,Japan
 801–1000,Osmania University,12017,15.5,0.03,29,19,33.9,8.4,14.5,32,15.1,medium,India
 801–1000,University of Ostrava,10062,21.5,0.07,69,19.2,16,11.4,24.1,31.9,39.4,medium,Czech Republic
@@ -980,7 +980,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 801–1000,Toyohashi University of Technology (TUT),2350,9.9,0.07,9,19.1,21.1,16.7,16.1,46.1,24.2,small,Japan
 801–1000,University of Valparaíso,15654,17.4,0.03,57,17.3,15.9,8.2,19.2,32.1,46.3,large,Chile
 801–1000,VIT University,30473,18.1,0.03,25,17.9,17.8,8.9,24.5,33,22.6,large,India
-801–1000,V_B - Technical University of Ostrava,18270,23.4,0.08,,16.6,18.6,13.1,12.8,39.5,30.4,large,Czech Republic
+801–1000,V_B - Technical University of Ostrava,18270,23.4,0.08,49,16.6,18.6,13.1,12.8,39.5,30.4,large,Czech Republic
 801–1000,University of West Bohemia,12991,18.7,0.03,51,16,18.5,11.8,13.6,35.7,26.4,medium,Czech Republic
 801–1000,West University of Timi_oara,13524,17,0.04,65,19.4,20.1,7.8,26.3,31.8,30.7,medium,Romania
 801–1000,University of Wroc_aw,23852,12.9,0.03,,20.3,20.1,10.9,25.8,33.8,32.5,large,Poland
