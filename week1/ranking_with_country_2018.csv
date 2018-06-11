@@ -4,7 +4,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 3,California Institute of Technology,2209,6.5,0.27,31,93,90.3,97.5,99.5,92.6,59.7,small,United States
 3,Stanford University,15845,7.5,0.22,42,93,89.1,96.7,99.9,60.5,77.6,large,United States
 5,Massachusetts Institute of Technology,11177,8.7,0.34,37,92.5,87.3,91.9,100,88.4,87.6,medium,United States
-6,Harvard University,20326,8.9,0.26,,91.8,84.2,98.4,99.7,46.4,79.7,large,United States
+6,Harvard University,20326,8.9,0.26,51,91.8,84.2,98.4,99.7,46.4,79.7,large,United States
 7,Princeton University,7955,8.3,0.24,45,91.1,85.7,93.9,99.6,58,78.7,medium,United States
 8,Imperial College London,15857,11.4,0.55,37,89.2,81.7,88.7,96.7,71.6,96.6,large,United Kingdom
 9,University of Chicago,13525,6.2,0.25,44,88.6,85.3,90.1,99.4,39.8,69.6,medium,United States
