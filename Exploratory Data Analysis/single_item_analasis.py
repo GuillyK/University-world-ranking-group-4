@@ -5,9 +5,9 @@ plt.close
 
 
 data = pd.read_csv("../DATA/ranking_with_country_2018.csv")
-var = data['country'].sort_values(ascending = False)
+var = data['teaching'].sort_values(ascending = True)
 print(var)
 #plt.hist(var, cumulative = True, density = True)
-plt.plot(var)
-plt.savefig('country_hist.png')
+plt.hist(var)
+plt.savefig('teaching_score_hist.png')
 plt.show()
