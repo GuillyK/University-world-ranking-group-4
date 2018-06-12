@@ -2,7 +2,7 @@ import csv
 import pandas as pd
 import numpy
 
-data = pd.read_csv("ranking_with_country_2018.csv")
+data = pd.read_csv("../DATA/ranking_with_country_2018.csv)
 
 #for ratio in data['ratio']:
     #print(ratio)
@@ -41,30 +41,30 @@ def nan_checker(file, nan_column, output_column):
 
     with open(file) as out:
         counter = 0
-        
+
         for value in data[nan_column]:
             counter2 = 0
             counter3 = 0
             if math.isnan(value):
                 uni1 = data[output_column][counter]
                 for same in next_data['name']:
-                    
+
                     if same == uni1:
                         print(same, uni1)
                         print(next_data['ratio'][counter2])
-                        
+
                     counter2 += 1
                 #print(next_data[])
-               
+
                 for same2 in next2_data['name']:
-                    
+
                     if same2 == uni1:
                         print(same2, uni1)
                         print(next2_data['ratio'][counter3])
-                        
+
                     counter3 += 1
                 print('--------------------------------')
             counter += 1
 
-        
+
 nan_checker("ranking_with_country_2016.csv", "ratio", "name")
