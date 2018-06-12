@@ -164,7 +164,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 163,University of Arizona,36429,12.7,0.08,52.0,51.7,38.7,41.8,79.5,32.4,38.6,large,United States
 164,Pompeu Fabra University,10901,18.3,0.13,59.0,51.2,32.9,28.0,90.7,37.2,63.3,medium,Spain
 164,University of Reading,12050,14.8,0.28,55.0,51.2,39.3,37.3,69.9,34.2,85.1,medium,United Kingdom
-164,Yeshiva University,6753,5.5,0.07,53.0,51.2,44.8,23.7,92.8,,28.5,medium,United States
+164,Yeshiva University,6753,5.5,0.07,53.0,51.2,44.8,23.7,92.8,47.0,28.5,medium,United States
 167,University of California,20626,22.0,0.12,51.0,51.1,27.5,33.3,91.2,42.5,59.5,large,United States
 167,University of Leicester,14541,13.4,0.35,54.0,51.1,32.1,27.8,86.0,31.7,86.6,medium,United Kingdom
 167,National Taiwan University,31891,11.9,0.07,39.0,51.1,54.1,58.0,47.3,49.6,27.7,large,Taiwan
@@ -434,7 +434,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 401-500,University of Graz,20584,26.8,0.12,65.0,34.3,24.9,16.3,53.3,29.3,68.9,large,Austria
 401-500,Heriot-Watt University,8773,17.8,0.43,41.0,32.6,23.4,22.4,36.4,45.6,90.1,medium,United Kingdom
 401-500,Hokkaido University,18162,8.2,0.09,29.0,34.2,40.3,32.8,29.3,53.7,27.9,large,Japan
-401-500,Howard University,10297,6.8,0.05,65.0,,38.8,11.0,44.5,,30.3,medium,United States
+401-500,Howard University,10297,6.8,0.05,65.0,,38.8,11.0,44.5,47.0,30.3,medium,United States
 401-500,University of Hull,15141,18.7,0.2,52.0,30.2,22.4,16.1,41.1,31.8,73.2,large,United Kingdom
 401-500,University of Idaho,11641,21.5,0.06,47.0,29.8,28.3,19.4,40.8,32.4,32.0,medium,United States
 401-500,Indian Institute of Technology Delhi,8371,17.3,0.01,18.0,31.2,35.8,25.8,33.4,62.8,15.5,medium,India
@@ -509,7 +509,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 501-600,Babe_-Bolyai University,37915,23.5,0.02,67.0,25.1,27.9,12.5,32.1,28.6,35.4,large,Romania
 501-600,Bauman Moscow State Technical University,18808,4.0,0.04,23.0,24.1,44.0,23.7,3.1,68.1,15.6,large,Russian Federation
 501-600,Blaise Pascal University,15619,7.1,0.17,55.0,,20.2,2.9,46.9,33.5,66.6,large,France
-501-600,University of Burgundy,26612,20.8,0.11,54.0,,21.4,8.8,46.3,,50.9,large,France
+501-600,University of Burgundy,26612,20.8,0.11,54.0,,21.4,8.8,46.3,47.0,50.9,large,France
 501-600,University of Canberra,11221,28.6,0.24,54.0,25.3,18.4,19.3,29.8,36.2,54.6,medium,Australia
 501-600,Ben-Gurion University of the Negev,16695,12.6,0.02,49.0,28.6,25.8,23.1,30.1,37.0,52.9,large,Israel
 501-600,Carleton University,25036,29.8,0.18,47.0,28.1,19.9,24.0,32.0,30.4,61.3,large,Canada
@@ -630,7 +630,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 601-800,Budapest University of Technology and Economics,22447,22.1,0.04,32.0,19.0,17.1,13.7,21.6,39.7,30.4,large,Hungary
 601-800,Cairo University,231941,39.1,0.02,47.0,15.7,18.9,11.1,11.9,30.3,31.0,large,Egypt
 601-800,University of Calcutta,18511,32.5,0.13,50.0,20.7,34.7,8.7,19.8,29.2,13.1,large,India
-601-800,California State University,29594,32.3,0.05,58.0,,11.6,10.4,23.3,,18.9,large,United States
+601-800,California State University,29594,32.3,0.05,58.0,,11.6,10.4,23.3,47.0,18.9,large,United States
 601-800,Capital Medical University,11506,7.1,0.03,70.0,19.4,26.3,14.9,16.3,28.8,18.8,medium,China
 601-800,University of Castilla-La Mancha,26381,14.3,0.03,56.0,20.6,18.4,10.3,30.5,29.7,28.6,large,Spain
 601-800,University of Central Lancashire,18542,17.5,0.17,57.0,20.8,15.7,9.4,28.2,28.9,54.1,large,United Kingdom
