@@ -27,7 +27,7 @@ size of universities added. small <= 5000. 5000 < medium <= 15000. Large > 15000
 Missing values proberen in te vullen besloten.
 
 11 juni:
-Missende ratio waardes ingevuld op basis omliggende jaren
+Missende industry incomes en ratios uitgerekend op basis van omliggende jaren
 * gemiddelde waar mogelijk
 * Dichtsbijzijnde jaar wanneer gemiddelde onmogelijk
 
