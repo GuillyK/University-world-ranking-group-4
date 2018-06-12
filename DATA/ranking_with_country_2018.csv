@@ -296,7 +296,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 301–350,Aberystwyth University,7920,18.4,0.18,47.0,44.5,24.2,25.5,76.7,36.6,74.9,medium,United Kingdom
 301–350,University of Alaska Fairbanks,3769,8.3,0.06,51.0,43.1,25.3,23.2,78.3,44.9,52.8,small,United States
 301–350,Anglia Ruskin University,15197,21.7,0.25,62.0,44.3,16.7,11.2,99.4,32.6,71.1,large,United Kingdom
-301–350,Babol Noshirvani University of Technology,4749,28.6,,32.0,43.4,24.8,12.2,99.1,56.1,15.5,small,Iran
+301–350,Babol Noshirvani University of Technology,4749,28.6,0.13,32.0,43.4,24.8,12.2,99.1,56.1,15.5,small,Iran
 301–350,Bangor University,9327,18.4,0.25,55.0,43.1,25.7,21.4,72.7,33.4,83.8,medium,United Kingdom
 301–350,Birkbeck- University of London,9014,16.8,0.39,54.0,44.8,30.5,32.0,62.2,32.4,87.5,medium,United Kingdom
 301–350,University of Bordeaux,52526,21.0,0.12,58.0,43.4,31.0,22.0,75.2,34.8,54.3,large,France
@@ -443,7 +443,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 401–500,University of Modena and Reggio Emilia,20737,27.8,0.06,53.0,36.7,18.5,16.8,74.1,40.6,38.0,large,Italy
 401–500,University of Montana,9573,16.6,0.03,56.0,39.4,34.6,17.7,69.9,33.6,25.6,medium,United States
 401–500,Murdoch University,15526,30.7,0.48,58.0,38.9,20.4,23.9,58.9,41.5,91.5,large,Australia
-401–500,University of Naples Federico II,81056,55.9,,56.0,39.4,18.4,24.8,77.5,43.0,28.3,large,Italy
+401–500,University of Naples Federico II,81056,55.9,0.13,56.0,39.4,18.4,24.8,77.5,43.0,28.3,large,Italy
 401–500,National Chiao Tung University,12639,17.7,0.07,28.0,37.1,34.6,41.1,31.5,89.0,35.8,medium,Taiwan
 401–500,National Research Nuclear University MEPh,7064,7.6,0.15,31.0,39.6,32.6,25.5,53.1,99.7,49.5,medium,Russian Federation
 401–500,National Taiwan University of Science and Technology (Taiwan Tech),7981,18.7,0.13,32.0,38.8,30.4,43.1,39.9,85.1,36.0,medium,Taiwan
@@ -460,7 +460,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 401–500,Polytechnic University of Catalonia,21581,9.8,0.12,27.0,35.0,27.1,17.6,55.3,41.6,53.2,large,Spain
 401–500,Polytechnic University of Turin,30903,29.7,0.14,28.0,39.7,26.9,20.9,68.6,48.1,48.1,large,Italy
 401–500,Qatar University,13342,17.6,0.42,73.0,38.3,19.8,18.3,60.7,46.1,99.8,medium,Qatar
-401–500,Quaid-i-azam University,13559,26.6,,57.0,35.2,21.6,1.3,81.2,31.7,42.1,medium,Pakistan
+401–500,Quaid-i-azam University,13559,26.6,0.13,57.0,35.2,21.6,1.3,81.2,31.7,42.1,medium,Pakistan
 401–500,Reykjavík University,3206,29.4,0.06,59.0,38.4,14.9,16.0,79.1,33.7,60.1,small,Iceland
 401–500,RMIT University,31465,17.2,0.25,47.0,36.9,24.2,20.5,53.3,38.4,87.1,large,Australia
 401–500,University of Rome II – Tor Vergata,32325,17.9,0.06,51.0,38.0,25.2,15.4,71.9,38.5,43.3,large,Italy
@@ -523,13 +523,13 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 501–600,Federal University of São Paulo (UNIFESP),14475,9.3,0.01,55.0,30.9,35.8,16.9,41.2,34.0,24.6,medium,Brazil
 501–600,Federico Santa María Technical University,19265,30.3,0.02,23.0,31.9,14.6,10.7,64.8,40.0,51.7,large,Chile
 501–600,University of Ferrara,13902,8.3,0.07,56.0,34.5,21.2,10.2,69.6,34.2,44.8,medium,Italy
-501–600,Fujita Health University,2810,3.1,,55.0,34.1,24.2,7.7,74.5,35.2,17.3,small,Japan
+501–600,Fujita Health University,2810,3.1,0.13,55.0,34.1,24.2,7.7,74.5,35.2,17.3,small,Japan
 501–600,University of Granada,59539,17.6,0.14,58.0,31.1,22.5,19.2,46.8,32.8,50.1,large,Spain
 501–600,Harbin Institute of Technology,29395,10.0,0.09,31.0,34.2,34.4,31.9,31.4,99.0,31.6,large,China
 501–600,University of Hertfordshire,17330,17.3,0.28,54.0,32.0,18.2,11.9,54.0,32.6,79.0,large,United Kingdom
 501–600,Indian Institute of Technology Delhi,7284,13.3,0.01,20.0,33.9,36.6,19.2,48.7,51.8,16.8,medium,India
 501–600,Indian Institute of Technology Kanpur,6472,15.2,0.01,14.0,31.6,32.6,21.7,38.5,92.7,19.5,medium,India
-501–600,Indian Institute of Technology Kharagpur,11016,18.0,,16.0,34.7,32.6,29.5,43.3,73.7,16.8,medium,India
+501–600,Indian Institute of Technology Kharagpur,11016,18.0,0.13,16.0,34.7,32.6,29.5,43.3,73.7,16.8,medium,India
 501–600,Indian Institute of Technology Roorkee,8240,14.1,0.01,16.0,34.3,30.2,18.1,56.1,69.9,16.0,medium,India
 501–600,University of Ioannina,21672,41.6,0.04,57.0,34.8,19.2,14.9,68.1,36.5,42.7,large,Greece
 501–600,ITMO University,10582,9.5,0.13,37.0,32.0,26.5,17.8,44.3,67.7,50.3,medium,Russian Federation
@@ -636,7 +636,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 601–800,Chonnam National University,23984,13.8,0.03,48.0,22.7,20.8,14.5,31.1,36.9,24.1,large,South Korea
 601–800,Chulalongkorn University,38734,14.8,0.03,59.0,22.5,27.0,14.9,18.4,73.3,34.8,large,Thailand
 601–800,Comenius University in Bratislava,22857,11.1,0.11,66.0,22.4,22.6,11.9,25.3,31.8,49.1,large,Slovakia
-601–800,COMSATS Institute of Information Technology,30126,10.4,,24.0,28.6,17.5,7.4,56.8,31.8,44.3,large,Pakistan
+601–800,COMSATS Institute of Information Technology,30126,10.4,0.13,24.0,28.6,17.5,7.4,56.8,31.8,44.3,large,Pakistan
 601–800,Coventry University,22737,14.3,0.45,48.0,24.2,18.6,10.1,28.7,32.3,82.0,large,United Kingdom
 601–800,Czech Technical University in Prague,21266,13.2,0.16,30.0,24.2,20.2,17.3,28.5,39.3,45.3,large,Czech Republic
 601–800,Dalian University of Technology,38678,16.6,0.02,35.0,27.0,23.3,21.3,32.6,82.9,23.1,large,China
@@ -670,14 +670,14 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 601–800,University of Huddersfield,15154,22.5,0.26,56.0,24.8,20.5,16.3,26.5,33.5,66.0,large,United Kingdom
 601–800,Hunan University,42004,22.2,0.02,45.0,27.3,20.5,19.6,42.2,51.3,18.3,large,China
 601–800,Indian Institute of Technology Guwahati,5419,13.4,0.01,15.0,29.2,24.8,19.2,46.4,36.1,15.1,medium,India
-601–800,Indian Institute of Technology Madras,9033,14.9,,19.0,29.6,36.9,22.1,29.2,71.5,18.2,medium,India
+601–800,Indian Institute of Technology Madras,9033,14.9,0.13,19.0,29.6,36.9,22.1,29.2,71.5,18.2,medium,India
 601–800,Indian Institute of  Technology (Indian School of Mines) Dhanbad,6692,24.6,0.01,15.0,25.6,22.8,11.9,43.1,49.7,13.2,medium,India
 601–800,Inha University,19921,23.8,0.03,38.0,23.4,23.0,19.5,23.1,66.3,27.1,large,South Korea
-601–800,Iran University of Science and Technology,13206,31.7,,30.0,28.4,25.5,24.7,36.3,51.2,15.1,medium,Iran
+601–800,Iran University of Science and Technology,13206,31.7,0.13,30.0,28.4,25.5,24.7,36.3,51.2,15.1,medium,Iran
 601–800,ISCTE-University Institute of Lisbon,8699,22.8,0.12,50.0,24.4,24.6,24.7,17.5,33.5,46.6,medium,Portugal
 601–800,Isfahan University of Technology,9323,19.8,0.01,42.0,28.7,21.4,20.5,41.8,84.1,20.1,medium,Iran
 601–800,Istanbul Technical University,36061,16.9,0.04,34.0,28.5,22.5,24.2,33.5,100.0,25.6,large,Turkey
-601–800,Jadavpur University,11011,17.6,,31.0,27.6,33.3,18.5,33.3,38.6,14.9,medium,India
+601–800,Jadavpur University,11011,17.6,0.13,31.0,27.6,33.3,18.5,33.3,38.6,14.9,medium,India
 601–800,University of Jaén,16894,20.5,0.08,55.0,23.7,16.7,11.7,39.8,34.2,32.2,large,Spain
 601–800,Jagiellonian University,42594,11.8,0.06,67.0,26.0,23.1,14.2,37.9,32.7,34.3,large,Poland
 601–800,University of Johannesburg,28122,27.4,0.07,55.0,29.0,19.3,23.5,36.3,42.7,55.6,large,South Africa
@@ -691,7 +691,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 601–800,King Juan Carlos University,33849,26.5,0.11,57.0,24.0,18.8,10.3,37.3,34.6,42.8,large,Spain
 601–800,King Mongkut’s University of Technology Thonburi,16413,22.0,0.01,46.0,26.0,18.0,10.6,42.3,98.0,30.1,large,Thailand
 601–800,Kingston University,17342,21.5,0.36,55.0,25.1,18.8,15.6,26.4,32.2,80.2,large,United Kingdom
-601–800,K.N. Toosi University of Technology,7079,23.0,,33.0,21.9,19.4,18.5,27.0,47.4,16.7,medium,Iran
+601–800,K.N. Toosi University of Technology,7079,23.0,0.13,33.0,21.9,19.4,18.5,27.0,47.4,16.7,medium,Iran
 601–800,Kobe University,15751,7.8,0.07,34.0,25.7,30.3,19.3,26.5,38.9,24.8,large,Japan
 601–800,Kochi University,5584,8.4,0.01,46.0,22.5,20.1,9.4,36.0,37.6,25.8,medium,Japan
 601–800,Kumamoto University,10214,7.8,0.06,37.0,22.1,24.8,13.6,24.9,43.8,26.4,medium,Japan
@@ -760,15 +760,15 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 601–800,University of Seoul,8902,17.0,0.05,35.0,21.5,24.9,15.5,22.2,33.9,25.0,medium,South Korea
 601–800,University of Seville,54413,18.5,0.02,49.0,25.3,20.9,15.4,35.7,42.8,34.7,large,Spain
 601–800,Shanghai University,36461,13.5,0.05,46.0,21.5,20.6,15.9,25.5,45.7,23.5,large,China
-601–800,Shantou University,9857,12.0,,50.0,23.6,18.6,10.5,38.3,34.2,33.6,medium,China
-601–800,Sharif University of Technology,11228,17.9,,26.0,30.5,25.5,26.5,36.7,96.4,19.6,medium,Iran
+601–800,Shantou University,9857,12.0,0.13,50.0,23.6,18.6,10.5,38.3,34.2,33.6,medium,China
+601–800,Sharif University of Technology,11228,17.9,0.13,26.0,30.5,25.5,26.5,36.7,96.4,19.6,medium,Iran
 601–800,Sichuan University,60848,13.9,0.04,50.0,27.4,30.6,24.5,25.2,71.2,20.7,large,China
 601–800,Sogang University,9440,21.5,0.07,43.0,27.6,27.2,28.3,25.4,48.7,28.6,medium,South Korea
 601–800,University of Southern Queensland,11921,25.9,0.19,57.0,25.3,21.9,16.5,26.0,33.1,69.1,medium,Australia
 601–800,University of South Wales,17332,17.0,0.19,51.0,24.6,16.5,9.0,38.5,32.3,61.1,large,United Kingdom
 601–800,Suranaree University of Technology,14107,32.6,0.01,54.0,23.1,21.9,10.1,33.6,40.6,32.2,medium,Thailand
 601–800,University of Szeged,20864,13.1,0.12,57.0,24.3,20.4,10.8,34.0,35.4,51.7,large,Hungary
-601–800,University of Tabriz,22421,30.2,,51.0,24.7,25.0,14.6,35.2,41.2,16.0,large,Iran
+601–800,University of Tabriz,22421,30.2,0.13,51.0,24.7,25.0,14.6,35.2,41.2,16.0,large,Iran
 601–800,Taipei Medical University,5929,12.1,0.07,57.0,30.0,25.2,26.4,32.1,99.6,31.4,medium,Taiwan
 601–800,Tallinn University of Technology,10921,21.2,0.1,52.0,24.3,17.9,11.8,34.9,45.5,50.7,medium,Estonia
 601–800,Technical University of Madrid,40371,13.6,0.12,32.0,26.1,23.8,13.6,34.8,43.0,45.0,large,Spain
@@ -779,7 +779,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 601–800,Universiti Teknologi Malaysia,18214,10.5,0.14,52.0,27.1,31.1,20.4,22.7,38.6,51.1,large,Malaysia
 601–800,Universiti Teknologi Petronas,5875,15.3,0.22,34.0,25.5,22.4,23.4,16.1,87.5,63.6,medium,Malaysia
 601–800,University of Texas at El Paso,16595,23.8,0.07,53.0,26.1,20.9,20.6,33.9,31.7,35.7,large,United States
-601–800,Tezpur University,3611,13.8,,40.0,30.0,31.4,26.1,36.6,31.9,13.2,small,India
+601–800,Tezpur University,3611,13.8,0.13,40.0,30.0,31.4,26.1,36.6,31.9,13.2,small,India
 601–800,Tokyo University of Agriculture and Technology,5797,14.8,0.06,28.0,23.9,26.1,22.6,21.3,44.1,23.4,medium,Japan
 601–800,Tokyo University of Science,19791,25.1,0.01,20.0,23.2,23.2,24.9,21.7,37.4,18.0,large,Japan
 601–800,University of Vigo,19472,16.6,0.06,50.0,23.1,19.4,12.2,32.2,35.7,40.3,large,Spain
@@ -795,7 +795,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 601–800,University of Zaragoza,29924,11.2,0.06,55.0,28.8,20.5,12.3,50.8,37.1,37.6,large,Spain
 801–1000,University of A Coruña,15735,11.9,0.02,51.0,19.4,19.1,11.2,23.7,34.3,30.6,large,Spain
 801–1000,Adam Mickiewicz University,40412,14.9,0.02,69.0,19.0,18.7,11.6,22.8,32.3,30.5,large,Poland
-801–1000,University of Agriculture- Faisalabad,19736,32.9,,41.0,17.9,17.7,12.4,20.2,31.9,27.1,large,Pakistan
+801–1000,University of Agriculture- Faisalabad,19736,32.9,0.13,41.0,17.9,17.7,12.4,20.2,31.9,27.1,large,Pakistan
 801–1000,Ain Shams University,131200,13.5,0.02,61.0,16.3,21.1,8.2,13.5,33.0,34.9,large,Egypt
 801–1000,Ajou University,11629,10.2,0.04,34.0,20.3,22.0,8.2,27.7,45.9,23.7,medium,South Korea
 801–1000,Akdeniz University,33904,26.3,0.02,45.0,17.1,16.2,15.6,12.3,99.7,18.4,large,Turkey
@@ -807,7 +807,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 801–1000,Andhra University,9632,19.2,0.03,42.0,16.1,33.6,8.8,4.3,35.4,16.3,medium,India
 801–1000,Andrés Bello University (UNAB),44906,26.1,0.01,52.0,18.3,14.3,6.7,26.0,31.9,45.0,large,Chile
 801–1000,Annamalai University,33028,16.2,0.02,35.0,15.7,22.8,7.7,17.1,32.0,7.9,large,India
-801–1000,University of Antioquia,39524,23.1,,50.0,21.1,18.1,21.7,17.5,38.7,38.8,large,Colombia
+801–1000,University of Antioquia,39524,23.1,0.13,50.0,21.1,18.1,21.7,17.5,38.7,38.8,large,Colombia
 801–1000,Asia University- Taiwan,12514,30.7,0.02,56.0,20.4,16.6,21.2,19.8,51.4,23.9,medium,Taiwan
 801–1000,Assiut University,60170,33.0,0.01,41.0,15.9,20.0,6.8,15.2,1.1,43.9,large,Egypt
 801–1000,Austral University of Chile,14423,16.7,0.02,49.0,20.5,17.4,10.9,24.4,42.8,48.5,medium,Chile
@@ -815,13 +815,13 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 801–1000,Bauman Moscow State Technical University,19394,4.0,0.07,30.0,21.0,39.8,16.3,4.6,52.5,20.0,large,Russian Federation
 801–1000,Beijing Jiaotong University,24610,13.7,0.06,41.0,19.9,22.2,21.9,11.9,58.2,22.5,large,China
 801–1000,Belarusian State University,27384,9.1,0.09,69.0,18.0,21.0,9.9,11.9,43.1,54.8,large,Belarus
-801–1000,Birla Institute of Technology and Science- Pilani,12502,17.5,,21.0,19.6,18.7,7.9,31.9,32.6,16.2,medium,India
+801–1000,Birla Institute of Technology and Science- Pilani,12502,17.5,0.13,21.0,19.6,18.7,7.9,31.9,32.6,16.2,medium,India
 801–1000,University of Brasília,51179,19.3,0.02,51.0,19.6,23.4,12.4,19.1,31.7,31.2,large,Brazil
 801–1000,Brno University of Technology,22278,21.4,0.19,28.0,21.3,19.1,13.6,24.0,40.1,43.7,large,Czech Republic
 801–1000,University of Bucharest,31234,23.4,0.02,69.0,17.6,22.7,6.5,17.1,31.8,39.5,large,Romania
 801–1000,Budapest University of Technology and Economics,20258,19.6,0.03,31.0,21.2,17.7,12.8,29.0,45.3,29.7,large,Hungary
 801–1000,Cairo University,252095,46.2,0.02,48.0,19.9,21.5,11.4,22.6,33.0,32.9,large,Egypt
-801–1000,University of Calcutta,18922,36.0,,50.0,20.1,33.3,13.3,14.0,33.5,14.6,large,India
+801–1000,University of Calcutta,18922,36.0,0.13,50.0,20.1,33.3,13.3,14.0,33.5,14.6,large,India
 801–1000,California Polytechnic State University- San Luis Obispo,18838,20.5,0.02,47.0,20.4,16.6,7.0,33.3,37.0,32.4,large,United States
 801–1000,University of Castilla-La Mancha,24174,14.3,0.05,56.0,20.5,18.1,10.4,28.7,33.7,33.3,large,Spain
 801–1000,Catholic University of the North,11187,20.2,0.01,45.0,16.8,16.3,11.7,12.5,33.2,51.1,medium,Chile
@@ -834,8 +834,8 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 801–1000,Chungnam National University,22674,22.2,0.03,34.0,19.1,23.2,18.3,13.1,43.9,21.9,large,South Korea
 801–1000,Chung Yuan Christian University,15769,31.7,0.09,42.0,19.9,16.8,23.9,15.0,42.2,28.5,large,Taiwan
 801–1000,Chuo University,26870,37.6,0.03,34.0,18.5,26.4,8.8,18.4,34.4,21.2,large,Japan
-801–1000,Cochin University of Science and Technology,8168,32.0,,36.0,15.7,26.5,12.3,7.2,32.3,15.2,medium,India
-801–1000,University of Colombo,22826,32.1,,59.0,16.6,25.0,7.9,12.9,0.6,38.2,large,Sri Lanka
+801–1000,Cochin University of Science and Technology,8168,32.0,0.13,36.0,15.7,26.5,12.3,7.2,32.3,15.2,medium,India
+801–1000,University of Colombo,22826,32.1,0.13,59.0,16.6,25.0,7.9,12.9,0.6,38.2,large,Sri Lanka
 801–1000,University of Concepción,26682,17.9,0.01,50.0,20.3,17.1,13.5,20.4,57.2,47.6,large,Chile
 801–1000,Corvinus University of Budapest,13724,25.0,0.12,55.0,17.4,16.9,9.5,18.0,32.0,43.7,medium,Hungary
 801–1000,University of Costa Rica,30436,10.3,0.02,53.0,16.9,18.2,6.9,19.1,0.6,48.2,large,Costa Rica
@@ -847,22 +847,22 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 801–1000,The University of Electro-Communications,4982,16.6,0.05,10.0,20.1,20.4,19.8,17.1,36.3,27.0,small,Japan
 801–1000,University of Electronic Science and Technology of China,34052,16.2,0.01,23.0,20.3,19.6,14.3,21.4,86.9,20.0,large,China
 801–1000,Erciyes University,35263,25.3,0.02,47.0,18.3,17.0,11.0,21.8,71.2,20.8,large,Turkey
-801–1000,Federal University of Ceará (UFC),34084,16.3,,47.0,17.5,22.1,9.1,18.8,33.0,22.1,large,Brazil
+801–1000,Federal University of Ceará (UFC),34084,16.3,0.13,47.0,17.5,22.1,9.1,18.8,33.0,22.1,large,Brazil
 801–1000,Federal University of Pelotas,17882,13.7,0.01,51.0,19.9,18.3,8.1,35.0,1.1,19.7,large,Brazil
 801–1000,Federal University of Pernambuco,32408,12.7,0.01,50.0,16.8,23.2,9.1,14.6,47.0,20.4,large,Brazil
-801–1000,Federal University of Rio Grande do Norte (UFRN),42613,19.3,,54.0,15.8,19.9,8.3,15.8,42.1,20.6,large,Brazil
+801–1000,Federal University of Rio Grande do Norte (UFRN),42613,19.3,0.13,54.0,15.8,19.9,8.3,15.8,42.1,20.6,large,Brazil
 801–1000,Federal University of Santa Catarina,34183,14.2,0.02,48.0,20.7,25.0,10.6,23.6,38.4,26.1,large,Brazil
 801–1000,Federal University of São Carlos,18145,14.5,0.02,49.0,18.5,25.5,12.0,15.9,32.3,22.4,large,Brazil
 801–1000,Feng Chia University,21014,24.8,0.12,37.0,20.8,17.1,15.9,25.0,37.6,32.2,large,Taiwan
 801–1000,Ferdowsi University of Mashhad,23211,28.4,0.04,57.0,19.7,22.9,14.7,20.1,35.8,20.2,large,Iran
-801–1000,University of La Frontera,10157,24.7,,44.0,16.9,16.5,9.1,17.2,32.2,43.5,medium,Chile
+801–1000,University of La Frontera,10157,24.7,0.13,44.0,16.9,16.5,9.1,17.2,32.2,43.5,medium,Chile
 801–1000,Fu Jen Catholic University,23154,19.3,0.07,58.0,19.7,17.9,13.3,24.6,45.3,24.7,large,Taiwan
 801–1000,Universitas Gadjah Mada,42398,12.4,0.01,53.0,18.7,18.9,10.4,18.1,60.6,38.9,large,Indonesia
 801–1000,Gda_sk University of Technology,24230,19.9,0.01,40.0,18.8,16.6,9.5,28.6,37.4,19.1,large,Poland
 801–1000,University of Ghana,39436,35.1,0.02,43.0,21.4,17.7,18.3,20.4,34.2,48.4,large,Ghana
 801–1000,Gifu University,7320,8.0,0.04,35.0,17.2,22.7,10.8,15.5,34.7,21.3,medium,Japan
 801–1000,Grigore T. Popa University of Medicine and Pharmacy,9710,11.7,0.29,65.0,15.8,20.1,7.1,9.9,32.0,51.2,medium,Romania
-801–1000,University of Guilan,16946,15.1,,55.0,17.8,18.0,10.9,24.4,32.0,14.0,large,Iran
+801–1000,University of Guilan,16946,15.1,0.13,55.0,17.8,18.0,10.9,24.4,32.0,14.0,large,Iran
 801–1000,Hallym University,8688,10.1,0.03,49.0,16.4,18.8,13.4,14.8,32.9,20.0,medium,South Korea
 801–1000,Hamamatsu University School of Medicine,1198,3.8,0.02,49.0,18.6,27.5,6.0,21.2,37.2,17.4,small,Japan
 801–1000,Hosei University,28937,38.5,0.02,35.0,19.2,17.0,8.0,30.4,32.5,23.2,large,Japan
@@ -886,8 +886,8 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 801–1000,University of Kerala,9593,31.3,0.01,65.0,18.5,31.5,11.8,12.3,31.8,13.6,medium,India
 801–1000,Khon Kaen University,34661,18.8,0.02,63.0,17.5,19.8,9.3,16.9,53.5,30.9,large,Thailand
 801–1000,Kindai University,30609,13.0,0.02,29.0,20.6,15.6,9.4,35.4,37.0,20.4,large,Japan
-801–1000,King Mongkut’s Institute of Technology Ladkrabang,23946,25.0,,52.0,17.2,16.8,18.0,10.2,88.6,19.3,large,Thailand
-801–1000,Kitasato University,8555,5.5,,52.0,17.8,23.5,8.8,19.6,43.3,15.7,medium,Japan
+801–1000,King Mongkut’s Institute of Technology Ladkrabang,23946,25.0,0.13,52.0,17.2,16.8,18.0,10.2,88.6,19.3,large,Thailand
+801–1000,Kitasato University,8555,5.5,0.13,52.0,17.8,23.5,8.8,19.6,43.3,15.7,medium,Japan
 801–1000,Kyoto Institute of Technology,4057,13.0,0.05,26.0,16.1,23.1,13.9,8.0,40.4,20.6,small,Japan
 801–1000,Kyushu Institute of Technology (Kyutech),5793,16.0,0.04,13.0,18.1,20.2,11.9,18.2,46.4,24.8,medium,Japan
 801–1000,University of Latvia,12034,14.0,0.07,66.0,18.2,18.8,9.3,20.0,32.3,40.1,medium,Latvia
@@ -897,14 +897,14 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 801–1000,Marmara University,78666,39.5,0.03,49.0,19.9,19.4,22.7,16.5,31.7,20.5,large,Turkey
 801–1000,University of Marrakech Cadi Ayyad,76560,51.7,0.01,42.0,19.1,18.1,7.2,25.0,34.1,41.6,large,Morocco
 801–1000,Meiji University,32270,29.1,0.04,32.0,16.3,16.3,10.0,18.1,53.3,22.0,large,Japan
-801–1000,Metropolitan Autonomous University,57092,20.1,,47.0,17.7,17.0,15.9,16.4,38.9,25.3,large,Mexico
+801–1000,Metropolitan Autonomous University,57092,20.1,0.13,47.0,17.7,17.0,15.9,16.4,38.9,25.3,large,Mexico
 801–1000,Mie University,7298,12.6,0.02,37.0,18.0,21.6,13.1,16.4,47.5,19.3,medium,Japan
 801–1000,University of Miyazaki,5507,8.3,0.02,35.0,17.2,21.1,8.8,19.4,33.8,21.1,medium,Japan
 801–1000,Mohammed V University of Rabat,71147,32.5,0.04,53.0,18.9,24.4,7.9,20.0,37.8,30.0,large,Morocco
 801–1000,Nagaoka University of Technology,2341,10.0,0.12,11.0,17.5,23.0,12.8,11.3,39.1,32.0,small,Japan
 801–1000,Nagasaki University,8881,6.6,0.03,37.0,19.7,24.9,12.3,19.2,35.3,25.7,medium,Japan
 801–1000,Nagoya Institute of Technology,5695,16.5,0.04,13.0,19.3,19.2,18.7,17.1,47.7,20.8,medium,Japan
-801–1000,University of Nairobi,84614,47.3,,38.0,18.0,15.1,9.4,21.1,32.2,46.6,large,Kenya
+801–1000,University of Nairobi,84614,47.3,0.13,38.0,18.0,15.1,9.4,21.1,32.2,46.6,large,Kenya
 801–1000,Nara Medical University,1155,3.3,0.01,50.0,16.7,25.4,9.6,13.8,38.0,14.5,small,Japan
 801–1000,National Chung Cheng University,10925,16.9,0.04,39.0,18.3,20.2,19.5,13.4,38.3,19.4,medium,Taiwan
 801–1000,National University of Colombia,51432,22.5,0.01,36.0,16.0,21.0,14.4,6.5,31.9,34.7,large,Colombia
@@ -934,12 +934,12 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 801–1000,Pontifical Catholic University of Valparaíso,14953,23.1,0.01,43.0,17.9,17.4,12.9,13.2,49.0,47.7,medium,Chile
 801–1000,Prince of Songkla University,42751,18.3,0.01,70.0,16.7,16.4,8.1,20.3,34.0,32.2,large,Thailand
 801–1000,Riga Technical University,11119,27.3,0.09,33.0,16.7,18.3,11.3,14.8,39.0,32.7,medium,Latvia
-801–1000,Rio de Janeiro State University (UERJ),25811,9.9,,48.0,15.7,21.4,9.9,12.8,40.4,19.7,large,Brazil
+801–1000,Rio de Janeiro State University (UERJ),25811,9.9,0.13,48.0,15.7,21.4,9.9,12.8,40.4,19.7,large,Brazil
 801–1000,Ritsumeikan University,35228,14.5,0.04,35.0,15.7,18.6,9.0,13.9,32.7,31.8,large,Japan
 801–1000,Robert Gordon University,9617,18.3,0.24,60.0,19.1,16.9,9.8,17.2,33.0,68.3,medium,United Kingdom
 801–1000,Saga University,7015,10.3,0.03,38.0,17.9,21.1,11.3,17.8,48.1,22.3,medium,Japan
 801–1000,Saitama University,8808,13.9,0.05,32.0,19.6,19.0,11.7,24.9,33.0,27.7,medium,Japan
-801–1000,Saitama Medical University,1874,1.5,,53.0,16.9,23.7,7.8,18.3,36.3,14.3,small,Japan
+801–1000,Saitama Medical University,1874,1.5,0.13,53.0,16.9,23.7,7.8,18.3,36.3,14.3,small,Japan
 801–1000,University of Santiago- Chile (USACH),23401,21.0,0.01,40.0,15.7,17.4,10.0,12.1,32.4,40.9,large,Chile
 801–1000,Seoul National University of Science and Technology (Seoul,12471,16.6,0.02,33.0,19.6,25.3,18.9,13.7,36.2,18.2,medium,Tech)South Korea
 801–1000,Shaanxi Normal University,26388,14.2,0.03,72.0,19.5,18.3,9.6,29.5,36.2,18.2,large,China
@@ -953,14 +953,14 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 801–1000,Shizuoka University,10032,14.1,0.03,29.0,15.6,19.1,12.5,11.4,36.1,24.3,medium,Japan
 801–1000,Showa University,3747,2.4,0.01,58.0,16.8,27.1,8.8,13.2,34.7,15.9,small,Japan
 801–1000,University of Silesia in Katowice,26470,14.1,0.02,68.0,16.5,18.5,7.8,20.4,31.8,22.9,large,Poland
-801–1000,Simón Bolívar University,9731,12.1,,44.0,16.3,19.0,6.3,14.9,46.7,41.6,medium,Venezuela
+801–1000,Simón Bolívar University,9731,12.1,0.13,44.0,16.3,19.0,6.3,14.9,46.7,41.6,medium,Venezuela
 801–1000,Slovak University of Technology in Bratislava,15749,14.8,0.02,33.0,16.7,21.6,13.2,11.5,34.7,26.5,large,Slovakia
 801–1000,Sophia University,12907,23.6,0.08,54.0,17.2,23.6,10.7,11.2,32.6,37.1,medium,Japan
 801–1000,University of South Africa,184432,89.6,0.12,66.0,16.4,18.3,10.8,13.5,32.3,37.5,large,South Africa
 801–1000,Southern Federal University,20148,7.4,0.07,53.0,16.4,22.4,8.2,14.8,39.2,23.4,large,Russian Federation
 801–1000,University of Southern Mississippi,13576,18.2,0.03,64.0,19.3,20.4,9.2,25.1,48.8,22.4,medium,United States
 801–1000,South Valley University,52098,60.8,0.01,50.0,16.1,14.7,6.5,18.7,31.7,44.5,large,Egypt
-801–1000,Sri Venkateswara University,7663,14.1,,33.0,21.3,34.0,9.4,20.2,32.5,18.5,medium,India
+801–1000,Sri Venkateswara University,7663,14.1,0.13,33.0,21.3,34.0,9.4,20.2,32.5,18.5,medium,India
 801–1000,State University of Ponta Grossa,8219,8.6,0.01,55.0,17.3,20.1,17.8,13.2,31.7,15.5,medium,Brazil
 801–1000,Suez Canal University,33846,12.7,0.01,58.0,20.5,18.2,7.0,31.9,0.5,45.4,large,Egypt
 801–1000,Sultan Qaboos University,7623,8.0,0.03,50.0,20.9,22.2,10.0,15.7,47.9,71.4,medium,Oman
@@ -995,18 +995,18 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 801–1000,Yuan Ze University,8652,20.9,0.06,42.0,20.8,18.8,15.0,25.9,47.1,22.6,medium,Taiwan
 801–1000,University of Zagreb,73465,17.4,0.01,55.0,18.9,21.0,11.1,20.3,41.6,28.5,large,Croatia
 1001-,Akita University,5127,8.8,0.03,35.0,14.4,21.9,9.1,9.2,35.1,19.0,medium,Japan
-1001-,Alzahra University,10637,31.2,,10.0,14.3,18.0,9.2,14.3,33.3,13.8,medium,Iran
+1001-,Alzahra University,10637,31.2,0.13,10.0,14.3,18.0,9.2,14.3,33.3,13.8,medium,Iran
 1001-,Amity University,25607,15.0,0.04,43.0,13.4,16.7,7.6,13.2,32.7,17.9,large,India
 1001-,Anadolu University,1824383,864.6,0.01,41.0,13.7,13.8,9.7,15.5,32.3,15.9,large,Turkey
-1001-,University of the Andes- Venezuela,52972,21.2,,61.0,14.6,16.4,7.5,11.3,31.7,43.2,large,Venezuela
+1001-,University of the Andes- Venezuela,52972,21.2,0.13,61.0,14.6,16.4,7.5,11.3,31.7,43.2,large,Venezuela
 1001-,Ankara University,65703,17.0,0.04,53.0,14.1,18.9,8.9,11.4,32.4,20.8,large,Turkey
 1001-,Autonomous University of Baja California,59539,20.4,0.02,52.0,11.4,14.7,7.8,5.5,32.6,29.4,large,Mexico
-1001-,Autonomous University of Hidalgo State (UAEH),32210,17.7,,57.0,10.5,17.0,7.0,3.0,33.8,21.2,large,Mexico
+1001-,Autonomous University of Hidalgo State (UAEH),32210,17.7,0.13,57.0,10.5,17.0,7.0,3.0,33.8,21.2,large,Mexico
 1001-,Autonomous University of Nuevo León,96916,26.0,0.01,49.0,12.9,14.9,6.8,11.3,32.7,29.1,large,Mexico
-1001-,Autonomous University of Puebla,70345,34.9,,53.0,13.3,15.5,7.2,11.6,34.6,28.5,large,Mexico
-1001-,Autonomous University of the State of Mexico,55667,22.2,,55.0,12.5,16.4,7.7,8.8,32.0,25.0,large,Mexico
-1001-,Autonomous University of Yucatán,12208,12.4,,48.0,14.7,15.6,8.3,15.1,32.8,28.5,medium,Mexico
-1001-,Bahauddin Zakariya University,24069,32.9,,47.0,15.2,14.9,10.4,18.2,0.1,28.8,large,Pakistan
+1001-,Autonomous University of Puebla,70345,34.9,0.13,53.0,13.3,15.5,7.2,11.6,34.6,28.5,large,Mexico
+1001-,Autonomous University of the State of Mexico,55667,22.2,0.13,55.0,12.5,16.4,7.7,8.8,32.0,25.0,large,Mexico
+1001-,Autonomous University of Yucatán,12208,12.4,0.13,48.0,14.7,15.6,8.3,15.1,32.8,28.5,medium,Mexico
+1001-,Bahauddin Zakariya University,24069,32.9,0.13,47.0,15.2,14.9,10.4,18.2,0.1,28.8,large,Pakistan
 1001-,University of Birjand,11284,33.5,0.01,53.0,11.4,15.5,7.6,8.7,32.0,14.6,medium,Iran
 1001-,Bogor Agricultural University,22718,15.8,0.01,57.0,15.3,18.4,8.7,8.9,68.2,36.6,large,Indonesia
 1001-,Chaoyang University of Technology,17235,43.3,0.07,57.0,11.8,13.5,11.2,6.1,39.7,20.6,large,Taiwan
@@ -1015,39 +1015,39 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 1001-,Dokuz Eylül University,58134,17.6,0.02,55.0,13.5,16.1,7.6,14.5,32.8,16.9,large,Turkey
 1001-,Doshisha University,29220,23.8,0.03,39.0,11.4,16.4,6.4,6.2,33.4,24.2,large,Japan
 1001-,Far Eastern Federal University,15764,8.3,0.14,49.0,15.1,21.2,9.6,7.9,36.2,33.8,large,Russian Federation
-1001-,Federal University of Goiás,27514,10.2,,45.0,14.0,18.7,7.3,13.6,31.7,17.6,large,Brazil
+1001-,Federal University of Goiás,27514,10.2,0.13,45.0,14.0,18.7,7.3,13.6,31.7,17.6,large,Brazil
 1001-,Federal University of Lavras,12168,17.6,0.01,52.0,15.1,25.1,11.3,7.0,33.7,17.1,medium,Brazil
-1001-,Federal University of Ouro Preto,15380,15.7,,52.0,14.3,16.6,5.5,18.0,32.4,19.5,large,Brazil
+1001-,Federal University of Ouro Preto,15380,15.7,0.13,52.0,14.3,16.6,5.5,18.0,32.4,19.5,large,Brazil
 1001-,Federal University of Paraná (UFPR),33820,13.6,0.01,47.0,12.6,19.6,5.3,9.2,31.7,20.4,large,Brazil
-1001-,Federal University of Santa Maria,25751,13.5,,49.0,13.0,22.3,5.1,9.3,33.3,15.8,large,Brazil
+1001-,Federal University of Santa Maria,25751,13.5,0.13,49.0,13.0,22.3,5.1,9.3,33.3,15.8,large,Brazil
 1001-,Federal University of Viçosa,16752,13.8,0.03,52.0,15.3,25.8,7.4,8.7,50.3,19.1,large,Brazil
-1001-,Fluminense Federal University,61662,18.1,,49.0,14.2,17.8,8.6,12.2,32.0,24.1,large,Brazil
+1001-,Fluminense Federal University,61662,18.1,0.13,49.0,14.2,17.8,8.6,12.2,32.0,24.1,large,Brazil
 1001-,University of Fukui,4980,9.1,0.04,28.0,14.2,20.5,10.2,8.4,37.2,20.3,small,Japan
 1001-,Gazi University,78021,28.2,0.03,49.0,13.8,18.8,9.1,11.2,36.2,15.7,large,Turkey
-1001-,G.B. Pant University of Agriculture & Technology- Pantnagar,4567,8.2,,46.0,11.3,22.3,7.3,2.2,32.3,12.5,small,India
+1001-,G.B. Pant University of Agriculture & Technology- Pantnagar,4567,8.2,0.13,46.0,11.3,22.3,7.3,2.2,32.3,12.5,small,India
 1001-,University of Gda_sk,28397,17.4,0.01,69.0,15.4,17.5,9.3,14.8,32.2,28.8,large,Poland
 1001-,GITAM University,14822,16.3,0.01,27.0,11.5,16.0,6.7,9.6,31.9,13.7,medium,India
 1001-,Government College University Lahore,8526,19.3,0.01,43.0,11.5,17.5,7.9,4.0,0.0,35.3,medium,Pakistan
-1001-,University of Guadalajara,118665,54.0,,51.0,11.4,16.8,3.0,8.4,31.7,28.9,large,Mexico
+1001-,University of Guadalajara,118665,54.0,0.13,51.0,11.4,16.8,3.0,8.4,31.7,28.9,large,Mexico
 1001-,Guangxi University,33970,15.8,0.05,46.0,12.5,16.0,8.8,9.1,35.6,19.3,large,China
 1001-,Hashemite University,24958,25.7,0.04,62.0,12.9,11.1,7.9,9.7,31.7,46.1,large,Jordan
 1001-,University of Hyogo,6682,14.1,0.02,38.0,13.9,17.1,11.6,10.2,38.1,16.9,medium,Japan
 1001-,Ibaraki University,8113,14.0,0.03,35.0,12.8,17.4,5.4,11.2,36.1,22.6,medium,Japan
 1001-,Ivane Javakhishvili Tbilisi State University,21866,28.5,0.02,62.0,12.2,16.2,8.7,2.7,32.2,40.9,large,Georgia
 1001-,Ivan Franko National University of Lviv,18632,11.3,0.01,68.0,10.9,20.2,3.1,3.7,1.4,36.4,large,Ukraine
-1001-,Jawaharlal Nehru Technological University Anantapur (JNTUA),4621,13.6,,39.0,13.3,23.6,9.7,5.3,32.5,12.7,small,India
+1001-,Jawaharlal Nehru Technological University Anantapur (JNTUA),4621,13.6,0.13,39.0,13.3,23.6,9.7,5.3,32.5,12.7,small,India
 1001-,Kanagawa University,18467,39.4,0.03,28.0,14.0,15.0,8.6,14.3,31.7,24.0,large,Japan
 1001-,Kansai University,30211,11.5,0.02,39.0,13.5,23.8,7.3,5.9,32.9,21.2,large,Japan
 1001-,Kaunas University of Technology,10439,13.8,0.06,39.0,12.6,18.1,11.7,3.3,35.7,23.7,medium,Lithuania
-1001-,King Mongkut's University of Technology North Bangkok,25640,24.4,,38.0,14.4,18.4,7.6,13.8,33.0,21.2,large,Thailand
+1001-,King Mongkut's University of Technology North Bangkok,25640,24.4,0.13,38.0,14.4,18.4,7.6,13.8,33.0,21.2,large,Thailand
 1001-,Kogakuin University,6506,20.5,0.01,13.0,12.7,17.0,8.2,9.5,37.7,18.3,medium,Japan
 1001-,Kwansei Gakuin University,24410,15.2,0.04,47.0,11.8,16.2,7.1,7.0,32.4,25.0,large,Japan
 1001-,University of Lahore,27872,16.2,0.02,29.0,14.2,15.0,7.0,14.1,31.7,34.2,large,Pakistan
 1001-,University of _ód_,35088,15.9,0.03,66.0,14.7,17.4,9.5,13.8,31.9,23.0,large,Poland
 1001-,_odz University of Technology,19984,15.2,0.02,49.0,14.4,17.0,10.4,12.8,36.4,19.4,large,Poland
-1001-,Londrina State University,16461,9.8,,57.0,15.2,23.8,9.4,10.6,31.8,16.3,large,Brazil
+1001-,Londrina State University,16461,9.8,0.13,57.0,15.2,23.8,9.4,10.6,31.8,16.3,large,Brazil
 1001-,Lviv Polytechnic National University,28691,12.2,0.01,49.0,11.5,18.2,7.6,3.7,31.8,25.0,large,Ukraine
-1001-,Maharaja Sayajirao University of Baroda,29624,29.1,,56.0,12.5,14.5,7.5,13.6,32.2,13.3,large,India
+1001-,Maharaja Sayajirao University of Baroda,29624,29.1,0.13,56.0,12.5,14.5,7.5,13.6,32.2,13.3,large,India
 1001-,Manipal University,24705,9.8,0.09,43.0,12.8,20.7,9.4,3.5,31.9,25.6,large,India
 1001-,Meijo University,15485,31.9,0.02,27.0,12.6,15.4,8.1,10.2,33.1,21.8,large,Japan
 1001-,Ming Chuan University,18843,22.2,0.11,60.0,12.8,15.3,10.2,7.7,32.4,27.0,large,Taiwan
@@ -1055,17 +1055,17 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 1001-,University of Mysore,8535,20.1,0.09,34.0,14.7,28.5,7.7,2.9,31.9,28.4,medium,India
 1001-,National Chiayi University,12750,26.6,0.04,48.0,12.9,14.6,11.0,7.8,65.0,16.6,medium,Taiwan
 1001-,National University of Kaohsiung,5416,23.3,0.03,40.0,14.5,15.1,15.9,8.9,35.8,21.7,medium,Taiwan
-1001-,National Polytechnic University (IPN),173868,10.3,,39.0,13.9,19.9,8.8,9.7,32.9,21.2,large,Mexico
+1001-,National Polytechnic University (IPN),173868,10.3,0.13,39.0,13.9,19.9,8.8,9.7,32.9,21.2,large,Mexico
 1001-,National Research University of Electronic Technology (MIET),4318,10.8,0.02,31.0,13.8,18.5,14.9,4.1,33.8,23.3,small,Russian Federation
 1001-,National Technical University of Ukraine – Kyiv Polytechnic Institute,21601,8.3,0.01,32.0,11.8,22.0,8.2,1.9,32.6,18.2,large,Ukraine
 1001-,Oita University,5793,7.2,0.02,37.0,14.3,21.0,7.6,11.8,33.5,17.8,medium,Japan
 1001-,Ondokuz Mayis University,42911,18.8,0.04,56.0,10.6,16.7,7.3,4.3,33.2,16.8,large,Turkey
 1001-,Perm State University,12371,13.1,0.01,63.0,11.7,18.0,9.5,3.9,36.7,17.9,medium,Russian Federation
 1001-,University of Peshawar,7900,14.9,0.01,42.0,14.2,23.4,7.5,6.8,31.7,27.8,medium,Pakistan
-1001-,PMAS Arid Agriculture University Rawalpindi,9957,40.5,,39.0,13.9,17.9,9.0,9.8,31.7,28.3,medium,Pakistan
-1001-,PSG College of Technology,8490,14.7,,38.0,11.4,16.6,8.4,7.2,32.2,12.8,medium,India
+1001-,PMAS Arid Agriculture University Rawalpindi,9957,40.5,0.13,39.0,13.9,17.9,9.0,9.8,31.7,28.3,medium,Pakistan
+1001-,PSG College of Technology,8490,14.7,0.13,38.0,11.4,16.6,8.4,7.2,32.2,12.8,medium,India
 1001-,RUDN University,16215,9.4,0.32,67.0,15.2,21.2,9.5,5.6,35.3,45.1,large,Russian Federation
-1001-,SASTRA University,13147,18.9,,50.0,13.6,16.2,8.2,15.0,32.4,12.6,medium,India
+1001-,SASTRA University,13147,18.9,0.13,50.0,13.6,16.2,8.2,15.0,32.4,12.6,medium,India
 1001-,Sathyabama University,17861,22.1,0.01,51.0,9.9,17.0,7.9,2.1,32.2,13.3,large,India
 1001-,Sechenov University,16128,9.0,0.1,58.0,12.4,23.4,8.4,0.8,33.8,23.9,large,Russian Federation
 1001-,Shanghai Maritime University,23552,18.8,0.03,37.0,15.0,15.2,8.1,16.8,33.8,28.8,large,China
@@ -1077,8 +1077,8 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 1001-,Southwest Jiaotong University,40819,15.3,0.02,26.0,15.3,18.6,12.0,9.0,76.0,20.2,large,China
 1001-,SRM University,42886,15.3,0.02,23.0,11.8,16.4,7.3,8.9,31.9,15.9,large,India
 1001-,State University of Maringá,23341,14.1,0.01,59.0,12.2,18.8,9.3,6.0,32.0,15.2,large,Brazil
-1001-,State University of Western Paraná (Unioeste),10791,5.0,,53.0,10.6,22.4,4.6,2.4,31.9,13.6,medium,Brazil
-1001-,Tamil Nadu Agricultural University,5780,7.1,,62.0,12.9,24.9,8.8,2.8,35.3,14.8,medium,India
+1001-,State University of Western Paraná (Unioeste),10791,5.0,0.13,53.0,10.6,22.4,4.6,2.4,31.9,13.6,medium,Brazil
+1001-,Tamil Nadu Agricultural University,5780,7.1,0.13,62.0,12.9,24.9,8.8,2.8,35.3,14.8,medium,India
 1001-,Tamkang University,27060,24.0,0.06,48.0,13.6,16.0,11.1,9.3,33.5,25.0,large,Taiwan
 1001-,Technical University of Liberec,6129,12.1,0.09,54.0,13.3,18.5,10.2,4.7,37.1,30.9,medium,Czech Republic
 1001-,Tokyo City University,7904,15.6,0.01,22.0,14.2,18.5,9.6,11.5,39.3,18.4,medium,Japan
@@ -1089,10 +1089,10 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 1001-,Ural Federal University,24917,9.8,0.07,46.0,15.0,22.3,11.9,5.8,38.4,27.8,large,Russian Federation
 1001-,Universiti Utara Malaysia,14315,13.0,0.18,73.0,15.4,24.2,10.3,2.9,32.2,45.3,medium,Malaysia
 1001-,Utsunomiya University,4928,14.5,0.04,36.0,13.0,18.5,9.2,7.2,33.2,22.0,small,Japan
-1001-,University of Veterinary and Animal Sciences- Lahore,5003,28.6,,45.0,11.8,15.7,9.1,4.4,35.1,29.3,medium,Pakistan
+1001-,University of Veterinary and Animal Sciences- Lahore,5003,28.6,0.13,45.0,11.8,15.7,9.1,4.4,35.1,29.3,medium,Pakistan
 1001-,V.N. Karazin Kharkiv National University,16067,9.8,0.27,53.0,14.3,21.3,7.9,3.1,32.0,51.4,large,Ukraine
 1001-,Volgograd State Technical University,9254,12.0,0.06,49.0,10.3,17.7,6.9,2.0,41.5,17.7,medium,Russian Federation
 1001-,Voronezh State University,15468,10.1,0.09,58.0,11.6,20.8,7.1,1.9,33.2,24.4,large,Russian Federation
-1001-,Yazd University,13600,23.9,,56.0,13.0,14.6,9.9,14.8,0.4,15.5,medium,Iran
+1001-,Yazd University,13600,23.9,0.13,56.0,13.0,14.6,9.9,14.8,0.4,15.5,medium,Iran
 1001-,Yeditepe University,23260,25.1,0.01,52.0,11.7,15.4,8.0,9.7,0.2,23.4,large,Turkey
-1001-,University of Zanjan,10305,25.8,,55.0,14.6,16.2,9.4,15.7,38.3,17.3,medium,Iran
+1001-,University of Zanjan,10305,25.8,0.13,55.0,14.6,16.2,9.4,15.7,38.3,17.3,medium,Iran
