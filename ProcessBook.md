@@ -21,6 +21,7 @@ outliers van ratio bekijken \\
 zelf scores bereken waar deze missen met gegeven formule
 
 size of universities added. small <= 5000. 5000 < medium <= 15000. Large > 15000
+https://www.collegedata.com/cs/content/content_choosearticle_tmpl.jhtml?articleId=10006
 
 
 8 juni:<br />
