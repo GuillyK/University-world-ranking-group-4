@@ -23,7 +23,7 @@ zelf scores bereken waar deze missen met gegeven formule
 size of universities added. small <= 5000. 5000 < medium <= 15000. Large > 15000
 
 
-8 juni:
+8 juni:<br />
 Besloten hoe de missinde waarden ingevuld worden:
   * Wanneer er een van de drie jaar bekend is; gebruik deze waarde voor de andere jaren 
   * Wanneer er twee van de drie jaar bekend is; gebruik het gemiddelde van die waarden 
