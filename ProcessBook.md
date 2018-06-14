@@ -32,7 +32,7 @@ Besloten hoe de missinde waarden ingevuld worden:
         Ratio ; 49
         ...
 
-11 juni:
+11 juni:\n
 Uitvoeren wat er op 8 juni is besloten.
 Missende industry incomes en ratios uitgerekend op basis van omliggende jaren
 
