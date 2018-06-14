@@ -1,3 +1,4 @@
+import pycountry
 import csv
 import pandas as pd
 import numpy
@@ -20,7 +21,7 @@ ss
 
 def listmaker(data):
     universitylist = []
-    for uni in data['name']:
+    for uni in data['country']:
         universitylist = universitylist + [uni]
     return(universitylist)
 
@@ -41,7 +42,7 @@ for university in list:
             meanlist = meanlist + [mean]
             meanlist1 = meanlist1 + [mean1]
             meanlist2 = meanlist2 + [mean2]
-meanlist.mean()=
+#meanlist.mean()=
         #meancountryscore2016 = meanscorer(country, data)
         ##meancountryscore2017 = meanscorer(country, data1)
         #eancountryscore2018 = meanscorer(country, data2)
