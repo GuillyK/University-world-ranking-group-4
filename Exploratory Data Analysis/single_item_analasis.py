@@ -5,9 +5,10 @@ plt.close
 
 
 data = pd.read_csv("../DATA/ranking_with_country_2018.csv")
-var = data['research'].sort_values(ascending = True)
+var = data['fte_students']
+var1 = data['international_students']
 print(var)
-plt.hist(var, cumulative = True, density = True)
+plt.scatter(var, var1)
 #plt.hist(var)
-plt.savefig('teaching_score_hist.png')
+plt.savefig('fte_students_international_students_scatter.png')
 plt.show()
