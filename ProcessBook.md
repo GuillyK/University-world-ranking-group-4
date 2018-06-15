@@ -46,4 +46,6 @@ Missende industry incomes en ratios uitgerekend op basis van omliggende jaren
 * Verder kijken naar mogelijke verbanden in data en de functies van Bokeh
 
 14 juni:
-
+* Lijst met continenten gebruikt om de universiteiten ook op te delen per categorie 'continent' 
+* Begonnen met het vinden van alle Engelstalige universiteiten
+      Hierbij zijn uit de lijst kleine landen verwijderd die niet in de ranking voorkomen.
