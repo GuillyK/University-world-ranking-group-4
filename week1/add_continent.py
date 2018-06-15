@@ -2,7 +2,7 @@ import csv
 import pandas as pd
 import numpy
 
-data = pd.read_csv("../DATA/ranking_with_country_2017.csv")
+data = pd.read_csv("../DATA/ranking_with_country_2016.csv")
 continent_find = pd.read_csv('../DATA/Countries-Continents.csv')
 
 c_counter = 0
@@ -22,4 +22,4 @@ for country in data['country']:
     
     # data.set_value(counter, "continent", continent)
     
-data.to_csv("../DATA/ranking_with_country_2017.csv", index=False)
+data.to_csv("../DATA/ranking_with_country_2016.csv", index=False)
