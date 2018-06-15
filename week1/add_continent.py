@@ -7,8 +7,8 @@ continent_find = pd.read_csv('../DATA/Countries-Continents.csv')
 
 for country in data['country']:
     counter = 0
+    check = False
     for country_check in continent_find['Country']:
-        check = False
         if country == country_check:
             check = True
             print(continent_find['Continent'][counter])
