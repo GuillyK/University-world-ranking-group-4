@@ -49,3 +49,5 @@ Missende industry incomes en ratios uitgerekend op basis van omliggende jaren
 * Lijst met continenten gebruikt om de universiteiten ook op te delen per categorie 'continent' 
 * Begonnen met het vinden van alle Engelstalige universiteiten
       Hierbij zijn uit de lijst kleine landen verwijderd die niet in de ranking voorkomen.
+      (Australia, Canada, New Zealand, United Kingdom, United States, Ireland, Jamaica)
+      Er is niet rekening gehouden met of er universiteiten zijn in engelstalige landen die niet engelstalig zijn.
