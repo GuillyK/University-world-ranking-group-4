@@ -62,6 +62,7 @@ Asia,Burma (Myanmar)
 Asia,Cambodia
 Asia,China
 Asia,East Timor
+Asia,Hong Kong
 Asia,India
 Asia,Indonesia
 Asia,Iran
@@ -70,12 +71,13 @@ Asia,Israel
 Asia,Japan
 Asia,Jordan
 Asia,Kazakhstan
-Asia,"Korea, North"
-Asia,"Korea, South"
+Asia,North Korea
+Asia,South Korea
 Asia,Kuwait
 Asia,Kyrgyzstan
 Asia,Laos
 Asia,Lebanon
+Asia,Macao
 Asia,Malaysia
 Asia,Maldives
 Asia,Mongolia
@@ -89,6 +91,7 @@ Asia,Saudi Arabia
 Asia,Singapore
 Asia,Sri Lanka
 Asia,Syria
+Asia,Taiwan
 Asia,Tajikistan
 Asia,Thailand
 Asia,Turkey
@@ -109,6 +112,7 @@ Europe,Bulgaria
 Europe,Croatia
 Europe,Cyprus
 Europe,CZ
+Europe,Czech Repuplic
 Europe,Denmark
 Europe,Estonia
 Europe,Finland
@@ -130,10 +134,12 @@ Europe,Moldova
 Europe,Monaco
 Europe,Montenegro
 Europe,Netherlands
+Europe,Northern Cyprus
 Europe,Norway
 Europe,Poland
 Europe,Portugal
 Europe,Romania
+Europe,Russian Federation
 Europe,San Marino
 Europe,Serbia
 Europe,Slovakia
