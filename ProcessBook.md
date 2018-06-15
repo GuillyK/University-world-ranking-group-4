@@ -51,3 +51,8 @@ Missende industry incomes en ratios uitgerekend op basis van omliggende jaren
       Hierbij zijn uit de lijst kleine landen verwijderd die niet in de ranking voorkomen.
       (Australia, Canada, New Zealand, United Kingdom, United States, Ireland, Jamaica)
       Er is niet rekening gehouden met of er universiteiten zijn in engelstalige landen die niet engelstalig zijn.
+
+15 juni:
+* toevoegen van continenten in csv-files 
+* toevoegen van engelstalige landen in csv-files 
+    Bij de Engelstalige universiteiten staat een 1; niet Engelstalig 0
