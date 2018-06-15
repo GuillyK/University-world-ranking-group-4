@@ -37,22 +37,22 @@ Besloten hoe de missinde waarden ingevuld worden:
 Uitvoeren wat er op 8 juni is besloten.
 Missende industry incomes en ratios uitgerekend op basis van omliggende jaren
 
-12 juni:
+12 juni: <br />
 * Kijken welke verbanden er te vinden zijn in de data en welke hiervan interessant zijn. 
 * Beginnen met het uitzoeken hoe Bokeh werkt.
 
-13 juni:
+13 juni: <br />
 * De 'overall' score uitrekenen op basis van de formule en de ingevulde waarden
 * Verder kijken naar mogelijke verbanden in data en de functies van Bokeh
 
-14 juni:
+14 juni: <br />
 * Lijst met continenten gebruikt om de universiteiten ook op te delen per categorie 'continent' 
-* Begonnen met het vinden van alle Engelstalige universiteiten
-      Hierbij zijn uit de lijst kleine landen verwijderd die niet in de ranking voorkomen.
-      (Australia, Canada, New Zealand, United Kingdom, United States, Ireland, Jamaica)
+* Begonnen met het vinden van alle Engelstalige universiteiten <br />
+      Hierbij zijn uit de lijst kleine landen verwijderd die niet in de ranking voorkomen. <br />
+      (Australia, Canada, New Zealand, United Kingdom, United States, Ireland, Jamaica) <br /> <br />
       Er is niet rekening gehouden met of er universiteiten zijn in engelstalige landen die niet engelstalig zijn.
 
-15 juni:
+15 juni: <br />
 * toevoegen van continenten in csv-files 
-* toevoegen van engelstalige landen in csv-files 
+* toevoegen van engelstalige landen in csv-files  <br />
     Bij de Engelstalige universiteiten staat een 1; niet Engelstalig 0
