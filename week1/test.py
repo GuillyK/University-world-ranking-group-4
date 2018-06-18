@@ -1,4 +1,3 @@
-import pycountry
 import csv
 import pandas as pd
 import numpy
@@ -6,54 +5,59 @@ import matplotlib.pyplot as plt
 plt.close
 
 def meanscorer(university, dataset):
-        score = data.loc[dataset['name'] == university, ['overall']]
-
+        score = data.loc[dataset['country'] == university, ['overall']]
         return(score['overall'].mean())
 
-data = pd.read_csv("ranking_with_country_2016.csv")
-data1 = pd.read_csv("ranking_with_country_2017.csv")
-data2 = pd.read_csv("ranking_with_country_2018.csv")
-ss
+data = pd.read_csv("../DATA/ranking_with_country_2016.csv")
+data1 = pd.read_csv("../DATA/ranking_with_country_2017.csv")
+data2 = pd.read_csv("../DATA/ranking_with_country_2018.csv")
+allunis = pd.read_csv("../DATA/alluniversities.csv")
+
 #for ratio in data['ratio']:
-    #print(ratio)
+    #print(rat
+
+countrylist = []
+university1000list = []
+for university in data['name']:
+    if university not in university1000list:
+        university1000list = university1000list + [university]
+print(university1000list)
+
+for country in allunis['afkorting']:
+    if country not in countrylist:
+        countrylist = countrylist + [country]
+
+precentagelist = []
+countrylist2 = []
+for country in countrylist:
+    counter1000 = 0
+    totalcounter = 0
+    universityincountry = allunis.loc[allunis['afkorting'] == country , ['university']]
+    for university in universityincountry['university']:
+        totalcounter += 1
+        if university in university1000list:
+            counter1000 += 1
+        precentage = counter1000/ totalcounter * 100
+
+    if counter1000 is not 0:
+        print (country, counter1000 ,'/', totalcounter,'=', precentage)
+        precentagelist = precentagelist + [precentage]
+        countrylist2 = countrylist2 + [country]
+        print(len(precentagelist))
+        print(len(countrylist2))
 
 
+#meancountryscore2016 = meanscorer(country, data)
+#meancountryscore2017 = meanscorer(country, data1)
+#meancountryscore2018 = meanscorer(country, data2)
+#meanlist = [meancountryscore2016] + [meancountryscore2017] + [meancountryscore2018]
+#print(country, '2016 =' ,meancountryscore2016)
+#print(country, '2017 =' ,meancountryscore2017)
+#print(country, '2018 =' ,meancountryscore2018)
+#3meancountryoverall = pd.Series(meanlist)
+#deviationoverall = meancountryoverall.std()
+#print("overall deviation for", country, ' = ', deviationoverall)
 
-def listmaker(data):
-    universitylist = []
-    for uni in data['country']:
-        universitylist = universitylist + [uni]
-    return(universitylist)
-
-list = listmaker(data)
-list1 = listmaker(data1)
-list2 = listmaker(data2)
-
-
-meanlist = []
-meanlist1 = []
-meanlist2 = []
-for university in list:
-    if university in list1:
-        if university in list2:
-            mean = meanscorer(university, data)
-            mean1 = meanscorer(university, data1)
-            mean2 = meanscorer(university, data2)
-            meanlist = meanlist + [mean]
-            meanlist1 = meanlist1 + [mean1]
-            meanlist2 = meanlist2 + [mean2]
-#meanlist.mean()=
-        #meancountryscore2016 = meanscorer(country, data)
-        ##meancountryscore2017 = meanscorer(country, data1)
-        #eancountryscore2018 = meanscorer(country, data2)
-        #meanlist = [meancountryscore2016] + [meancountryscore2017] + [meancountryscore2018]
-        #print(country, '2016 =' ,meancountryscore2016)
-        #print(country, '2017 =' ,meancountryscore2017)
-        #print(country, '2018 =' ,meancountryscore2018)
-        #meancountryoverall = pd.Series(meanlist)
-        #deviationoverall = meancountryoverall.std()
-        #print("overall deviation for", country, ' = ', deviationoverall)
-
-    #print(studentsperstaff)
-    #plt.scatter(studentlist, studentsperstaff)
-    #plt.show()
+#print(studentsperstaff)
+plt.scatter(precentagelist, countrylist2 )
+plt.show()
