@@ -65,7 +65,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 64,Boston University,24714,8.4,0.19,59,66.9,60.2,48.5,97.7,34.4,54.6,large,United States,North America,1.0,2.0,172.0,3.0
 65,Wageningen University & Research,9535,15.6,0.23,56,66.6,51.8,50.1,92.8,100.0,75.6,medium,Netherlands,Europe,0.0,1.0,133.0,2.0
 66,École Normale Supérieure,1548,9.6,0.18,40,65.8,59.8,52.3,85.8,40.0,72.2,small,France,Europe,0.0,0.0,116.0,2.0
-67,University of Maryland- College Park,31353,16.8,0.09,48,65.3,51.0,63.2,91.1,38.5,36.7,large,United States,North America,1.0,2.0,172.0,3.0
+67,University of Maryland College Park,31353,16.8,0.09,48,65.3,51.0,63.2,91.1,38.5,36.7,large,United States,North America,1.0,2.0,172.0,3.0
 68,Pennsylvania State University,45359,12.3,0.13,46,65.0,55.6,63.3,82.9,51.9,42.7,large,United States,North America,1.0,2.0,172.0,3.0
 69,Erasmus University Rotterdam,21854,20.6,0.19,49,64.6,38.8,56.8,95.6,57.7,77.1,large,Netherlands,Europe,0.0,2.0,133.0,2.0
 70,Purdue University,38788,17.7,0.22,42,64.5,57.2,66.8,69.0,62.5,67.7,large,United States,North America,1.0,2.0,172.0,3.0
@@ -172,7 +172,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 170,University of Cologne,44882,41.3,0.11,61,53.1,40.2,38.3,79.2,64.3,55.9,large,Germany,Europe,0.0,2.0,118.0,2.0
 170,University of Gothenburg,17761,10.6,0.12,49,53.1,30.3,40.5,87.9,39.9,59.6,large,Sweden,Europe,0.0,2.0,145.0,2.0
 172,University of Leicester,14179,12.5,0.36,53,53.0,30.9,32.4,88.4,35.1,87.6,medium,United Kingdom,Europe,1.0,1.0,148.0,2.0
-173,Royal Holloway- University of London,8551,15.3,0.38,58,52.9,33.3,32.3,84.5,35.7,93.0,medium,United Kingdom,Europe,1.0,1.0,148.0,2.0
+173,Royal Holloway University of London,8551,15.3,0.38,58,52.9,33.3,32.3,84.5,35.7,93.0,medium,United Kingdom,Europe,1.0,1.0,148.0,2.0
 173,University of Waterloo,31776,24.8,0.15,45,52.9,37.8,44.9,70.8,41.0,77.5,large,Canada,North America,1.0,2.0,154.0,3.0
 175,Pompeu Fabra University,10791,20.1,0.12,59,52.8,30.3,33.0,93.1,40.5,65.1,medium,Spain,Europe,0.0,1.0,144.0,2.0
 176,Technical University of Denmark,8063,5.7,0.18,27,52.5,38.3,30.0,80.2,60.6,85.8,medium,Denmark,Europe,0.0,1.0,113.0,2.0
@@ -205,7 +205,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 201—250,University of Antwerp,16445,35.8,0.15,54,50.4,34.5,39.8,73.0,54.6,64.9,large,Belgium,Europe,0.0,2.0,106.0,2.0
 201—250,University of Barcelona,47569,12.5,0.1,61,49.0,33.7,33.0,81.3,35.3,49.3,large,Spain,Europe,0.0,2.0,144.0,2.0
 201—250,University of Bergen,11949,11.5,0.13,59,50.1,29.8,29.3,86.2,36.6,74.0,medium,Norway,Europe,0.0,1.0,135.0,2.0
-201—250,Birkbeck- University of London,9690,19.5,0.38,54,46.3,27.4,35.1,67.0,32.6,88.4,medium,United Kingdom,Europe,1.0,1.0,148.0,2.0
+201—250,Birkbeck University of London,9690,19.5,0.38,54,46.3,27.4,35.1,67.0,32.6,88.4,medium,United Kingdom,Europe,1.0,1.0,148.0,2.0
 201—250,University of Bologna,84486,22.3,0.07,56,47.6,35.6,27.5,81.7,37.4,42.8,large,Italy,Europe,0.0,2.0,123.0,2.0
 201—250,Boston College,12932,16.5,0.19,55,49.6,47.3,19.3,79.9,43.8,60.2,medium,United States,North America,1.0,1.0,172.0,3.0
 201—250,CentraleSupélec,4130,11.4,0.32,22,46.3,35.8,14.7,78.1,56.4,84.0,small,France,Europe,0.0,0.0,116.0,2.0
@@ -225,7 +225,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 201—250,Korea University,22739,15.5,0.16,42,46.4,40.9,45.4,49.2,98.6,44.0,large,South Korea,Asia,0.0,2.0,73.0,1.0
 201—250,Université Libre de Bruxelles,23712,35.0,0.32,54,50.4,26.3,42.8,74.4,44.5,83.3,large,Belgium,Europe,0.0,2.0,106.0,2.0
 201—250,Nanjing University,34784,15.7,0.09,42,47.7,41.7,36.9,61.5,73.9,51.4,large,China,Asia,0.0,2.0,61.0,1.0
-201—250,National University of Ireland- Galway,13911,26.1,0.16,56,46.6,27.7,27.8,76.7,41.4,78.1,medium,Ireland,Europe,1.0,1.0,122.0,2.0
+201—250,National University of Ireland Galway,13911,26.1,0.16,56,46.6,27.7,27.8,76.7,41.4,78.1,medium,Ireland,Europe,1.0,1.0,122.0,2.0
 201—250,University of Newcastle,23838,22.7,0.18,56,47.0,29.3,28.5,73.5,63.7,79.8,large,Australia,Oceania,1.0,2.0,173.0,4.0
 201—250,North Carolina State University,30187,13.1,0.12,45,46.4,37.5,32.7,68.4,42.0,50.2,large,United States,North America,1.0,2.0,172.0,3.0
 201—250,University of Otago,18567,20.2,0.2,57,49.9,30.5,30.7,80.1,35.6,88.6,large,New Zealand,Oceania,1.0,2.0,179.0,4.0
@@ -240,10 +240,10 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 201—250,Shanghai Jiao Tong University,36535,12.3,0.06,41,49.4,51.9,56.5,41.5,90.5,29.3,large,China,Asia,0.0,2.0,61.0,1.0
 201—250,Simon Fraser University,26607,28.3,0.29,55,47.7,23.8,31.9,77.0,47.5,89.3,large,Canada,North America,1.0,2.0,154.0,3.0
 201—250,University of South Florida,32016,19.0,0.11,49,47.1,27.8,34.9,75.2,95.8,44.4,large,United States,North America,1.0,2.0,172.0,3.0
-201—250,St George’s- University of London,3077,14.5,0.16,62,48.6,21.3,20.7,100.0,35.5,67.7,small,United Kingdom,Europe,1.0,0.0,148.0,2.0
+201—250,St George’s University of London,3077,14.5,0.16,62,48.6,21.3,20.7,100.0,35.5,67.7,small,United Kingdom,Europe,1.0,0.0,148.0,2.0
 201—250,Stony Brook University,22867,10.9,0.24,49,48.9,34.7,24.5,86.8,35.6,55.6,large,United States,North America,1.0,2.0,172.0,3.0
 201—250,University of Stuttgart,15721,30.3,0.14,30,48.1,42.3,44.5,53.4,100.0,47.2,large,Germany,Europe,0.0,2.0,118.0,2.0
-201—250,University of Technology- Sydney,25069,44.0,0.35,52,50.3,27.1,40.0,73.8,44.2,92.3,large,Australia,Oceania,1.0,2.0,173.0,4.0
+201—250,University of Technology Sydney,25069,44.0,0.35,52,50.3,27.1,40.0,73.8,44.2,92.3,large,Australia,Oceania,1.0,2.0,173.0,4.0
 201—250,Technical University of Darmstadt,20719,51.9,0.18,28,46.6,38.2,43.0,52.5,95.1,54.7,large,Germany,Europe,0.0,2.0,118.0,2.0
 201—250,Tel Aviv University,23663,24.0,0.04,54,49.0,41.0,51.1,55.1,45.3,49.1,large,Israel,Asia,0.0,2.0,68.0,1.0
 201—250,University of Texas at Dallas,17825,25.0,0.25,44,50.0,26.9,32.5,90.4,43.3,53.1,large,United States,North America,1.0,2.0,172.0,3.0
@@ -291,7 +291,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 251—300,Syracuse University,19930,16.1,0.17,54,44.3,32.9,25.9,75.4,36.4,41.4,large,United States,North America,1.0,2.0,172.0,3.0
 251—300,University of São Paulo,83201,14.7,0.04,48,46.0,57.2,60.2,25.7,39.6,28.3,large,Brazil,South America,0.0,2.0,189.0,5.0
 251—300,University of Tampere,9530,21.7,0.05,66,43.7,26.2,29.3,75.9,52.2,40.1,medium,Finland,Europe,0.0,1.0,115.0,2.0
-251—300,University of Tennessee- Knoxville,26988,17.8,0.04,49,44.5,30.5,21.5,83.0,42.1,39.5,large,United States,North America,1.0,2.0,172.0,3.0
+251—300,University of Tennessee Knoxville,26988,17.8,0.04,49,44.5,30.5,21.5,83.0,42.1,39.5,large,United States,North America,1.0,2.0,172.0,3.0
 251—300,Tokyo Institute of Technology,9587,7.4,0.13,13,46.3,48.4,50.5,41.7,64.1,32.9,medium,Japan,Asia,0.0,1.0,69.0,1.0
 251—300,Umeå University,16698,11.7,0.1,60,44.6,22.6,28.6,79.7,35.2,59.9,large,Sweden,Europe,0.0,2.0,145.0,2.0
 251—300,Vienna University of Technology,17620,35.8,0.27,29,44.1,38.1,25.5,57.7,70.9,79.1,large,Austria,Europe,0.0,2.0,103.0,2.0
@@ -317,7 +317,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 301—350,Federal University of Toulouse Midi-Pyrénées,93250,23.3,0.19,54,41.5,30.9,26.2,62.4,36.2,62.8,large,France,Europe,0.0,2.0,116.0,2.0
 301—350,George Mason University,27337,17.4,0.08,54,41.6,28.1,24.6,73.4,33.4,38.7,large,United States,North America,1.0,2.0,172.0,3.0
 301—350,University of Georgia,33241,19.5,0.07,57,41.6,33.0,35.0,57.2,34.9,41.7,large,United States,North America,1.0,2.0,172.0,3.0
-301—350,Goldsmiths- University of London,7257,16.5,0.38,67,43.3,28.4,30.6,63.8,32.2,75.4,medium,United Kingdom,Europe,1.0,1.0,148.0,2.0
+301—350,Goldsmiths University of London,7257,16.5,0.38,67,43.3,28.4,30.6,63.8,32.2,75.4,medium,United Kingdom,Europe,1.0,1.0,148.0,2.0
 301—350,Grenoble Alpes University,37815,16.3,0.15,53,41.4,26.7,21.9,71.7,34.3,60.0,large,France,Europe,0.0,2.0,116.0,2.0
 301—350,Gwangju Institute of Science and Technology,1575,10.7,0.07,23,43.2,39.5,39.9,51.9,44.9,35.2,small,South Korea,Asia,0.0,0.0,73.0,1.0
 301—350,University of Innsbruck,14360,13.3,0.38,54,43.0,26.1,18.7,70.8,43.1,96.2,medium,Austria,Europe,0.0,1.0,103.0,2.0
@@ -352,10 +352,10 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 301—350,York University,46565,40.8,0.22,58,42.5,29.9,39.7,50.7,37.4,73.5,large,Canada,North America,1.0,2.0,154.0,3.0
 351—400,Aston University,8563,16.4,0.32,48,38.1,20.6,23.9,56.2,34.3,93.5,medium,United Kingdom,Europe,1.0,1.0,148.0,2.0
 351—400,Bilkent University,9761,14.1,0.04,46,38.4,23.4,19.9,68.3,39.7,51.9,medium,Turkey,Asia,0.0,1.0,94.0,1.0
-351—400,Binghamton University- State University of New York,16628,23.7,0.14,48,37.9,24.3,20.4,68.5,35.9,40.3,large,United States,North America,1.0,2.0,172.0,3.0
+351—400,Binghamton University State University of New York,16628,23.7,0.14,48,37.9,24.3,20.4,68.5,35.9,40.3,large,United States,North America,1.0,2.0,172.0,3.0
 351—400,University of Calabria,30219,36.4,0.03,59,40.6,14.7,25.8,84.2,33.4,31.1,large,Italy,Europe,0.0,2.0,123.0,2.0
 351—400,University of Canterbury,11943,16.4,0.2,50,39.8,23.8,26.8,56.2,40.5,89.7,medium,New Zealand,Oceania,1.0,1.0,179.0,4.0
-351—400,City- University of London,12489,16.1,0.49,54,39.5,24.1,25.9,56.2,33.3,91.0,medium,United Kingdom,Europe,1.0,1.0,148.0,2.0
+351—400,City University of London,12489,16.1,0.49,54,39.5,24.1,25.9,56.2,33.3,91.0,medium,United Kingdom,Europe,1.0,1.0,148.0,2.0
 351—400,Claude Bernard University Lyon 1,35944,17.2,0.08,50,37.9,21.1,16.9,73.1,37.6,47.8,large,France,Europe,0.0,2.0,116.0,2.0
 351—400,University College Cork,15877,22.4,0.16,56,39.2,27.7,25.7,54.1,50.6,76.0,large,Ireland,Europe,1.0,2.0,122.0,2.0
 351—400,University of Cyprus,7025,22.5,0.08,69,39.8,19.1,25.4,66.6,34.7,75.0,medium,Cyprus,Europe,0.0,1.0,110.0,2.0
@@ -450,7 +450,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 401—500,Makerere University,37423,29.2,0.09,51,36.8,15.1,11.8,78.0,36.7,58.3,large,Uganda,Africa,0.0,2.0,51.0,0.0
 401—500,University of Manitoba,29111,28.0,0.13,55,36.7,28.7,26.3,53.4,40.6,42.2,large,Canada,North America,1.0,2.0,154.0,3.0
 401—500,Marche Polytechnic University,16830,23.6,0.04,46,37.3,21.2,7.2,85.8,37.5,28.1,large,Italy,Europe,0.0,2.0,123.0,2.0
-401—500,University of Maryland- Baltimore County,13979,17.8,0.08,46,32.7,21.3,18.7,58.8,33.4,29.6,medium,United States,North America,1.0,1.0,172.0,3.0
+401—500,University of Maryland Baltimore County,13979,17.8,0.08,46,32.7,21.3,18.7,58.8,33.4,29.6,medium,United States,North America,1.0,1.0,172.0,3.0
 401—500,Massey University,18681,16.1,0.28,61,33.5,22.5,19.6,43.3,39.1,92.2,large,New Zealand,Oceania,1.0,2.0,179.0,4.0
 401—500,University of Modena and Reggio Emilia,20141,26.4,0.06,54,34.4,16.2,10.2,76.2,36.0,36.0,large,Italy,Europe,0.0,2.0,123.0,2.0
 401—500,University of Montana,10304,17.6,0.04,55,37.2,34.4,15.4,64.8,36.0,25.4,medium,United States,North America,1.0,1.0,172.0,3.0
@@ -484,7 +484,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 401—500,San Diego State University,28358,31.8,0.06,56,37.1,20.9,28.8,64.4,33.2,27.3,large,United States,North America,1.0,2.0,172.0,3.0
 401—500,University of Saskatchewan,19154,17.9,0.15,57,37.4,34.2,25.0,43.5,69.0,64.4,large,Canada,North America,1.0,2.0,154.0,3.0
 401—500,University of Siegen,19139,54.4,0.11,50,36.9,22.2,24.0,60.8,40.7,50.1,large,Germany,Europe,0.0,2.0,118.0,2.0
-401—500,Soas- University of London,4756,11.5,0.54,63,34.1,32.9,29.4,29.7,32.2,76.0,small,United Kingdom,Europe,1.0,0.0,148.0,2.0
+401—500,Soas University of London,4756,11.5,0.54,63,34.1,32.9,29.4,29.7,32.2,76.0,small,United Kingdom,Europe,1.0,0.0,148.0,2.0
 401—500,University of St Gallen,7175,11.3,0.34,33,36.2,27.2,14.8,50.9,42.8,96.5,medium,Switzerland,Europe,0.0,1.0,146.0,2.0
 401—500,Stellenbosch University,22478,23.9,0.08,53,36.5,28.6,24.8,53.0,32.1,50.3,large,South Africa,Africa,0.0,2.0,44.0,0.0
 401—500,Stevens Institute of Technology,5999,18.3,0.34,29,34.3,21.8,18.3,52.2,33.7,77.3,medium,United States,North America,1.0,1.0,172.0,3.0
@@ -501,7 +501,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 401—500,Xiamen University,42210,15.6,0.04,49,32.9,26.7,21.6,54.2,7.7,25.5,large,China,Asia,0.0,2.0,61.0,1.0
 401—500,École Normale Supérieure de Cachan,1505,9.6,0.07,26,33.6,32.1,9.6,54.0,44.0,50.7,small,France,Europe,0.0,0.0,116.0,2.0
 501—600,American University of Beirut,7836,8.8,0.23,52,31.5,28.5,12.8,38.4,38.5,88.1,medium,Lebanon,Asia,0.0,1.0,77.0,1.0
-501—600,University of the Andes- Colombia,16880,17.5,0.02,44,30.8,19.9,14.9,50.0,49.4,55.5,large,Colombia,South America,0.0,2.0,191.0,5.0
+501—600,University of the Andes Colombia,16880,17.5,0.02,44,30.8,19.9,14.9,50.0,49.4,55.5,large,Colombia,South America,0.0,2.0,191.0,5.0
 501—600,University of Arkansas,23545,20.3,0.05,51,27.9,24.4,19.2,39.2,39.1,27.9,large,United States,North America,1.0,2.0,172.0,3.0
 501—600,Athens University of Economics and Business,11659,48.0,0.06,44,27.8,16.9,20.5,41.2,37.9,43.1,medium,Greece,Europe,0.0,1.0,119.0,2.0
 501—600,Auckland University of Technology,17627,16.9,0.39,59,30.8,17.8,12.5,45.9,33.9,94.8,large,New Zealand,Oceania,1.0,2.0,179.0,4.0
@@ -516,7 +516,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 501—600,Ca’ Foscari University of Venice,20478,41.9,0.07,65,31.9,21.1,25.9,46.1,35.3,41.2,large,Italy,Europe,0.0,2.0,123.0,2.0
 501—600,University of Chile,38079,17.4,0.04,47,28.5,25.4,18.4,36.9,32.1,46.7,large,Chile,South America,0.0,2.0,190.0,5.0
 501—600,China Agricultural University,18945,11.7,0.02,58,28.1,33.9,21.8,29.4,47.8,18.6,large,China,Asia,0.0,2.0,61.0,1.0
-501—600,China Medical University- Taiwan,7810,16.4,0.09,53,31.8,24.0,24.4,45.2,69.6,27.0,medium,Taiwan,Asia,0.0,1.0,91.0,1.0
+501—600,China Medical University Taiwan,7810,16.4,0.09,53,31.8,24.0,24.4,45.2,69.6,27.0,medium,Taiwan,Asia,0.0,1.0,91.0,1.0
 501—600,Complutense University of Madrid,63925,20.3,0.12,62,32.3,30.7,27.1,36.7,36.0,40.1,large,Spain,Europe,0.0,2.0,144.0,2.0
 501—600,Concordia University,31440,30.6,0.27,50,32.2,19.2,24.7,40.9,34.4,79.2,large,Canada,North America,1.0,2.0,154.0,3.0
 501—600,Creighton University,7127,9.8,0.09,57,32.1,42.3,9.7,45.1,35.7,27.8,medium,United States,North America,1.0,1.0,172.0,3.0
@@ -535,7 +535,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 501—600,Istanbul Technical University,34649,16.6,0.05,33,28.7,24.0,24.6,32.4,100.0,24.8,large,Turkey,Asia,0.0,2.0,94.0,1.0
 501—600,Jadavpur University,11017,16.7,0.13,32,27.6,32.1,15.4,37.6,39.1,14.1,medium,India,Asia,0.0,1.0,64.0,1.0
 501—600,Kansas State University,21472,14.3,0.1,49,29.5,25.0,17.9,40.7,44.4,43.9,large,United States,North America,1.0,2.0,172.0,3.0
-501—600,Khalifa University of Science- Technology and Research,1047,8.7,0.22,49,32.2,24.9,12.1,43.2,45.8,93.3,small,United Arab Emirates,Asia,0.0,0.0,96.0,1.0
+501—600,Khalifa University of Science Technology and Research,1047,8.7,0.22,49,32.2,24.9,12.1,43.2,45.8,93.3,small,United Arab Emirates,Asia,0.0,0.0,96.0,1.0
 501—600,King Saud University,40404,13.4,0.07,49,32.3,24.0,27.9,28.7,96.4,76.0,large,Saudi Arabia,Asia,0.0,2.0,87.0,1.0
 501—600,University of KwaZulu-Natal,32074,25.9,0.05,59,32.4,21.5,25.3,42.9,39.5,59.4,large,South Africa,Africa,0.0,2.0,44.0,0.0
 501—600,Lappeenranta University of Technology,3576,23.0,0.2,31,30.8,28.4,26.3,28.7,61.5,55.9,small,Finland,Europe,0.0,0.0,115.0,2.0
@@ -610,7 +610,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 601—800,American University in Cairo,5875,13.9,0.06,53,21.0,24.8,8.7,16.4,33.2,69.4,medium,Egypt,Africa,0.0,1.0,14.0,0.0
 601—800,Amirkabir University of Technology,12468,22.8,0.01,35,25.8,22.7,18.9,35.5,59.9,15.4,medium,Iran,Asia,0.0,1.0,66.0,1.0
 601—800,University of Antioquia,39516,24.4,0.13,50,18.7,16.5,18.5,13.9,43.3,38.8,large,Colombia,South America,0.0,2.0,191.0,5.0
-601—800,Asia University- Taiwan,12330,26.5,0.02,54,19.4,13.5,18.4,24.1,45.1,19.6,medium,Taiwan,Asia,0.0,1.0,91.0,1.0
+601—800,Asia University Taiwan,12330,26.5,0.02,54,19.4,13.5,18.4,24.1,45.1,19.6,medium,Taiwan,Asia,0.0,1.0,91.0,1.0
 601—800,Auburn University,22282,17.6,0.05,50,25.6,31.7,18.3,24.2,40.0,30.9,large,United States,North America,1.0,2.0,172.0,3.0
 601—800,Austral University of Chile,14061,17.1,0.02,49,18.6,16.6,9.8,20.0,43.8,47.4,medium,Chile,South America,0.0,1.0,190.0,5.0
 601—800,Australian Catholic University,21123,31.1,0.1,72,26.9,14.9,17.7,44.2,35.4,40.3,large,Australia,Oceania,1.0,2.0,173.0,4.0
@@ -619,7 +619,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 601—800,University of Bedfordshire,12959,19.1,0.33,58,20.6,14.9,10.0,22.6,32.8,73.1,medium,United Kingdom,Europe,1.0,1.0,148.0,2.0
 601—800,Beijing Institute of Technology,27603,12.7,0.06,34,23.7,30.0,24.7,13.0,78.4,19.2,large,China,Asia,0.0,2.0,61.0,1.0
 601—800,University of Beira Interior,6930,15.4,0.07,52,25.7,18.5,12.7,42.4,32.6,37.7,medium,Portugal,Europe,0.0,1.0,137.0,2.0
-601—800,Birla Institute of Technology and Science- Pilani,12292,17.5,0.13,19,21.0,16.9,7.5,38.9,33.1,15.5,medium,India,Asia,0.0,1.0,64.0,1.0
+601—800,Birla Institute of Technology and Science Pilani,12292,17.5,0.13,19,21.0,16.9,7.5,38.9,33.1,15.5,medium,India,Asia,0.0,1.0,64.0,1.0
 601—800,Bournemouth University,11692,17.4,0.18,57,25.6,17.0,14.9,32.4,32.4,72.7,medium,United Kingdom,Europe,1.0,1.0,148.0,2.0
 601—800,University of Bradford,10296,18.9,0.29,54,24.2,17.9,14.4,25.9,36.0,78.2,medium,United Kingdom,Europe,1.0,1.0,148.0,2.0
 601—800,University of Brighton,15573,17.1,0.21,58,25.3,15.8,12.3,37.4,33.5,64.7,large,United Kingdom,Europe,1.0,2.0,148.0,2.0
@@ -632,11 +632,11 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 601—800,University of Central Lancashire,17703,16.8,0.16,57,22.8,15.4,11.1,33.0,32.7,55.7,large,United Kingdom,Europe,1.0,2.0,148.0,2.0
 601—800,Chang Gung University,7504,12.6,0.01,43,25.2,21.3,25.1,30.3,36.4,17.1,medium,Taiwan,Asia,0.0,1.0,91.0,1.0
 601—800,Carlos III University of Madrid,15787,10.9,0.14,43,26.0,24.7,15.9,29.6,37.2,53.1,large,Spain,Europe,0.0,2.0,144.0,2.0
-601—800,University of Chemistry and Technology- Prague,4525,10.6,0.19,63,21.0,24.1,7.2,23.4,39.0,48.6,small,Czech Republic,Europe,0.0,0.0,112.0,2.0
+601—800,University of Chemistry and Technology Prague,4525,10.6,0.19,63,21.0,24.1,7.2,23.4,39.0,48.6,small,Czech Republic,Europe,0.0,0.0,112.0,2.0
 601—800,Chiang Mai University,37084,16.8,0.01,45,21.4,18.6,11.5,29.7,35.9,33.7,large,Thailand,Asia,0.0,2.0,93.0,1.0
 601—800,Chiba University,14085,10.2,0.05,37,26.0,27.6,16.3,32.7,51.7,23.1,medium,Japan,Asia,0.0,1.0,69.0,1.0
-601—800,China University of Geosciences- Wuhan,29098,20.1,0.03,49,25.3,20.0,20.3,35.3,50.2,18.3,large,China,Asia,0.0,2.0,61.0,1.0
-601—800,China University of Petroleum- Beijing,14997,20.2,0.06,49,21.5,24.3,25.5,8.8,100.0,18.3,medium,China,Asia,0.0,1.0,61.0,1.0
+601—800,China University of Geosciences Wuhan,29098,20.1,0.03,49,25.3,20.0,20.3,35.3,50.2,18.3,large,China,Asia,0.0,2.0,61.0,1.0
+601—800,China University of Petroleum Beijing,14997,20.2,0.06,49,21.5,24.3,25.5,8.8,100.0,18.3,medium,China,Asia,0.0,1.0,61.0,1.0
 601—800,Chonbuk National University,23596,15.1,0.03,44,20.9,19.2,14.9,25.6,36.1,27.7,large,South Korea,Asia,0.0,2.0,73.0,1.0
 601—800,Chonnam National University,35577,19.3,0.03,33,21.2,17.5,13.4,31.1,35.6,22.5,large,South Korea,Asia,0.0,2.0,73.0,1.0
 601—800,Chulalongkorn University,38368,14.7,0.03,59,22.5,26.6,16.8,19.0,50.2,33.0,large,Thailand,Asia,0.0,2.0,93.0,1.0
@@ -803,14 +803,14 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 601—800,Izmir Institute of Technology,4201,19.0,0.04,45,18.8,17.7,9.0,25.2,42.5,29.2,small,Turkey,Asia,0.0,0.0,94.0,1.0
 > 800,Acharya Nagarjuna University,5605,17.4,0.03,27,16.0,36.2,7.8,1.7,39.9,17.1,medium,India,Asia,0.0,1.0,64.0,1.0
 > 800,Adam Mickiewicz University,39291,15.0,0.02,71,17.4,17.6,10.4,20.4,32.7,28.1,large,Poland,Europe,0.0,2.0,136.0,2.0
-> 800,University of Agriculture- Faisalabad,15122,29.0,0.13,36,17.1,14.8,12.2,20.6,32.2,26.2,large,Pakistan,Asia,0.0,2.0,84.0,1.0
+> 800,University of Agriculture Faisalabad,15122,29.0,0.13,36,17.1,14.8,12.2,20.6,32.2,26.2,large,Pakistan,Asia,0.0,2.0,84.0,1.0
 > 800,Ain Shams University,133048,12.5,0.02,59,14.2,19.2,7.9,9.6,33.3,31.2,large,Egypt,Africa,0.0,2.0,14.0,0.0
 > 800,Alexandria University,154366,26.9,0.03,47,17.7,16.2,8.7,20.6,34.8,42.2,large,Egypt,Africa,0.0,2.0,14.0,0.0
 > 800,Alexandru Ioan Cuza University,23707,29.7,0.03,59,17.4,20.1,11.7,11.2,32.2,48.7,large,Romania,Europe,0.0,2.0,138.0,2.0
 > 800,Amity University,25391,15.0,0.03,38,11.8,15.0,7.5,10.0,32.9,16.6,large,India,Asia,0.0,2.0,64.0,1.0
 > 800,Amrita Vishwa Vidyapeetham,18938,11.9,0.09,49,14.5,18.7,6.0,10.8,44.4,37.1,large,India,Asia,0.0,2.0,64.0,1.0
 > 800,Anadolu University,1414640,594.4,0.13,44,12.6,10.9,8.9,15.3,39.3,15.1,large,Turkey,Asia,0.0,2.0,94.0,1.0
-> 800,University of the Andes- Venezuela,54595,23.2,0.13,60,13.9,13.1,6.9,13.2,32.1,41.5,large,Venezuela,South America,0.0,2.0,198.0,5.0
+> 800,University of the Andes Venezuela,54595,23.2,0.13,60,13.9,13.1,6.9,13.2,32.1,41.5,large,Venezuela,South America,0.0,2.0,198.0,5.0
 > 800,Andhra University,10882,21.0,0.04,55,14.8,33.0,8.1,1.6,35.5,15.0,medium,India,Asia,0.0,1.0,64.0,1.0
 > 800,Ankara University,59554,16.4,0.04,53,12.3,18.0,5.3,10.4,32.6,18.8,large,Turkey,Asia,0.0,2.0,94.0,1.0
 > 800,Autonomous University of Nuevo León,104912,28.9,0.13,49,10.8,11.6,6.7,8.1,32.1,28.2,large,Mexico,North America,0.0,2.0,165.0,3.0
@@ -923,7 +923,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 > 800,Saitama University,7459,11.7,0.02,33,18.4,19.1,11.0,22.8,33.3,22.6,medium,Japan,Asia,0.0,1.0,69.0,1.0
 > 800,Saitama Medical University,1888,1.5,0.01,53,17.4,22.8,7.3,21.3,37.2,13.5,small,Japan,Asia,0.0,0.0,69.0,1.0
 > 800,Samara State Aerospace University,6833,10.2,0.04,49,14.8,18.3,7.4,16.0,46.5,15.4,medium,Russian Federation,Europe,0.0,1.0,139.0,2.0
-> 800,University of Santiago- Chile (USACH),22720,20.7,0.01,40,14.7,15.9,10.8,9.6,32.3,40.4,large,Chile,South America,0.0,2.0,190.0,5.0
+> 800,University of Santiago Chile (USACH),22720,20.7,0.01,40,14.7,15.9,10.8,9.6,32.3,40.4,large,Chile,South America,0.0,2.0,190.0,5.0
 > 800,Sathyabama University,15918,20.1,0.01,45,9.7,14.8,7.9,3.7,32.4,12.4,large,India,Asia,0.0,2.0,64.0,1.0
 > 800,Sechenov University,16774,9.0,0.11,56,13.2,25.4,9.1,0.7,33.4,23.8,large,Russian Federation,Europe,0.0,2.0,139.0,2.0
 > 800,University of Seoul,10498,18.6,0.03,36,17.7,22.0,8.7,20.1,33.0,21.2,medium,South Korea,Asia,0.0,1.0,73.0,1.0
