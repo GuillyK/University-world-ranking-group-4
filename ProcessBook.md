@@ -55,4 +55,12 @@ Missende industry incomes en ratios uitgerekend op basis van omliggende jaren
 15 juni: <br />
 * toevoegen van continenten in csv-files 
 * toevoegen van engelstalige landen in csv-files  <br />
-    Bij de Engelstalige universiteiten staat een 1; niet Engelstalig 0
+    Bij de Engelstalige universiteiten staat een 1; niet Engelstalig 0 <br />
+    Engelstalige Universiteiten hebben een hogere score
+    
+18 juni: <br />
+* Nieuw verband: citations heeft een sterk verband met research en teaching
+* Begonnen met kaart van alle universiteiten
+* Percentages per land (aantal uni's in ranking)
+* Uploaden multivariates van alle jaren 
+* Begonnen met alle string waarden te veranderen naar integers
