@@ -117,7 +117,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 113,Pierre and Marie Curie University,27862,8.7,0.18,48,57.0,52.8,32.7,82.9,37.4,74.1,large,France,Europe,0.0,2.0,116.0,2.0
 113,Purdue University,39256,18.1,0.22,42,57.0,50.2,57.7,63.2,63.0,66.4,large,United States,North America,1.0,2.0,172.0,3.0
 116,Pohang University of Science and Technology,3055,10.1,0.04,20,56.9,49.1,47.1,76.7,100.0,33.7,small,South Korea,Asia,0.0,0.0,73.0,1.0
-117,University of Maryland,31331,8.4,0.09,48,56.7,45.0,42.1,88.2,32.3,43.5,large,United States,North America,1.0,2.0,172.0,3.0
+117,University of Maryland College Park,31331,8.4,0.09,48,56.7,45.0,42.1,88.2,32.3,43.5,large,United States,North America,1.0,2.0,172.0,3.0
 118,Ghent University,32166,34.1,0.09,57,56.6,42.1,54.5,71.2,88.3,54.2,large,Belgium,Europe,0.0,2.0,106.0,2.0
 119,University of Birmingham,25295,16.4,0.23,54,56.2,39.4,41.8,82.7,34.7,82.0,large,United Kingdom,Europe,1.0,2.0,148.0,2.0
 120,University of Bern,14708,22.5,0.14,54,56.1,40.0,42.5,76.6,82.9,83.7,medium,Switzerland,Europe,0.0,1.0,146.0,2.0
@@ -452,7 +452,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 401-500,Louisiana State University,28116,20.1,0.05,52,30.1,26.8,27.7,37.8,19.9,26.1,large,United States,North America,1.0,2.0,172.0,3.0
 401-500,University of Macau,8521,14.9,0.31,58,33.8,18.5,17.0,49.7,34.9,98.4,medium,Macao,Asia,0.0,1.0,78.0,1.0
 401-500,Marche Polytechnic University,16589,23.0,0.04,45,34.7,15.2,11.0,80.2,28.0,27.3,large,Italy,Europe,0.0,2.0,123.0,2.0
-401-500,University of Maryland,13908,18.1,0.07,46,33.1,21.3,18.2,61.3,31.7,28.2,medium,United States,North America,1.0,1.0,172.0,3.0
+401-500,University of Maryland Baltimore County,13908,18.1,0.07,46,33.1,21.3,18.2,61.3,31.7,28.2,medium,United States,North America,1.0,1.0,172.0,3.0
 401-500,Murdoch University,16606,32.8,0.43,59,34.4,18.7,19.6,51.2,36.5,88.3,large,Australia,Oceania,1.0,2.0,173.0,4.0
 401-500,University of Nantes,33866,22.2,0.11,56,33.9,19.6,12.2,69.4,35.9,35.1,large,France,Europe,0.0,2.0,116.0,2.0
 401-500,National and Kapodistrian University of Athens,63052,32.3,0.09,61,30.4,26.7,16.3,45.8,34.7,39.0,large,Greece,Europe,0.0,2.0,119.0,2.0
