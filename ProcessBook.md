@@ -64,3 +64,8 @@ Missende industry incomes en ratios uitgerekend op basis van omliggende jaren
 * Percentages per land (aantal uni's in ranking)
 * Uploaden multivariates van alle jaren 
 * Begonnen met alle string waarden te veranderen naar integers
+
+Datum | Charlotte | Guilly | Nienke | Tobias
+--- | --- | --- | --- | --- 
+19/06 |  | | |
+
