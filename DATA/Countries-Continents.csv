@@ -1,200 +1,200 @@
-Continent,Country
-Africa,Algeria
-Africa,Angola
-Africa,Benin
-Africa,Botswana
-Africa,Burkina
-Africa,Burundi
-Africa,Cameroon
-Africa,Cape Verde
-Africa,Central African Republic
-Africa,Chad
-Africa,Comoros
-Africa,Congo
-Africa,"Congo, Democratic Republic of"
-Africa,Djibouti
-Africa,Egypt
-Africa,Equatorial Guinea
-Africa,Eritrea
-Africa,Ethiopia
-Africa,Gabon
-Africa,Gambia
-Africa,Ghana
-Africa,Guinea
-Africa,Guinea-Bissau
-Africa,Ivory Coast
-Africa,Kenya
-Africa,Lesotho
-Africa,Liberia
-Africa,Libya
-Africa,Madagascar
-Africa,Malawi
-Africa,Mali
-Africa,Mauritania
-Africa,Mauritius
-Africa,Morocco
-Africa,Mozambique
-Africa,Namibia
-Africa,Niger
-Africa,Nigeria
-Africa,Rwanda
-Africa,Sao Tome and Principe
-Africa,Senegal
-Africa,Seychelles
-Africa,Sierra Leone
-Africa,Somalia
-Africa,South Africa
-Africa,South Sudan
-Africa,Sudan
-Africa,Swaziland
-Africa,Tanzania
-Africa,Togo
-Africa,Tunisia
-Africa,Uganda
-Africa,Zambia
-Africa,Zimbabwe
-Asia,Afghanistan
-Asia,Bahrain
-Asia,Bangladesh
-Asia,Bhutan
-Asia,Brunei
-Asia,Burma (Myanmar)
-Asia,Cambodia
-Asia,China
-Asia,East Timor
-Asia,Hong Kong
-Asia,India
-Asia,Indonesia
-Asia,Iran
-Asia,Iraq
-Asia,Israel
-Asia,Japan
-Asia,Jordan
-Asia,Kazakhstan
-Asia,North Korea
-Asia,South Korea
-Asia,Kuwait
-Asia,Kyrgyzstan
-Asia,Laos
-Asia,Lebanon
-Asia,Macao
-Asia,Malaysia
-Asia,Maldives
-Asia,Mongolia
-Asia,Nepal
-Asia,Oman
-Asia,Pakistan
-Asia,Philippines
-Asia,Qatar
-Asia,Saudi Arabia
-Asia,Singapore
-Asia,Sri Lanka
-Asia,Syria
-Asia,Taiwan
-Asia,Tajikistan
-Asia,Thailand
-Asia,Turkey
-Asia,menistan
-Asia,United Arab Emirates
-Asia,Uzbekistan
-Asia,Vietnam
-Asia,Yemen
-Europe,Albania
-Europe,Andorra
-Europe,Armenia
-Europe,Austria
-Europe,Azerbaijan
-Europe,Belarus
-Europe,Belgium
-Europe,Bosnia and Herzegovina
-Europe,Bulgaria
-Europe,Croatia
-Europe,Cyprus
-Europe,CZ
-Europe,Czech Republic
-Europe,Denmark
-Europe,Estonia
-Europe,Finland
-Europe,France
-Europe,Georgia
-Europe,Germany
-Europe,Greece
-Europe,Hungary
-Europe,Iceland
-Europe,Ireland
-Europe,Italy
-Europe,Latvia
-Europe,Liechtenstein
-Europe,Lithuania
-Europe,Luxembourg
-Europe,Macedonia
-Europe,Malta
-Europe,Moldova
-Europe,Monaco
-Europe,Montenegro
-Europe,Netherlands
-Europe,Northern Cyprus
-Europe,Norway
-Europe,Poland
-Europe,Portugal
-Europe,Romania
-Europe,Russian Federation
-Europe,San Marino
-Europe,Serbia
-Europe,Slovakia
-Europe,Slovenia
-Europe,Spain
-Europe,Sweden
-Europe,Switzerland
-Europe,Ukraine
-Europe,United Kingdom
-Europe,Vatican City
-North America,Antigua and Barbuda
-North America,Bahamas
-North America,Barbados
-North America,Belize
-North America,Canada
-North America,Costa Rica
-North America,Cuba
-North America,Dominica
-North America,Dominican Republic
-North America,El Salvador
-North America,Grenada
-North America,Guatemala
-North America,Haiti
-North America,Honduras
-North America,Jamaica
-North America,Mexico
-North America,Nicaragua
-North America,Panama
-North America,Saint Kitts and Nevis
-North America,Saint Lucia
-North America,Saint Vincent and the Grenadines
-North America,Trinidad and Tobago
-North America,United States
-Oceania,Australia
-Oceania,Fiji
-Oceania,Kiribati
-Oceania,Marshall Islands
-Oceania,Micronesia
-Oceania,Nauru
-Oceania,New Zealand
-Oceania,Palau
-Oceania,Papua New Guinea
-Oceania,Samoa
-Oceania,Solomon Islands
-Oceania,Tonga
-Oceania,Tuvalu
-Oceania,Vanuatu
-South America,Argentina
-South America,Bolivia
-South America,Brazil
-South America,Chile
-South America,Colombia
-South America,Ecuador
-South America,Guyana
-South America,Paraguay
-South America,Peru
-South America,Suriname
-South America,Uruguay
-South America,Venezuela
+Continent,Country,Number_country,Number_continent
+Africa,Algeria,0.0,0.0
+Africa,Angola,1.0,0.0
+Africa,Benin,2.0,0.0
+Africa,Botswana,3.0,0.0
+Africa,Burkina,4.0,0.0
+Africa,Burundi,5.0,0.0
+Africa,Cameroon,6.0,0.0
+Africa,Cape Verde,7.0,0.0
+Africa,Central African Republic,8.0,0.0
+Africa,Chad,9.0,0.0
+Africa,Comoros,10.0,0.0
+Africa,Congo,11.0,0.0
+Africa,"Congo, Democratic Republic of",12.0,0.0
+Africa,Djibouti,13.0,0.0
+Africa,Egypt,14.0,0.0
+Africa,Equatorial Guinea,15.0,0.0
+Africa,Eritrea,16.0,0.0
+Africa,Ethiopia,17.0,0.0
+Africa,Gabon,18.0,0.0
+Africa,Gambia,19.0,0.0
+Africa,Ghana,20.0,0.0
+Africa,Guinea,21.0,0.0
+Africa,Guinea-Bissau,22.0,0.0
+Africa,Ivory Coast,23.0,0.0
+Africa,Kenya,24.0,0.0
+Africa,Lesotho,25.0,0.0
+Africa,Liberia,26.0,0.0
+Africa,Libya,27.0,0.0
+Africa,Madagascar,28.0,0.0
+Africa,Malawi,29.0,0.0
+Africa,Mali,30.0,0.0
+Africa,Mauritania,31.0,0.0
+Africa,Mauritius,32.0,0.0
+Africa,Morocco,33.0,0.0
+Africa,Mozambique,34.0,0.0
+Africa,Namibia,35.0,0.0
+Africa,Niger,36.0,0.0
+Africa,Nigeria,37.0,0.0
+Africa,Rwanda,38.0,0.0
+Africa,Sao Tome and Principe,39.0,0.0
+Africa,Senegal,40.0,0.0
+Africa,Seychelles,41.0,0.0
+Africa,Sierra Leone,42.0,0.0
+Africa,Somalia,43.0,0.0
+Africa,South Africa,44.0,0.0
+Africa,South Sudan,45.0,0.0
+Africa,Sudan,46.0,0.0
+Africa,Swaziland,47.0,0.0
+Africa,Tanzania,48.0,0.0
+Africa,Togo,49.0,0.0
+Africa,Tunisia,50.0,0.0
+Africa,Uganda,51.0,0.0
+Africa,Zambia,52.0,0.0
+Africa,Zimbabwe,53.0,0.0
+Asia,Afghanistan,54.0,1.0
+Asia,Bahrain,55.0,1.0
+Asia,Bangladesh,56.0,1.0
+Asia,Bhutan,57.0,1.0
+Asia,Brunei,58.0,1.0
+Asia,Burma (Myanmar),59.0,1.0
+Asia,Cambodia,60.0,1.0
+Asia,China,61.0,1.0
+Asia,East Timor,62.0,1.0
+Asia,Hong Kong,63.0,1.0
+Asia,India,64.0,1.0
+Asia,Indonesia,65.0,1.0
+Asia,Iran,66.0,1.0
+Asia,Iraq,67.0,1.0
+Asia,Israel,68.0,1.0
+Asia,Japan,69.0,1.0
+Asia,Jordan,70.0,1.0
+Asia,Kazakhstan,71.0,1.0
+Asia,North Korea,72.0,1.0
+Asia,South Korea,73.0,1.0
+Asia,Kuwait,74.0,1.0
+Asia,Kyrgyzstan,75.0,1.0
+Asia,Laos,76.0,1.0
+Asia,Lebanon,77.0,1.0
+Asia,Macao,78.0,1.0
+Asia,Malaysia,79.0,1.0
+Asia,Maldives,80.0,1.0
+Asia,Mongolia,81.0,1.0
+Asia,Nepal,82.0,1.0
+Asia,Oman,83.0,1.0
+Asia,Pakistan,84.0,1.0
+Asia,Philippines,85.0,1.0
+Asia,Qatar,86.0,1.0
+Asia,Saudi Arabia,87.0,1.0
+Asia,Singapore,88.0,1.0
+Asia,Sri Lanka,89.0,1.0
+Asia,Syria,90.0,1.0
+Asia,Taiwan,91.0,1.0
+Asia,Tajikistan,92.0,1.0
+Asia,Thailand,93.0,1.0
+Asia,Turkey,94.0,1.0
+Asia,menistan,95.0,1.0
+Asia,United Arab Emirates,96.0,1.0
+Asia,Uzbekistan,97.0,1.0
+Asia,Vietnam,98.0,1.0
+Asia,Yemen,99.0,1.0
+Europe,Albania,100.0,2.0
+Europe,Andorra,101.0,2.0
+Europe,Armenia,102.0,2.0
+Europe,Austria,103.0,2.0
+Europe,Azerbaijan,104.0,2.0
+Europe,Belarus,105.0,2.0
+Europe,Belgium,106.0,2.0
+Europe,Bosnia and Herzegovina,107.0,2.0
+Europe,Bulgaria,108.0,2.0
+Europe,Croatia,109.0,2.0
+Europe,Cyprus,110.0,2.0
+Europe,CZ,111.0,2.0
+Europe,Czech Republic,112.0,2.0
+Europe,Denmark,113.0,2.0
+Europe,Estonia,114.0,2.0
+Europe,Finland,115.0,2.0
+Europe,France,116.0,2.0
+Europe,Georgia,117.0,2.0
+Europe,Germany,118.0,2.0
+Europe,Greece,119.0,2.0
+Europe,Hungary,120.0,2.0
+Europe,Iceland,121.0,2.0
+Europe,Ireland,122.0,2.0
+Europe,Italy,123.0,2.0
+Europe,Latvia,124.0,2.0
+Europe,Liechtenstein,125.0,2.0
+Europe,Lithuania,126.0,2.0
+Europe,Luxembourg,127.0,2.0
+Europe,Macedonia,128.0,2.0
+Europe,Malta,129.0,2.0
+Europe,Moldova,130.0,2.0
+Europe,Monaco,131.0,2.0
+Europe,Montenegro,132.0,2.0
+Europe,Netherlands,133.0,2.0
+Europe,Northern Cyprus,134.0,2.0
+Europe,Norway,135.0,2.0
+Europe,Poland,136.0,2.0
+Europe,Portugal,137.0,2.0
+Europe,Romania,138.0,2.0
+Europe,Russian Federation,139.0,2.0
+Europe,San Marino,140.0,2.0
+Europe,Serbia,141.0,2.0
+Europe,Slovakia,142.0,2.0
+Europe,Slovenia,143.0,2.0
+Europe,Spain,144.0,2.0
+Europe,Sweden,145.0,2.0
+Europe,Switzerland,146.0,2.0
+Europe,Ukraine,147.0,2.0
+Europe,United Kingdom,148.0,2.0
+Europe,Vatican City,149.0,2.0
+North America,Antigua and Barbuda,150.0,3.0
+North America,Bahamas,151.0,3.0
+North America,Barbados,152.0,3.0
+North America,Belize,153.0,3.0
+North America,Canada,154.0,3.0
+North America,Costa Rica,155.0,3.0
+North America,Cuba,156.0,3.0
+North America,Dominica,157.0,3.0
+North America,Dominican Republic,158.0,3.0
+North America,El Salvador,159.0,3.0
+North America,Grenada,160.0,3.0
+North America,Guatemala,161.0,3.0
+North America,Haiti,162.0,3.0
+North America,Honduras,163.0,3.0
+North America,Jamaica,164.0,3.0
+North America,Mexico,165.0,3.0
+North America,Nicaragua,166.0,3.0
+North America,Panama,167.0,3.0
+North America,Saint Kitts and Nevis,168.0,3.0
+North America,Saint Lucia,169.0,3.0
+North America,Saint Vincent and the Grenadines,170.0,3.0
+North America,Trinidad and Tobago,171.0,3.0
+North America,United States,172.0,3.0
+Oceania,Australia,173.0,4.0
+Oceania,Fiji,174.0,4.0
+Oceania,Kiribati,175.0,4.0
+Oceania,Marshall Islands,176.0,4.0
+Oceania,Micronesia,177.0,4.0
+Oceania,Nauru,178.0,4.0
+Oceania,New Zealand,179.0,4.0
+Oceania,Palau,180.0,4.0
+Oceania,Papua New Guinea,181.0,4.0
+Oceania,Samoa,182.0,4.0
+Oceania,Solomon Islands,183.0,4.0
+Oceania,Tonga,184.0,4.0
+Oceania,Tuvalu,185.0,4.0
+Oceania,Vanuatu,186.0,4.0
+South America,Argentina,187.0,5.0
+South America,Bolivia,188.0,5.0
+South America,Brazil,189.0,5.0
+South America,Chile,190.0,5.0
+South America,Colombia,191.0,5.0
+South America,Ecuador,192.0,5.0
+South America,Guyana,193.0,5.0
+South America,Paraguay,194.0,5.0
+South America,Peru,195.0,5.0
+South America,Suriname,196.0,5.0
+South America,Uruguay,197.0,5.0
+South America,Venezuela,198.0,5.0
