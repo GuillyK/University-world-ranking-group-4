@@ -8,11 +8,11 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 7,Princeton University,7925,8.4,0.23,45,90.2,89.5,88.4,99.2,49.9,77.2,medium,United States,North America,1.0,1.0,172.0,3.0
 8,Imperial College London,15236,11.3,0.52,37,90.0,86.4,86.6,97.3,67.5,96.5,large,United Kingdom,Europe,1.0,2.0,148.0,2.0
 9,ETH Zurich – Swiss Federal Institute of Technology Zurich,18616,14.9,0.37,31,89.3,81.5,93.7,92.5,63.7,98.1,large,Switzerland,Europe,0.0,2.0,146.0,2.0
-10,University of California- Berkeley,34834,12.0,0.16,52,88.9,82.4,96.1,99.8,37.6,59.6,large,United States,North America,1.0,2.0,172.0,3.0
+10,University of California Berkeley,34834,12.0,0.16,52,88.9,82.4,96.1,99.8,37.6,59.6,large,United States,North America,1.0,2.0,172.0,3.0
 10,University of Chicago,13486,6.2,0.24,42,88.9,88.1,89.1,99.1,37.7,67.8,medium,United States,North America,1.0,1.0,172.0,3.0
 12,Yale University,11946,4.4,0.21,49,88.2,88.5,87.8,97.8,44.5,64.3,medium,United States,North America,1.0,1.0,172.0,3.0
 13,University of Pennsylvania,20367,6.5,0.2,51,87.1,85.9,88.9,98.6,49.9,50.1,large,United States,North America,1.0,2.0,172.0,3.0
-14,University of California- Los Angeles,38392,9.9,0.16,53,86.6,82.9,89.0,98.4,47.1,58.0,large,United States,North America,1.0,2.0,172.0,3.0
+14,University of California Los Angeles,38392,9.9,0.16,53,86.6,82.9,89.0,98.4,47.1,58.0,large,United States,North America,1.0,2.0,172.0,3.0
 15,UCL,28602,10.6,0.47,56,86.5,77.4,90.0,94.0,41.9,94.3,large,United Kingdom,Europe,1.0,2.0,148.0,2.0
 16,Columbia University,25659,6.0,0.3,49,86.1,86.9,78.9,98.6,44.9,75.3,large,United States,North America,1.0,2.0,172.0,3.0
 17,Johns Hopkins University,15303,3.5,0.24,51,85.9,77.4,84.3,98.4,100.0,71.1,large,United States,North America,1.0,2.0,172.0,3.0
@@ -39,18 +39,18 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 36,King’s College London,21986,11.3,0.38,61,75.9,61.5,71.0,93.5,42.5,93.8,large,United Kingdom,Europe,1.0,2.0,148.0,2.0
 39,The University of Tokyo,26080,7.0,0.1,49,74.1,83.4,89.2,62.4,53.4,30.6,large,Japan,Asia,0.0,2.0,69.0,1.0
 40,KU Leuven,46381,41.9,0.16,49,73.8,57.0,73.7,90.1,99.8,67.4,large,Belgium,Europe,0.0,2.0,106.0,2.0
-41,University of California- San Diego,28416,6.6,0.14,47,73.2,61.2,66.2,98.9,67.3,47.7,large,United States,North America,1.0,2.0,172.0,3.0
+41,University of California San Diego,28416,6.6,0.14,47,73.2,61.2,66.2,98.9,67.3,47.7,large,United States,North America,1.0,2.0,172.0,3.0
 42,McGill University,30911,13.5,0.24,57,73.1,66.4,70.3,81.8,41.9,86.4,large,Canada,North America,1.0,2.0,154.0,3.0
 43,Heidelberg University,29527,24.9,0.17,55,73.0,66.7,65.0,90.8,60.0,62.7,large,Germany,Europe,0.0,2.0,118.0,2.0
 43,University of Hong Kong,20095,17.8,0.39,51,73.0,66.5,74.5,73.2,52.9,99.4,large,Hong Kong,Asia,0.0,2.0,63.0,1.0
 45,University of Wisconsin-Madison,40048,11.0,0.12,51,72.6,68.2,71.4,87.9,47.4,42.0,large,United States,North America,1.0,2.0,172.0,3.0
 46,Technical University of Munich,36929,51.9,0.22,33,71.6,61.0,70.5,82.0,100.0,66.6,large,Germany,Europe,0.0,2.0,118.0,2.0
 47,Australian National University,15402,19.9,0.35,52,71.3,54.0,73.9,81.7,53.5,93.9,large,Australia,Oceania,1.0,2.0,173.0,4.0
-48,University of California- Santa Barbara,22267,27.4,0.12,51,71.2,52.2,62.6,99.2,87.6,63.3,large,United States,North America,1.0,2.0,172.0,3.0
+48,University of California Santa Barbara,22267,27.4,0.12,51,71.2,52.2,62.6,99.2,87.6,63.3,large,United States,North America,1.0,2.0,172.0,3.0
 49,Hong Kong University of Science and Technology,11960,27.3,0.38,49,71.1,53.2,66.7,91.2,62.0,82.8,medium,Hong Kong,Asia,0.0,1.0,63.0,1.0
 50,University of Texas at Austin,48689,17.2,0.1,51,70.8,63.9,65.9,93.0,51.3,35.7,large,United States,North America,1.0,2.0,172.0,3.0
 51,Brown University,8694,10.2,0.2,49,70.4,66.3,54.4,96.7,33.9,58.0,medium,United States,North America,1.0,1.0,172.0,3.0
-51,University of California- Davis,36060,13.7,0.15,55,70.4,61.4,67.3,86.6,50.0,61.2,large,United States,North America,1.0,2.0,172.0,3.0
+51,University of California Davis,36060,13.7,0.15,55,70.4,61.4,67.3,86.6,50.0,61.2,large,United States,North America,1.0,2.0,172.0,3.0
 53,University of Minnesota,46625,17.5,0.13,52,70.3,60.3,69.8,87.0,94.2,38.2,large,United States,North America,1.0,2.0,172.0,3.0
 54,Nanyang Technological University,25278,16.1,0.32,49,70.0,50.6,60.2,90.7,93.5,95.7,large,Singapore,Asia,0.0,2.0,88.0,1.0
 55,University of Manchester,34015,14.4,0.36,52,69.7,58.2,66.3,82.3,45.1,87.0,large,United Kingdom,Europe,1.0,2.0,148.0,2.0
@@ -98,7 +98,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 96,Lund University,28852,12.0,0.15,53,60.6,41.3,53.1,83.2,68.5,74.6,large,Sweden,Europe,0.0,2.0,145.0,2.0
 98,Aarhus University,24633,13.9,0.14,55,60.3,39.0,54.7,83.0,65.4,75.7,large,Denmark,Europe,0.0,2.0,113.0,2.0
 98,University of Basel,12560,17.4,0.24,54,60.3,40.1,36.8,92.4,99.3,94.4,medium,Switzerland,Europe,0.0,1.0,146.0,2.0
-98,University of California- Irvine,29304,17.2,0.18,53,60.3,42.5,45.0,94.1,45.5,62.3,large,United States,North America,1.0,2.0,172.0,3.0
+98,University of California Irvine,29304,17.2,0.18,53,60.3,42.5,45.0,94.1,45.5,62.3,large,United States,North America,1.0,2.0,172.0,3.0
 101,Michigan State University,45297,15.8,0.16,51,59.9,51.6,48.9,81.1,38.5,58.8,large,United States,North America,1.0,2.0,172.0,3.0
 102,University of Mannheim,10808,84.0,0.14,55,59.8,39.1,51.3,88.3,76.4,57.7,medium,Germany,Europe,0.0,1.0,118.0,2.0
 103,University of Montreal,37651,20.2,0.24,58,59.7,46.8,47.8,77.4,67.7,85.0,large,Canada,North America,1.0,2.0,154.0,3.0
@@ -145,7 +145,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 143,University of Notre Dame,11821,13.5,0.1,45,55.9,50.2,40.7,80.2,37.4,48.2,medium,United States,North America,1.0,1.0,172.0,3.0
 144,Karlsruhe Institute of Technology,25948,24.5,0.17,27,55.8,41.3,45.2,76.4,98.3,59.5,large,Germany,Europe,0.0,2.0,118.0,2.0
 144,Stockholm University,31272,23.5,0.08,62,55.8,32.2,46.2,86.8,33.8,72.1,large,Sweden,Europe,0.0,2.0,145.0,2.0
-146,University of California- Santa Cruz,17203,24.5,0.02,53,55.6,34.7,35.3,99.8,40.9,48.7,large,United States,North America,1.0,2.0,172.0,3.0
+146,University of California Santa Cruz,17203,24.5,0.02,53,55.6,34.7,35.3,99.8,40.9,48.7,large,United States,North America,1.0,2.0,172.0,3.0
 147,University of Nottingham,29738,14.7,0.28,53,55.5,41.0,41.3,78.9,39.8,81.6,large,United Kingdom,Europe,1.0,2.0,148.0,2.0
 148,University of Cape Town,20061,11.6,0.17,53,55.3,32.4,37.2,87.3,88.8,80.1,large,South Africa,Africa,0.0,2.0,44.0,0.0
 149,University of Sussex,12293,15.8,0.35,55,55.1,32.6,37.9,88.1,33.7,88.8,medium,United Kingdom,Europe,1.0,1.0,148.0,2.0
@@ -165,7 +165,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 163,Autonomous University of Barcelona,31095,12.4,0.11,59,53.7,39.4,36.4,86.7,39.9,52.3,large,Spain,Europe,0.0,2.0,144.0,2.0
 164,TU Dresden,35468,36.3,0.12,42,53.5,42.3,45.6,70.2,95.7,49.4,large,Germany,Europe,0.0,2.0,118.0,2.0
 165,University of Auckland,30287,18.9,0.29,54,53.4,32.8,40.8,75.8,70.5,90.5,large,New Zealand,Oceania,1.0,2.0,179.0,4.0
-165,University of California- Riverside,20901,22.6,0.13,51,53.4,32.0,33.7,93.4,40.5,62.2,large,United States,North America,1.0,2.0,172.0,3.0
+165,University of California Riverside,20901,22.6,0.13,51,53.4,32.0,33.7,93.4,40.5,62.2,large,United States,North America,1.0,2.0,172.0,3.0
 165,University of East Anglia,13997,13.9,0.28,58,53.4,30.7,31.1,92.4,32.4,84.3,medium,United Kingdom,Europe,1.0,1.0,148.0,2.0
 165,University of Massachusetts,58624,13.1,0.13,49,53.4,40.4,34.8,85.6,50.2,51.5,large,United States,North America,1.0,2.0,172.0,3.0
 169,Texas A&M University,53694,22.1,0.09,47,53.2,53.1,57.0,50.7,46.9,50.1,large,United States,North America,1.0,2.0,172.0,3.0
