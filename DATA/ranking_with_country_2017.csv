@@ -52,7 +52,7 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 51,Brown University,8694,10.2,0.2,49,70.4,66.3,54.4,96.7,33.9,58.0,medium,United States,North America,1.0
 51,University of California- Davis,36060,13.7,0.15,55,70.4,61.4,67.3,86.6,50.0,61.2,large,United States,North America,1.0
 53,University of Minnesota,46625,17.5,0.13,52,70.3,60.3,69.8,87.0,94.2,38.2,large,United States,North America,1.0
-54,Nanyang Technological University- Singapore,25278,16.1,0.32,49,70.0,50.6,60.2,90.7,93.5,95.7,large,Singapore,Asia,0.0
+54,Nanyang Technological University,25278,16.1,0.32,49,70.0,50.6,60.2,90.7,93.5,95.7,large,Singapore,Asia,0.0
 55,University of Manchester,34015,14.4,0.36,52,69.7,58.2,66.3,82.3,45.1,87.0,large,United Kingdom,Europe,1.0
 56,University of North Carolina at Chapel Hill,26412,7.5,0.08,57,69.3,61.9,59.6,96.1,41.0,40.0,large,United States,North America,1.0
 57,Humboldt University of Berlin,31043,54.8,0.17,49,69.2,62.5,69.0,79.9,39.4,64.4,large,Germany,Europe,0.0
