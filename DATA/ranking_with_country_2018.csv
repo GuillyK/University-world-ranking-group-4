@@ -292,11 +292,11 @@ rank,name,fte_students,students_per_staff,international_students,ratio,overall,t
 251–300,Swansea University,13896,16.1,0.24,47,45.3,22.1,25.6,80.4,34.9,79.9,medium,United Kingdom,Europe,1.0,148.0,2.0
 251–300,Swedish University of Agricultural Sciences,3812,4.4,0.04,69,46.6,30.0,27.1,79.3,98.1,42.5,small,Sweden,Europe,0.0,145.0,2.0
 251–300,Syracuse University,20180,16.3,0.19,54,46.6,32.8,28.7,79.5,37.0,45.6,large,United States,North America,1.0,172.0,3.0
-251–300,Tokyo Institute of Technology,9570,7.3,0.13,14,47.0,49.5,52.9,39.8,67.8,35.8,medium,Japan,1.0,172.0,3.0,
-251–300,University of Trento,17759,29.0,0.048,51,47.6,26.2,29.6,85.1,39.9,58.2,large,Italy,0.0,123.0,2.0,
-251–300,Umeå University,16553,11.7,0.010,60,46.4,24.9,29.8,81.8,34.9,60.6,large,Sweden,0.0,145.0,2.0,
-251–300,Wake Forest University,7579,4.1,0.06,51,46.5,34.8,18.4,91.4,38.4,28.2,medium,United States,1.0,172.0,3.0,
-251–300,William & Mary,8044,11.8,0.09,55,47.5,44.9,18.2,84.6,32.6,32.2,medium,United States,1.0,172.0,3.0,
+251–300,Tokyo Institute of Technology,9570,7.3,0.13,14,47.0,49.5,52.9,39.8,67.8,35.8,medium,Japan,Asia,1.0,172.0,3.0
+251–300,University of Trento,17759,29.0,0.048,51,47.6,26.2,29.6,85.1,39.9,58.2,large,Italy,Europe,0.0,123.0,2.0
+251–300,Umeå University,16553,11.7,0.010,60,46.4,24.9,29.8,81.8,34.9,60.6,large,Sweden,Europe,0.0,145.0,2.0
+251–300,Wake Forest University,7579,4.1,0.06,51,46.5,34.8,18.4,91.4,38.4,28.2,medium,United States,North America,1.0,172.0,3.0
+251–300,William & Mary,8044,11.8,0.09,55,47.5,44.9,18.2,84.6,32.6,32.2,medium,United States,North America,1.0,172.0,3.0
 251–300,University of the Witwatersrand,25342,24.6,0.08,56,45.6,26.6,23.2,76.5,99.9,69.8,large,South Africa,Africa,0.0,44.0,0.0
 251–300,University of Wollongong,16947,27.0,0.24,50,46.7,29.4,33.2,67.1,47.7,88.1,large,Australia,Oceania,1.0,173.0,4.0
 301–350,Aberystwyth University,7920,18.4,0.18,47,44.5,24.2,25.5,76.7,36.6,74.9,medium,United Kingdom,Europe,1.0,148.0,2.0
