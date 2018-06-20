@@ -67,7 +67,7 @@ Missende industry incomes en ratios uitgerekend op basis van omliggende jaren
 
 Datum | Charlotte | Guilly | Nienke | Tobias
 --- | --- | --- | --- | --- 
-19/06 |  | Landen verbeterd + anomalies | added ints + Landen verbeterd | Started scraping universities
-20/06 |  | | added missing universities | Scraped all universities, completed map
+19/06 | verbanden zoeken tussen landen | Landen verbeterd + anomalies | added ints + Landen verbeterd | Started scraping universities
+20/06 | Pie charts maken + verbanden zoeken tussen landen | Radar charts maken | added missing universities | Scraped all universities, completed map
 
 
