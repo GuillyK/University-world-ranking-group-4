@@ -67,5 +67,7 @@ Missende industry incomes en ratios uitgerekend op basis van omliggende jaren
 
 Datum | Charlotte | Guilly | Nienke | Tobias
 --- | --- | --- | --- | --- 
-19/06 |  | | |
+19/06 |  | | added ints |
+20/06 |  | | added missing universities | 
+
 
