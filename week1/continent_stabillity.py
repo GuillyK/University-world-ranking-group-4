@@ -1,6 +1,8 @@
 import csv
 import pandas as pd
 import numpy
+import bokeh.io
+from bokeh.plotting import figure
 import matplotlib.pyplot as plt
 plt.close
 
@@ -15,7 +17,7 @@ countries = pd.read_csv("../DATA/Countries-Continents.csv")
 
 #for ratio in data['ratio']:
     #print(ratio)
-
+averagecontinentscores = []
 countrylist = []
 continentlist = {}
 counter = {}
@@ -45,16 +47,14 @@ for continent in counter:
     nummerofcountries = counter[continent]
     scoreofcontinent  = continentlist[continent]
     averagecontinentscore = scoreofcontinent / nummerofcountries
+    averagecontinentscores = averagecontinentscores + [averagecontinentscore]
     print(continent, 'score' , averagecontinentscore)
 
-#        meanlist = [meancountryscore2016] + [meancountryscore2017] + [meancountryscore2018]
-#        print(country, '2016 =' ,meancountryscore2016)
-#        print(country, '2017 =' ,meancountryscore2017)
-#        print(country, '2018 =' ,meancountryscore2018)
-#        meancountryoverall = pd.Series(meanlist)
-#        deviationoverall = meancountryoverall.std()
-#        print("overall deviation for", country, ' = ', deviationoverall)
-
+data = dict(
+x = continentlist ,
+y = averagecontinentscores)
+p = figure()
+p.vbar(source=data, x ='anus' , top='top', width =1)
     #print(studentsperstaff)
     #plt.scatter(studentlist, studentsperstaff)
     #plt.show()
