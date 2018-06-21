@@ -38,3 +38,16 @@ total = 1097
 English    :  47.39417177914111  
 Non-English:  30.630609597924774  
 
+
+
+ANOMALY:
+- Utrecht
+- Leiden
+- Uppsala
+- Bonn
+- Purdue
+- Chinese university Hong Kong
+- Lomonosov
+- Arizona
+- Boston
+
