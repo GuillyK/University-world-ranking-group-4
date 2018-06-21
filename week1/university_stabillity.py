@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 plt.close
 
 def meanscorer(university, dataset):
-        score = data.loc[dataset['country'] == university, ['overall']]
+        score = data.loc[dataset['name'] == university, ['overall']]
         return(score['overall'].mean())
 
 data = pd.read_csv("../DATA/ranking_with_country_2016.csv")
@@ -18,24 +18,24 @@ data2 = pd.read_csv("../DATA/ranking_with_country_2018.csv")
 countrylist = []
 deviationlist = []
 meancountrylist = []
+universitylist = []
 
-for country in data['country']:
-    if country not in countrylist:
-        countrylist = countrylist + [country]
+for university in data['name']:
+        universitylist = universitylist + [university]
 
-        meancountryscore2016 = meanscorer(country, data)
-        meancountryscore2017 = meanscorer(country, data1)
-        meancountryscore2018 = meanscorer(country, data2)
-        meanlist = [meancountryscore2016] + [meancountryscore2017] + [meancountryscore2018]
-        print(country, '2016 =' ,meancountryscore2016)
-        print(country, '2017 =' ,meancountryscore2017)
-        print(country, '2018 =' ,meancountryscore2018)
+        meanuniversityscore2016 = meanscorer(university, data)
+        meanuniversityscore2017  = meanscorer(university, data1)
+        meanuniversityscore2018  = meanscorer(university, data2)
+        meanlist = [meanuniversityscore2016] + [meanuniversityscore2017] + [meanuniversityscore2018]
+        print(university, '2016 =' ,meanuniversityscore2016)
+        print(university, '2017 =' ,meanuniversityscore2017)
+        print(university, '2018 =' ,meanuniversityscore2018)
         meancountryoverall = pd.Series(meanlist)
         meancountry = meancountryoverall.mean()
         meancountrylist = meancountrylist + [meancountry]
         deviationoverall = meancountryoverall.std()
         deviationlist = deviationlist + [deviationoverall]
-        print("overall deviation for", country, ' = ', deviationoverall)
+        print("overall deviation for", university, ' = ', deviationoverall)
 
     #print(studentsperstaff)
 plt.scatter(meancountrylist, deviationlist )
