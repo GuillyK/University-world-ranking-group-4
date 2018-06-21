@@ -1,7 +1,13 @@
-Hier komen alle kolommen die al met elkaar vergeleken zijn en de meest belangrijke resultaten.
+## Gevonden verbanden
+* Teaching & Research
+* Uni's in Engels sprekende landen scoren beter
+* Citation heeft een sterk verband op Research & Teaching
+* De gemiddelde scores worden elk jaar hoger
+* Hoe hoger de score (voor zowel uni als land) hoe hoger de consistentie
 
 <br>
 
+## Data
 
 Overall scores of universities in English speaking countries vs non-English speaking countries
 
