@@ -41,13 +41,14 @@ Non-English:  30.630609597924774
 
 
 ANOMALY:
-- Utrecht
-- Leiden
-- Uppsala
-- Bonn
-- Purdue
-- Chinese university Hong Kong
-- Lomonosov
-- Arizona
-- Boston
+- Ècole normale superieure ; 54
+- Utrecht ; 62
+- Leiden ; 67
+- Uppsala ; 81
+- Bonn ; 94
+- Purdue ; 113
+- Chinese university Hong Kong ; 138
+- Lomonosov ; 161
+- Arizona ; 163
+- Boston college ; 190
 
