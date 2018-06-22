@@ -70,5 +70,5 @@ Datum | Charlotte | Guilly | Nienke | Tobias
 19/06 | verbanden zoeken tussen landen | Landen verbeterd + anomalies | added ints + Landen verbeterd | Started scraping universities
 20/06 | Pie charts maken + verbanden zoeken tussen landen | Radar charts maken | added missing universities | Scraped all universities, completed map
 21/06 | Average score door de jaren heen visualiseren| anomaly gezocht top 200 | linear regression | visualiseren van vraag 1
-22/06 | | | 
+22/06 | | linear regression + technisch rapport | 
 
