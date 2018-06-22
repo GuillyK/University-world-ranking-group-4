@@ -5,6 +5,9 @@
 * De gemiddelde scores worden elk jaar hoger
 * Hoe hoger de score (voor zowel uni als land) hoe hoger de consistentie
 
+??
+* Engelstalige universiteiten hebben minder fte_students? - weet niet precies wat je er mee kan
+
 <br>
 
 ## Data
