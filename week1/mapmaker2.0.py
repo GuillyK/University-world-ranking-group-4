@@ -26,7 +26,7 @@ map_options = GMapOptions(lat=30, lng=0,scale_control = True, map_type="roadmap"
 #     https://developers.google.com/maps/documentation/javascript/get-api-key
 #
 # Replace the value below with your personal API key:
-p = gmap("AIzaSyCXE3YRVP5_y9wCbX-NT2nY82URnJ1U0jE", map_options, title="World_map",tools="pan, wheel_zoom" , width = 1000)
+p = gmap(#apikeyhere, map_options, title="World_map",tools="pan, wheel_zoom" , width = 1000)
 
 source = ColumnDataSource(
     data=dict(lat= lats_1,
