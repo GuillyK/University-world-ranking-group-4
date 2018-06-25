@@ -40,3 +40,6 @@ for university in data['name']:
     #print(studentsperstaff)
 plt.scatter(meancountrylist, deviationlist )
 plt.show()
+
+print(meancountrylist, '\n')
+print(deviationlist)

@@ -1,8 +1,10 @@
 import csv
 import pandas as pd
 import numpy
-import bokeh.io
+from bokeh.io import show
 from bokeh.plotting import figure
+from bokeh.models import ColumnDataSource
+from bokeh.palettes import Spectral6
 import matplotlib.pyplot as plt
 plt.close
 
@@ -18,6 +20,7 @@ countries = pd.read_csv("../DATA/Countries-Continents.csv")
 #for ratio in data['ratio']:
     #print(ratio)
 averagecontinentscores = []
+continents = []
 countrylist = []
 continentlist = {}
 counter = {}
@@ -44,17 +47,18 @@ for country in data['country']:
                     #print(continentlist)
                     #print(counter)
 for continent in counter:
+    continents = continents + [continent]
     nummerofcountries = counter[continent]
     scoreofcontinent  = continentlist[continent]
     averagecontinentscore = scoreofcontinent / nummerofcountries
     averagecontinentscores = averagecontinentscores + [averagecontinentscore]
     print(continent, 'score' , averagecontinentscore)
 
-data = dict(
-x = continentlist ,
-y = averagecontinentscores)
-p = figure()
-p.vbar(source=data, x ='anus' , top='top', width =1)
+data = ColumnDataSource(data=dict(continent3 = continents, score = averagecontinentscores, color=Spectral6))
+
+p = figure(x_range = continents, y_range=(0,100), plot_height = 500)
+p.vbar(source=data, x ='continent3' , top='score', color ='color', width =1)
+show(p)
     #print(studentsperstaff)
     #plt.scatter(studentlist, studentsperstaff)
     #plt.show()

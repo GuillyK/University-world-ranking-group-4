@@ -43,6 +43,6 @@ print(len(lngs_1))
 # Get a basic world map.
 gmap = gmplot.GoogleMapPlotter(51, 0, 5)
 #gmap.heatmap(lats_1, lngs_1, radius = 30, opacity = 0.8, dissipating = True)
-gmap.scatter(lats_1, lngs_1, '#ff0000', size = 4000 , marker=False)
+gmap.heatmap(lats_1, lngs_1, '#ff0000')
 gmap.scatter(lats, lngs, '#00ff00', size = 4000 , marker=False)
 gmap.draw('mapsv_2.html')

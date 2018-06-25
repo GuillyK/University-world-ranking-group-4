@@ -40,3 +40,6 @@ for country in data['country']:
     #print(studentsperstaff)
 plt.scatter(meancountrylist, deviationlist )
 plt.show()
+
+print(meancountrylist)
+print(deviationlist)

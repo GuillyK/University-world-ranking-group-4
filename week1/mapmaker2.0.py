@@ -15,17 +15,18 @@ lngs = [-118.125269, -1.2543668, -122.169719, 0.1149085, -71.09416, -71.11666009
 from bokeh.io import output_file, show
 from bokeh.models import ColumnDataSource, GMapOptions
 from bokeh.plotting import gmap
+from bokeh.models import BoxSelectTool
 
 output_file("gmap.html")
 
-map_options = GMapOptions(lat=30.2861, lng=-97.7394, map_type="roadmap", zoom=2)
+map_options = GMapOptions(lat=30, lng=0,scale_control = True, map_type="roadmap", zoom=2)
 
 # For GMaps to function, Google requires you obtain and enable an API key:
 #
 #     https://developers.google.com/maps/documentation/javascript/get-api-key
 #
 # Replace the value below with your personal API key:
-p = gmap("AIzaSyCXE3YRVP5_y9wCbX-NT2nY82URnJ1U0jE", map_options, title="World_map")
+p = gmap("AIzaSyCXE3YRVP5_y9wCbX-NT2nY82URnJ1U0jE", map_options, title="World_map",tools="pan, wheel_zoom" , width = 1000)
 
 source = ColumnDataSource(
     data=dict(lat= lats_1,
@@ -35,6 +36,6 @@ source1 = ColumnDataSource(
     data=dict(lat1= lats,
               lon1= lngs))
 
-p.circle(x="lon", y="lat", size=4, fill_color="blue", fill_alpha=0.4, source=source)
-p.circle(x="lon1", y="lat1", size=4, fill_color="red", fill_alpha=0.8, source=source1)
+p.circle(x="lon", y="lat", size=4, fill_color="blue", fill_alpha=0.2, source=source)
+p.circle(x="lon1", y="lat1", size=4, fill_color="red", fill_alpha= 1, source=source1)
 show(p)
