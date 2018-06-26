@@ -1,3 +1,9 @@
+######################################################################################
+#maker of scatter plot of 2 dataset with a trendline and a calculated mean mean_squared_error
+
+######################################################################################
+
+import googlemaps
 import numpy as np
 
 import pandas as pd

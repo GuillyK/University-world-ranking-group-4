@@ -1,9 +1,15 @@
+######################################################################################
+#able to fetch coordinates based on name of a university and plots these on a map using
+# gmaps libary
+
+######################################################################################
+
 import googlemaps
 import folium
 import pandas as pd
 from gmplot import gmplot
 
-gmaps = googlemaps.Client(key='AIzaSyCalk4sf9WNHlBj8flXeZ7YnlIkN38xPRc')
+gmaps = googlemaps.Client(key=#private)
 data = pd.read_csv("../DATA/ranking_with_country_2016.csv")
 allunis = pd.read_csv("../DATA/alluniversities.csv")
 # Geocoding an address

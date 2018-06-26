@@ -1,3 +1,12 @@
+######################################################################################
+#calculates average score of a university for every year and the deviation between these
+#scores
+# calculates deviation per university and plots it against the overall scores as a
+# scatter plot with a trend line in it.
+
+######################################################################################
+
+import googlemaps
 import csv
 import pandas as pd
 import numpy

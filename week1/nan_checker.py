@@ -1,3 +1,9 @@
+######################################################################################
+#checks for empty values and replaces them with nan so its easier to process
+
+######################################################################################
+
+import googlemaps
 import csv
 import pandas as pd
 import numpy
@@ -11,24 +17,24 @@ def nan_checker(file, nan_column, output_column):
     nan_list = []
     with open(file) as out:
         counter = 0
-        
+
         for value in data[nan_column]:
             counter2 = 0
             counter3 = 0
             if math.isnan(value):
-                
+
                 uni1 = data[output_column][counter]
                 #print(uni1)
                 for same in next_data[output_column]:
-                    
+
                     if same == uni1:
                         print(same, uni1)
                         print(next_data[nan_column][counter2])
                         nan = next_data[nan_column][counter2]
                     counter2 += 1
-               
+
                 for same2 in next2_data[output_column]:
-                    
+
                     if same2 == uni1:
                         print(same2, uni1)
                         print(next2_data[nan_column][counter3])
@@ -37,9 +43,9 @@ def nan_checker(file, nan_column, output_column):
                 # if math.isnan(nan) and math.isnan(nan2):
                 #     nan_list.append(uni1)
                 print('--------------------------------')
-            
+
             counter += 1
         print(nan_list)
 
-        
+
 nan_checker("../DATA/ranking_with_country_2017.csv", "international_outlook", "name")

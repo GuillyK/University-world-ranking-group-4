@@ -1,3 +1,10 @@
+######################################################################################
+#checks if a university is in a country where english is spoken and adds this information
+#to our csv
+
+######################################################################################
+
+import googlemaps
 import pandas as pd
 from bokeh.plotting import figure, output_file, show
 from bokeh.models import DataRange1d

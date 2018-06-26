@@ -1,3 +1,7 @@
+######################################################################################
+#adds an extra columm to the csv called country_int witch gives each country a index
+#this code isnt in final product
+######################################################################################
 import csv
 import pandas as pd
 import numpy
