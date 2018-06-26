@@ -10,7 +10,7 @@ y18 = [91.4, 81.2, 73.0, 64.5,59.2,55.0,51.5,48.4,45.2,42.8,40.1,38.0,35.7,35.7]
 
 output_file("patch.html")
 
-p = figure(plot_width=400, plot_height=400)
+p = figure(plot_width=400, plot_height=400, x_axis_label='Rank',y_axis_label='Overall score')
 
 p.line(x16,y16, legend="2016", color="#01baef", line_width=2)
 p.line(x17,y17, legend="2017", color="#f17105", line_width=2)
