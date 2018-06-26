@@ -1,3 +1,8 @@
+######################################################################################
+#print amount of international students and total amount per university. And also
+#calculates the percentage of international students.
+
+######################################################################################
 import csv
 import pandas as pd
 import numpy

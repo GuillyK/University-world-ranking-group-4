@@ -1,3 +1,12 @@
+######################################################################################
+#calculates amount of universities in off a country that are in the timeshighereducation
+#top 1000
+#calculates percentage top1000 universities per country aswell
+
+######################################################################################
+
+import googlemaps
+
 import csv
 import pandas as pd
 import numpy

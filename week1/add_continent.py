@@ -1,3 +1,7 @@
+######################################################################################
+#adds an extra columm to the csv called continent_int witch gives each continent a index
+#this code isnt in final product
+######################################################################################
 import csv
 import pandas as pd
 import numpy
@@ -19,7 +23,7 @@ for country in data['country']:
     c_counter += 1
     if check == False:
         print('none')
-    
+
     # data.set_value(counter, "continent", continent)
-    
+
 data.to_csv("../DATA/ranking_with_country_2016.csv", index=False)

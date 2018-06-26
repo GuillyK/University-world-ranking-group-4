@@ -1,3 +1,9 @@
+######################################################################################
+#special code to only look at attributes of the top 200
+
+######################################################################################
+
+import googlemaps
 import csv
 import pandas as pd
 import numpy

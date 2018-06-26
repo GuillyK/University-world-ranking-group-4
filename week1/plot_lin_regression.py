@@ -1,3 +1,9 @@
+######################################################################################
+#maker of scatter plot of 2 dataset with a trendline and a calculated mean mean_squared_error
+
+######################################################################################
+
+import googlemaps
 import numpy as np
 
 import pandas as pd
@@ -10,7 +16,7 @@ from sklearn.metrics import mean_squared_error
 from sklearn.linear_model import LinearRegression
 
 
-output_file("meancountryXdeviation.html")
+#output_file("meancountryXdeviation.html")
 
 data = pd.read_csv("../DATA/ranking_with_country_2018.csv")
 nan = 1.8
@@ -52,7 +58,7 @@ X = np.column_stack((X, np.ones(X.shape[0])))
 a, b = np.linalg.lstsq(X, Y)[0]
 print(a, b)
 
-f = figure(plot_width=600, plot_height=400)
+f = figure(plot_width=1000, plot_height=500)
 
 # Create a scatter-plot
 f.scatter(newmeancountrylist, newdeviationlist)

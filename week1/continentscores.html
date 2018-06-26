@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Bokeh Plot</title>
+        
+<link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-0.12.16.min.css" type="text/css" />
+        
+<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-0.12.16.min.js"></script>
+<script type="text/javascript">
+    Bokeh.set_log_level("info");
+</script>
+    </head>
+    <body>
+        
+        <div class="bk-root">
+            <div class="bk-plotdiv" id="4e76d65f-5a8a-4506-aeda-79e4cfd0f7dd"></div>
+        </div>
+        
+        <script type="application/json" id="5cd6258f-982b-4571-9b0a-8dab0920d6bd">
+          {"b464bff6-471e-4bc0-853c-b0585cbfb07a":{"roots":{"references":[{"attributes":{},"id":"8bd9bc3a-0324-4f63-9911-4f973ea848a9","type":"CategoricalTickFormatter"},{"attributes":{},"id":"78753049-41c1-444f-96fa-43783acbc2bd","type":"BasicTicker"},{"attributes":{},"id":"4008bb3c-e4dc-4503-a410-16044e44f65e","type":"CategoricalScale"},{"attributes":{"axis_label":"continents","formatter":{"id":"84f7050d-19a5-4e48-a520-9c411fbdf77e","type":"BasicTickFormatter"},"plot":{"id":"f2325e20-b452-488b-a487-d3cf38d2580d","subtype":"Figure","type":"Plot"},"ticker":{"id":"78753049-41c1-444f-96fa-43783acbc2bd","type":"BasicTicker"}},"id":"4d5e160b-8f27-42f7-b64e-114c4700f344","type":"LinearAxis"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"top":{"field":"score"},"width":{"value":1},"x":{"field":"continent3"}},"id":"1ccab8eb-ce5c-4562-9b5b-b77a8f3ce0bf","type":"VBar"},{"attributes":{"plot":{"id":"f2325e20-b452-488b-a487-d3cf38d2580d","subtype":"Figure","type":"Plot"},"ticker":{"id":"e34bc98d-f1bf-4ec7-8c9c-8ece1dd7daea","type":"CategoricalTicker"}},"id":"4ec1af70-29c0-43a1-ae22-6a9b110eb17b","type":"Grid"},{"attributes":{"callback":null,"data":{"color":["#3288bd","#99d594","#e6f598","#fee08b","#fc8d59","#d53e4f"],"continent3":["Asia","North America","South America","Oceania","Africa","Europe"],"score":[27.895454545454548,40.980725623582764,20.126470588235293,39.880645161290325,21.08095238095238,34.05997596153846]},"selected":{"id":"7cf73f5e-3d5d-4f7f-a9ab-cda022e86981","type":"Selection"},"selection_policy":{"id":"287212af-bdfd-4739-a7b3-8c2cddb3d95f","type":"UnionRenderers"}},"id":"c773aa1b-f9a0-4718-a480-5797b2dcd5e2","type":"ColumnDataSource"},{"attributes":{},"id":"ec8847dc-79f8-40c4-abb6-07c4fe515fbe","type":"HelpTool"},{"attributes":{},"id":"bcb571d4-8546-4556-a109-2462b0e85d18","type":"ResetTool"},{"attributes":{"overlay":{"id":"bc2f7486-a982-4fc3-bc1e-df26eb5eccab","type":"BoxAnnotation"}},"id":"303b44ee-08a8-42b1-8ca1-4a7aafb5da20","type":"BoxZoomTool"},{"attributes":{},"id":"84f7050d-19a5-4e48-a520-9c411fbdf77e","type":"BasicTickFormatter"},{"attributes":{"plot":null,"text":""},"id":"2067ba83-9d3c-4b47-856a-f691e6b2b90b","type":"Title"},{"attributes":{},"id":"287212af-bdfd-4739-a7b3-8c2cddb3d95f","type":"UnionRenderers"},{"attributes":{"bottom_units":"screen","fill_alpha":{"value":0.5},"fill_color":{"value":"lightgrey"},"left_units":"screen","level":"overlay","line_alpha":{"value":1.0},"line_color":{"value":"black"},"line_dash":[4,4],"line_width":{"value":2},"plot":null,"render_mode":"css","right_units":"screen","top_units":"screen"},"id":"bc2f7486-a982-4fc3-bc1e-df26eb5eccab","type":"BoxAnnotation"},{"attributes":{"source":{"id":"c773aa1b-f9a0-4718-a480-5797b2dcd5e2","type":"ColumnDataSource"}},"id":"34a4835f-d474-48dd-a386-f706a3f40ffb","type":"CDSView"},{"attributes":{},"id":"49fb9eb9-deb7-4b6c-bcf1-cb259ef9e701","type":"SaveTool"},{"attributes":{},"id":"7cf73f5e-3d5d-4f7f-a9ab-cda022e86981","type":"Selection"},{"attributes":{"data_source":{"id":"c773aa1b-f9a0-4718-a480-5797b2dcd5e2","type":"ColumnDataSource"},"glyph":{"id":"2374ab53-c6fb-4b3c-89bb-1821f276986d","type":"VBar"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"1ccab8eb-ce5c-4562-9b5b-b77a8f3ce0bf","type":"VBar"},"selection_glyph":null,"view":{"id":"34a4835f-d474-48dd-a386-f706a3f40ffb","type":"CDSView"}},"id":"69e80d3d-04c8-40fd-bf01-39f42ba6beee","type":"GlyphRenderer"},{"attributes":{"callback":null,"factors":["Asia","North America","South America","Oceania","Africa","Europe"]},"id":"672feebe-4e6b-49c8-882f-c3a311fc3bb6","type":"FactorRange"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_scroll":"auto","active_tap":"auto","tools":[{"id":"da1e875f-dedd-498f-b60b-70fe23b8ca8f","type":"PanTool"},{"id":"ae7e4751-2a24-409a-ba0f-a984fc27abcc","type":"WheelZoomTool"},{"id":"303b44ee-08a8-42b1-8ca1-4a7aafb5da20","type":"BoxZoomTool"},{"id":"49fb9eb9-deb7-4b6c-bcf1-cb259ef9e701","type":"SaveTool"},{"id":"bcb571d4-8546-4556-a109-2462b0e85d18","type":"ResetTool"},{"id":"ec8847dc-79f8-40c4-abb6-07c4fe515fbe","type":"HelpTool"}]},"id":"c9791c2a-a508-4d03-af04-459c02c86913","type":"Toolbar"},{"attributes":{},"id":"da1e875f-dedd-498f-b60b-70fe23b8ca8f","type":"PanTool"},{"attributes":{},"id":"ae7e4751-2a24-409a-ba0f-a984fc27abcc","type":"WheelZoomTool"},{"attributes":{},"id":"e34bc98d-f1bf-4ec7-8c9c-8ece1dd7daea","type":"CategoricalTicker"},{"attributes":{"callback":null,"end":100},"id":"5799ecc0-2a80-4e2c-846c-5344c70e6c2d","type":"Range1d"},{"attributes":{"fill_color":{"field":"color"},"line_color":{"field":"color"},"top":{"field":"score"},"width":{"value":1},"x":{"field":"continent3"}},"id":"2374ab53-c6fb-4b3c-89bb-1821f276986d","type":"VBar"},{"attributes":{"below":[{"id":"1144b24a-6140-4a7e-bfdd-bf190f75a98c","type":"CategoricalAxis"}],"left":[{"id":"4d5e160b-8f27-42f7-b64e-114c4700f344","type":"LinearAxis"}],"plot_width":1000,"renderers":[{"id":"1144b24a-6140-4a7e-bfdd-bf190f75a98c","type":"CategoricalAxis"},{"id":"4ec1af70-29c0-43a1-ae22-6a9b110eb17b","type":"Grid"},{"id":"4d5e160b-8f27-42f7-b64e-114c4700f344","type":"LinearAxis"},{"id":"dbf21249-0ac3-4415-8a6f-042f05b28e1d","type":"Grid"},{"id":"bc2f7486-a982-4fc3-bc1e-df26eb5eccab","type":"BoxAnnotation"},{"id":"69e80d3d-04c8-40fd-bf01-39f42ba6beee","type":"GlyphRenderer"}],"title":{"id":"2067ba83-9d3c-4b47-856a-f691e6b2b90b","type":"Title"},"toolbar":{"id":"c9791c2a-a508-4d03-af04-459c02c86913","type":"Toolbar"},"x_range":{"id":"672feebe-4e6b-49c8-882f-c3a311fc3bb6","type":"FactorRange"},"x_scale":{"id":"4008bb3c-e4dc-4503-a410-16044e44f65e","type":"CategoricalScale"},"y_range":{"id":"5799ecc0-2a80-4e2c-846c-5344c70e6c2d","type":"Range1d"},"y_scale":{"id":"abfa9d09-5e41-4eea-bcb7-a6a853f4ddf6","type":"LinearScale"}},"id":"f2325e20-b452-488b-a487-d3cf38d2580d","subtype":"Figure","type":"Plot"},{"attributes":{},"id":"abfa9d09-5e41-4eea-bcb7-a6a853f4ddf6","type":"LinearScale"},{"attributes":{"axis_label":"average score through the years","formatter":{"id":"8bd9bc3a-0324-4f63-9911-4f973ea848a9","type":"CategoricalTickFormatter"},"plot":{"id":"f2325e20-b452-488b-a487-d3cf38d2580d","subtype":"Figure","type":"Plot"},"ticker":{"id":"e34bc98d-f1bf-4ec7-8c9c-8ece1dd7daea","type":"CategoricalTicker"}},"id":"1144b24a-6140-4a7e-bfdd-bf190f75a98c","type":"CategoricalAxis"},{"attributes":{"dimension":1,"plot":{"id":"f2325e20-b452-488b-a487-d3cf38d2580d","subtype":"Figure","type":"Plot"},"ticker":{"id":"78753049-41c1-444f-96fa-43783acbc2bd","type":"BasicTicker"}},"id":"dbf21249-0ac3-4415-8a6f-042f05b28e1d","type":"Grid"}],"root_ids":["f2325e20-b452-488b-a487-d3cf38d2580d"]},"title":"Bokeh Application","version":"0.12.16"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('5cd6258f-982b-4571-9b0a-8dab0920d6bd').textContent;
+                  var render_items = [{"docid":"b464bff6-471e-4bc0-853c-b0585cbfb07a","elementid":"4e76d65f-5a8a-4506-aeda-79e4cfd0f7dd","modelid":"f2325e20-b452-488b-a487-d3cf38d2580d"}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        embed_document(root);
+                        clearInterval(timer);
+                      }
+                      attempts++;
+                      if (attempts > 100) {
+                        console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing")
+                        clearInterval(timer);
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    </body>
+</html>

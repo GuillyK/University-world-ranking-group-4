@@ -1,3 +1,11 @@
+######################################################################################
+#preproccessing of names.
+#splits name and country so country could be in its own columm
+
+######################################################################################
+
+import googlemaps
+
 import pandas as pd
 import re
 import csv

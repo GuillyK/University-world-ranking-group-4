@@ -1,12 +1,19 @@
+######################################################################################
+#calculates average score per continent through the 3 years and visualizes and saves it
+#using bokeh output_file and a bokeh bar chart
+
+######################################################################################
+
 import csv
 import pandas as pd
 import numpy
-from bokeh.io import show
+from bokeh.io import show, output_file
 from bokeh.plotting import figure
 from bokeh.models import ColumnDataSource
 from bokeh.palettes import Spectral6
 import matplotlib.pyplot as plt
 plt.close
+output_file("continentscores.html")
 
 def meanscorer(university, dataset):
         score = data.loc[dataset['country'] == university, ['overall']]
@@ -56,7 +63,9 @@ for continent in counter:
 
 data = ColumnDataSource(data=dict(continent3 = continents, score = averagecontinentscores, color=Spectral6))
 
-p = figure(x_range = continents, y_range=(0,100), plot_height = 500)
+p = figure(x_range = continents, y_range=(0,100), plot_height = 600, plot_width= 1000)
+p.xaxis.axis_label = 'average score through the years'
+p.yaxis.axis_label = "continents"
 p.vbar(source=data, x ='continent3' , top='score', color ='color', width =1)
 show(p)
     #print(studentsperstaff)

@@ -1,3 +1,9 @@
+######################################################################################
+#moves the universities into 3 different catogories based on the amount of students.
+#adds these values in to the csv
+######################################################################################
+
+import googlemaps
 import csv
 import pandas as pd
 import numpy

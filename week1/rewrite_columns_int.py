@@ -1,3 +1,10 @@
+######################################################################################
+#changes collums from name to numbers
+
+######################################################################################
+
+import googlemaps
+
 import csv
 import pandas as pd
 import numpy
@@ -42,7 +49,7 @@ continent_data = pd.read_csv('University-world-ranking-group-4/DATA/Countries-Co
 #     check = False
 #     # ch_data['number_name'][c_counter] = '0'
 #     for name_2018 in data_2018['name']:
-        
+
 #         if name == name_2018:
 #             print(data_2018['number_name'][counter_2018])
 #             ch_data['number_name'][c_counter] = data_2018['number_name'][counter_2018]
@@ -50,7 +57,7 @@ continent_data = pd.read_csv('University-world-ranking-group-4/DATA/Countries-Co
 #         counter_2018 += 1
 #     if check == False:
 #         ch_data['number_name'][c_counter] = 'none'
-        
+
 #     c_counter += 1
 # ch_data.to_csv("ranking_2016_with_int.csv", index=False)
 

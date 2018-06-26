@@ -1,3 +1,9 @@
+######################################################################################
+#scrapes a table of a website by dynamicly loading it and then converting it to a csvfile
+
+######################################################################################
+
+import googlemaps
 import urllib.request
 import dryscrape
 import bs4 as bs
