@@ -13,8 +13,8 @@ output_file("patch.html")
 p = figure(plot_width=400, plot_height=400)
 
 p.line(x16,y16, legend="2016", color="#01baef", line_width=2)
-p.line(x17,y17, legend="2017", color="#9be564", line_width=2)
-p.line(x18,y18, legend="2018", color="#f17105", line_width=2)
+p.line(x17,y17, legend="2017", color="#f17105", line_width=2)
+p.line(x18,y18, legend="2018", color="#9be564", line_width=2)
 
 
 p.legend.click_policy="hide"
