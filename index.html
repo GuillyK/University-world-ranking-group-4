@@ -56,6 +56,16 @@
         margin: 11px 11px;
     }
 
+    .flex-container{
+      display: flex;
+      flex-direction: column;
+    }
+
+    .flex-container > div {
+      width: 100px;
+      margin: 100px;
+    }
+
 </style>
 
 <body>
@@ -76,7 +86,8 @@
     <h1>Company</h1>
     <p>We specialize in blablabla</p>
   </div>
-  <div class ="container-fluid">
+  <div class ="flex-container">
+    <div>
                 <div class="bk-root">
                 <div class="bk-plotdiv" id="fdfb0761-8b39-4386-b975-a338f9466a9e"></div>
                 </div>
@@ -120,9 +131,9 @@
                 })();
               </script>
 
-  </div>
+      </div>
 
-
+      <div>
   <div class="bk-root">
       <div class="bk-plotdiv" id="d0c651ae-b461-4eee-a506-cf7302ac2216"></div>
   </div>
@@ -165,8 +176,8 @@
       else document.addEventListener("DOMContentLoaded", fn);
     })();
   </script>
-
-
+</div>
+<div>
   <div class="bk-root">
       <div class="bk-plotdiv" id="d64c1ded-951b-4bf4-87f0-043806afc943"></div>
   </div>
@@ -209,7 +220,7 @@
       else document.addEventListener("DOMContentLoaded", fn);
     })();
   </script>
-
+</div>
 
 
 
