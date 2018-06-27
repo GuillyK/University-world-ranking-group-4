@@ -1,18 +1,18 @@
-Process book --- Together with your completed analysis, you will hand in a process book that documents the analysis process as well as the finalized product. It contains your daily resume of decisions and other considerations.
+
 
 4 juni:
-democratisch in twee rondes university world ranking gekozen
-Research
+* Dataset university world ranking gekozen
+* Research
 
 5 juni:
-Tobias csv gemaakt
-landen in aparte kolommen doen zodat we daarmee data kunnen bekijken
-explore weghalen
-n\a vervangen door 'None'
-Tabellen samenvoegen ranking en scores naar één tabel
+* Tobias csv gemaakt
+* landen in aparte kolommen doen zodat we daarmee data kunnen bekijken
+* explore weghalen
+* n\a vervangen door 'None'
+* Tabellen samenvoegen ranking en scores naar één bestand
 
 6 juni:
-outliers van ratio bekijken \\
+Outliers van ratio bekijken \\
   aangepast:
   * Washington University 
   * Griffith University
@@ -25,13 +25,12 @@ https://www.collegedata.com/cs/content/content_choosearticle_tmpl.jhtml?articleI
 
 
 8 juni:<br />
-Besloten hoe de missinde waarden ingevuld worden:
-  * Wanneer er een van de drie jaar bekend is; gebruik deze waarde voor de andere jaren 
-  * Wanneer er twee van de drie jaar bekend is; gebruik het gemiddelde van die waarden 
+Besloten hoe de missende waardes ingevuld worden:
+  * Wanneer er een van de drie jaren bekend is; gebruik deze waarde voor de andere jaren 
+  * Wanneer er twee van de drie jaren bekend is; gebruik het gemiddelde van die waarden 
       Wanneer er bij bijvoorbeeld 'ratio' .5 uitkwam dit afronden naar boven
   * Wanneer er geen andere waarden bekend zijn; gebruik het gemiddelde van alle waarden uit die kolom.
-        Ratio ; 49
-        ...
+        
 
 11 juni: <br />
 Uitvoeren wat er op 8 juni is besloten.
@@ -56,7 +55,7 @@ Missende industry incomes en ratios uitgerekend op basis van omliggende jaren
 * toevoegen van continenten in csv-files 
 * toevoegen van engelstalige landen in csv-files  <br />
     Bij de Engelstalige universiteiten staat een 1; niet Engelstalig 0 <br />
-    Engelstalige Universiteiten hebben een hogere score
+* verband uitwerken Engelstalige Universiteiten hebben een hogere score
     
 18 juni: <br />
 * Nieuw verband: citations heeft een sterk verband met research en teaching
