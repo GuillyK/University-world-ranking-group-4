@@ -9,7 +9,7 @@ import folium
 import pandas as pd
 from gmplot import gmplot
 
-gmaps = googlemaps.Client(key='AIzaSyCXE3YRVP5_y9wCbX-NT2nY82URnJ1U0jE')
+gmaps = googlemaps.Client(key=#private)
 data = pd.read_csv("../DATA/ranking_with_country_2018.csv")
 allunis = pd.read_csv("../DATA/alluniversities.csv")
 # Geocoding an address

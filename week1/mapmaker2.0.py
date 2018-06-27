@@ -32,24 +32,14 @@ lng_1000_2018= [-1.2543668, 0.1149085, -118.125269, -122.169719, -71.09416, -71.
 #Notice also that passing x_axis_type="mercator" and y_axis_type="mercator" to figure generate axes with latitude and longitute labels, instead of raw Web Mercator coordinates.Google Maps
 
 
-#Notice also that passing x_axis_type="mercator" and y_axis_type="mercator" to figure generate axes with latitude and longitute labels, instead of raw Web Mercator coordinates.Google Maps
-
-#Bokeh can also plot glyphs over a Google Map using the gmap() function. You must pass this function Google API Key in order for it to work, as well as any GMapOptions to configure the Google Map underlay.
-from bokeh.io import output_file, show
-from bokeh.models import ColumnDataSource, GMapOptions
-from bokeh.plotting import gmap
-from bokeh.models import BoxSelectTool
-
-output_file("gmap.html")
-
-map_options = GMapOptions(lat=30, lng=0,scale_control = True, map_type="roadmap", zoom=2)
 
 # For GMaps to function, Google requires you obtain and enable an API key:
+from bokeh.io import push_notebook, show, output_file, output_notebook
 from bokeh.models import ColumnDataSource, GMapOptions
 from bokeh.plotting import gmap
 from bokeh.models import BoxSelectTool
 
-output_file("gmap.html")
+output_file("gmap2018.html")
 
 map_options = GMapOptions(lat=30, lng=0,scale_control = True, map_type="roadmap", zoom=2)
 
@@ -58,16 +48,16 @@ map_options = GMapOptions(lat=30, lng=0,scale_control = True, map_type="roadmap"
 #     https://developers.google.com/maps/documentation/javascript/get-api-key
 #
 # Replace the value below with your personal API key:
-p = gmap(#apikeyhere, map_options, title="World_map",tools="pan, wheel_zoom" , width = 1000)
+p = gmap('AIzaSyCXE3YRVP5_y9wCbX-NT2nY82URnJ1U0jE', map_options, title="World_map",tools="pan, wheel_zoom" , width = 1000)
 
 source = ColumnDataSource(
     data=dict(lat= lats_1,
               lon= lngs_1))
 
 source1 = ColumnDataSource(
-    data=dict(lat1= lats,
-              lon1= lngs))
+    data=dict(lat1= lat_1000_2017,
+              lon1= lng_1000_2017 ))
 
-p.circle(x="lon", y="lat", size=4, fill_color="blue", fill_alpha=0.2, source=source)
-p.circle(x="lon1", y="lat1", size=4, fill_color="red", fill_alpha= 1, source=source1)
+p.circle(x="lon", y="lat", size=4, fill_color="red", fill_alpha=0.2, source=source)
+p.circle(x="lon1", y="lat1", size=4, fill_color="#9be564", fill_alpha= 1, source=source1)
 show(p)
