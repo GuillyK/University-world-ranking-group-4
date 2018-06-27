@@ -1,5 +1,5 @@
 ######################################################################################
-#searches for missing values and fill them in with a givne value
+# searches for missing values and fills them in with a given value
 
 ######################################################################################
 import csv
@@ -8,9 +8,6 @@ import numpy
 import math
 
 data = pd.read_csv("../DATA/ranking_with_country_2018.csv")
-
-# for ratio in data['ratio']:
-#     print(ratio)
 
 with open("../DATA/ranking_with_country_2018.csv") as out:
     counter = 0
