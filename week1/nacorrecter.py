@@ -1,8 +1,7 @@
 ######################################################################################
-#??
+#checks for empty values and replaces them with nan so its easier to process
 
 ######################################################################################
-
 import googlemaps
 
 import csv
