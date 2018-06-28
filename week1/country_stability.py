@@ -24,6 +24,7 @@ data2 = pd.read_csv("../DATA/ranking_with_country_2018.csv")
 countrylist = []
 deviationlist = []
 meancountrylist = []
+topdeviation = 0
 
 for country in data['country']:
     if country not in countrylist:
@@ -33,19 +34,21 @@ for country in data['country']:
         meancountryscore2017 = meanscorer(country, data1)
         meancountryscore2018 = meanscorer(country, data2)
         meanlist = [meancountryscore2016] + [meancountryscore2017] + [meancountryscore2018]
-        print(country, '2016 =' ,meancountryscore2016)
-        print(country, '2017 =' ,meancountryscore2017)
-        print(country, '2018 =' ,meancountryscore2018)
         meancountryoverall = pd.Series(meanlist)
         meancountry = meancountryoverall.mean()
         meancountrylist = meancountrylist + [meancountry]
         deviationoverall = meancountryoverall.std()
         deviationlist = deviationlist + [deviationoverall]
-        print("overall deviation for", country, ' = ', deviationoverall)
+        if deviationoverall > topdeviation:
+            topdeviation = deviationoverall
+            print(country, '2016 =' ,meancountryscore2016)
+            print(country, '2017 =' ,meancountryscore2017)
+            print(country, '2018 =' ,meancountryscore2018)
+            print("overall deviation for", country, ' = ', deviationoverall)
 
     #print(studentsperstaff)
-plt.scatter(meancountrylist, deviationlist )
-plt.show()
+#plt.scatter(meancountrylist, deviationlist )
+#plt.show()
 
-print(meancountrylist)
-print(deviationlist)
+#print(meancountrylist)
+#print(deviationlist)
