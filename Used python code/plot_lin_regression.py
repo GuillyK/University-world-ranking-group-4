@@ -1,5 +1,5 @@
 ######################################################################################
-#maker of scatter plot of 2 dataset with a trendline and a calculated mean mean_squared_error
+# maker of scatter plot of 2 dataset with a trendline and a calculated mean mean_squared_error
 
 ######################################################################################
 

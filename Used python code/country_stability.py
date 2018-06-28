@@ -1,5 +1,5 @@
 ######################################################################################
-#calculates average score of a country for every year and the deviation between these
+# calculates average score of a country for every year and the deviation between these
 # calculates deviation per country and plots it against the overall scores as a scatter plot
 # with a trend line in it.
 

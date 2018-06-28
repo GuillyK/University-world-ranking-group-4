@@ -1,5 +1,5 @@
 ######################################################################################
-#plots map with bokeh and googlemaps api using cordinates we scraped
+# plots map with bokeh and googlemaps api using cordinates we scraped
 
 ######################################################################################
 

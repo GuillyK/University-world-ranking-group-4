@@ -1,6 +1,6 @@
 ######################################################################################
-#calculates average score per continent through the 3 years and visualizes and saves it
-#using bokeh output_file and a bokeh bar chart
+# calculates average score per continent through the 3 years and visualizes and saves it
+# using bokeh output_file and a bokeh bar chart
 
 ######################################################################################
 

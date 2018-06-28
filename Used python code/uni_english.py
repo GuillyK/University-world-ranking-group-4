@@ -1,6 +1,6 @@
 ######################################################################################
-#checks if a university is in a country where english is spoken and adds this information
-#to our csv
+# checks if a university is in a country where english is spoken and adds this information
+# to our csv
 
 ######################################################################################
 

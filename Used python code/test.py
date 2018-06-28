@@ -1,7 +1,7 @@
 ######################################################################################
-#calculates amount of universities in off a country that are in the timeshighereducation
-#top 1000
-#calculates percentage top1000 universities per country aswell
+# calculates amount of universities in off a country that are in the timeshighereducation
+# top 1000
+# calculates percentage top1000 universities per country aswell
 
 ######################################################################################
 

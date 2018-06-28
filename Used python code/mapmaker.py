@@ -1,5 +1,5 @@
 ######################################################################################
-#able to fetch coordinates based on name of a university and plots these on a map using
+# able to fetch coordinates based on name of a university and plots these on a map using
 # gmaps libary
 
 ######################################################################################

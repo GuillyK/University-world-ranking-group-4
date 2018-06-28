@@ -1,6 +1,6 @@
 ######################################################################################
-#adds an extra columm to the csv called continent_int witch gives each continent a index
-#this code isnt in final product
+# adds an extra columm to the csv called continent_int witch gives each continent a index
+# this code isnt in final product
 ######################################################################################
 import csv
 import pandas as pd

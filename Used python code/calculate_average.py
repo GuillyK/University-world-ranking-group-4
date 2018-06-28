@@ -1,5 +1,5 @@
 ######################################################################################
-#calculates average when given a csv and a columm of wich you want to know the average.
+# calculates average when given a csv and a columm of wich you want to know the average.
 
 ######################################################################################
 import csv

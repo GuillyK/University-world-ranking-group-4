@@ -1,5 +1,5 @@
 ######################################################################################
-#scrapes a table of a website by dynamicly loading it and then converting it to a csvfile
+# scrapes a table of a website by dynamicly loading it and then converting it to a csvfile
 
 ######################################################################################
 

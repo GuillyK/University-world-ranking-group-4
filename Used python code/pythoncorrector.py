@@ -1,6 +1,6 @@
 ######################################################################################
-#preproccessing of names.
-#splits name and country so country could be in its own columm
+# preproccessing of names.
+# splits name and country so country could be in its own columm
 
 ######################################################################################
 

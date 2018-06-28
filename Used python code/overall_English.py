@@ -1,3 +1,8 @@
+######################################################################################
+# Makes the vbar graph for the average score of english universities versus non-english
+
+######################################################################################
+
 from bokeh.core.properties import value
 from bokeh.io import show, output_file
 from bokeh.models import ColumnDataSource
