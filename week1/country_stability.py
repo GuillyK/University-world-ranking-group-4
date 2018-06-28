@@ -50,5 +50,5 @@ for country in data['country']:
 #plt.scatter(meancountrylist, deviationlist )
 #plt.show()
 
-#print(meancountrylist)
-#print(deviationlist)
+print(meancountrylist)
+print(deviationlist)

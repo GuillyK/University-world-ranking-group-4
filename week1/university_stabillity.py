@@ -53,5 +53,5 @@ for university in data['name']:
 #plt.scatter(meancountrylist, deviationlist )
 #plt.show()
 
-#print(meancountrylist, '\n')
-#print(deviationlist)
+print(meancountrylist, '\n')
+print(deviationlist)
