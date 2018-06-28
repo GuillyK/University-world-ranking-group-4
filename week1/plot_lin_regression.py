@@ -16,7 +16,7 @@ from sklearn.metrics import mean_squared_error
 from sklearn.linear_model import LinearRegression
 
 
-#output_file("meancountryXdeviation.html")
+output_file("meancontinentXdeviation.html")
 
 data = pd.read_csv("../DATA/ranking_with_country_2018.csv")
 nan = 1.8
